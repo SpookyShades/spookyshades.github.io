@@ -1,4 +1,4 @@
-# ATS // West Balkans
+# ETS2 // West Balkans
 *Note: With version 1.48.5, West Balkans has been officially released and as such no further updates will take place.*
 <a href="README.md" target="_blank">Return to Main Page →</a>
 ## Table of Contents
