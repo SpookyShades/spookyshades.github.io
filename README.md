@@ -25,10 +25,10 @@
 - [West Balkans](#west-balkans)
 
 ### ATS Mileage Targets
-<a href="ats-mileage-targets.md" target="_blank">View ATS Mileage Targets →</a>
+<a href="ats-mileage-targets.html" target="_blank">View ATS Mileage Targets →</a>
 
 ### ETS2 Mileage Targets
-<a href="ets2-mileage-targets.md" target="_blank">View ETS2 Mileage Targets →</a>
+<a href="ets2-mileage-targets.html" target="_blank">View ETS2 Mileage Targets →</a>
 
 ## Maps // American Truck Simulator
 ### ATS Full Map
@@ -37,46 +37,58 @@
 ### Illinois
 *Valid for version 1.57* • <a href="illinois.html" target="_blank">Previous Versions →</a>
 
-  <img width="2093" height="3488" alt="1 57 IL" src="https://github.com/user-attachments/assets/434549dd-5a88-4bd7-8d94-224f377745e6" />
+  <img alt="1.57 IL" 
+     src="https://github.com/user-attachments/assets/434549dd-5a88-4bd7-8d94-224f377745e6"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
   
 ### Louisiana
 *Valid for version 1.57* • <a href="louisiana.html" target="_blank">Previous Versions →</a>
 
-  <img width="3142" height="2790" alt="1 57 LA" src="https://github.com/user-attachments/assets/e608b0d1-9f77-472c-bf02-d45daad9e619" />
+  <img alt="1.57 LA" 
+     src="https://github.com/user-attachments/assets/e608b0d1-9f77-472c-bf02-d45daad9e619"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### South Dakota
 *Valid for versions 1.56 - 1.57*
 
-  <img width="3840" height="2441" alt="1 57 SD" src="https://github.com/user-attachments/assets/b9493339-cf4a-4d78-9ec2-a2bf4e549332" />
+<img alt="1.57 SD" 
+     src="https://github.com/user-attachments/assets/b9493339-cf4a-4d78-9ec2-a2bf4e549332"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### Arkansas
-*This map is archived.* • <a href="arkansas.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="arkansas.html" target="_blank">Previous Versions →</a>
 
 ### Iowa
-*This map is archived.* • <a href="iowa.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="iowa.html" target="_blank">Previous Versions →</a>
 
 ### Kansas
-*This map is archived.* • <a href="kansas.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="kansas.html" target="_blank">Previous Versions →</a>
 
 ### Missouri
-*This map is archived.* • <a href="missouri.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="missouri.html" target="_blank">Previous Versions →</a>
 
 ### Nebraska
-*This map is archived.* • <a href="nebraska.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="nebraska.html" target="_blank">Previous Versions →</a>
 
 ### Oklahoma
-*This map is archived.* • <a href="oklahoma.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="oklahoma.html" target="_blank">Previous Versions →</a>
 
 ## Maps // Euro Truck Simulator 2
 ### Greece
-*This map is archived.* • <a href="greece.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="greece.html" target="_blank">Previous Versions →</a>
 
 ### Heart of Russia
-*This map is archived.* • <a href="heart-of-russia.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="heart-of-russia.html" target="_blank">Previous Versions →</a>
 
 ### Nordic Horizons
-*This map is archived.* • <a href="nordic-horizons.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="nordic-horizons.html" target="_blank">Previous Versions →</a>
 
 ### West Balkans
 
-*This map is archived.* • <a href="west-balkans.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="west-balkans.html" target="_blank">Previous Versions →</a>
+
+## ATS Mileage Targets
+<a href="ats-mileage-targets.html" target="_blank">View ATS Mileage Targets →</a>
+
+## ETS2 Mileage Targets
+<a href="ets2-mileage-targets.html" target="_blank">View ETS2 Mileage Targets →</a>
