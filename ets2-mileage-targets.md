@@ -794,8 +794,6 @@ ________________________________________________________________________________
 [Return to Table of Contents →](#table-of-contents)
 | Target       | Version | Patch | Code         |
 |--------------|---------|-------|--------------|
-| Border E10   | 1.56    | 0.57  | no_bordere10 |
-| Svinesund    | 1.47    |       | no_svinesund |
 | Ängelholm    | 1.56    | 0.57  | se_angelholm |
 | Arboga       | 1.56    | 0.57  | se_arboga    |
 | Arvidsjaur   | 1.56    | 0.57  | se_ardvidsja |
@@ -856,6 +854,7 @@ ________________________________________________________________________________
 | Strömsund    | 1.56    | 0.57  | se_stromsund |
 | Sundsvall    | 1.47    |       | se_sundsvall |
 | Sveg         | 1.56    | 0.57  | se_sveg      |
+| Svinesund    | 1.47    |       | no_svinesund |
 | Torsby       | 1.56    | 0.57  | se_torsby    |
 | Trelleborg   | 1.47    |       | se_trellebor |
 | Uddevalla    | 1.47    |       | se_uddevalla |
@@ -870,6 +869,7 @@ ________________________________________________________________________________
 | Växjö        | 1.47    |       | se_vaxjo     |
 | Vittangi     |🔥 1.57    | 0.47  | se_vittangi  |
 | Ystad        | 1.56    | 0.57  | se_ystad     |
+| Border E10   | 1.56    | 0.57  | no_bordere10 |
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Switzerland Mileage Targets
