@@ -56,7 +56,7 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### Arkansas
-*This map is archived.* • <a href="arkansas.md" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="/arkansas" target="_blank">Previous Versions →</a>
 
 ### Iowa
 *This map is archived.* • <a href="iowa.md" target="_blank">Previous Versions →</a>
