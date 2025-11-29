@@ -12,7 +12,7 @@
 <img width="7681" height="9421" alt="1 54 IALAILSD" src="https://github.com/user-attachments/assets/5a59d75c-a0ff-4469-8672-bc8c9b8dbc94" />
 
 ### 1.53
-*Note: At the time, Louisiana was paired with Louisiana and Missouri.*
+*Note: At the time, Iowa was paired with Louisiana and Missouri.*
 
 <img width="5587" height="9072" alt="1 53 MOIALA" src="https://github.com/user-attachments/assets/c7ad790b-c000-4670-87ea-c5fe2b5f4d23" />
 
