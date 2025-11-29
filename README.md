@@ -16,6 +16,12 @@ ATS Maps: Archived
 - [Nebraska](#nebraska)
 - [Oklahoma](#oklahoma)
 
+ETS2 Maps: Archived
+- [Greece](#greece)
+- [Heart of Russia](#heart-of-russia)
+- [Nordic Horizons](#nordic-horizons)
+- [West Balkans](#west-balkans)
+
 ## Maps // American Truck Simulator
 ### ATS Full Map
 
@@ -52,3 +58,16 @@ ATS Maps: Archived
 
 ### Oklahoma
 *This map is archived.* • <a href="oklahoma.md" target="_blank">Previous Versions →</a>
+
+## Maps // Euro Truck Simulator 2
+### Greece
+*This map is archived.* • <a href="greece.md" target="_blank">Previous Versions →</a>
+
+### Heart of Russia
+*This map is archived.* • <a href="heart-of-russia.md" target="_blank">Previous Versions →</a>
+
+### Nordic Horizons
+*This map is archived.* • <a href="nordic-horizons.md" target="_blank">Previous Versions →</a>
+
+### West Balkans
+*This map is archived.* • <a href="west-balkans.md" target="_blank">Previous Versions →</a>
