@@ -1,10 +1,10 @@
 ```
 
 layout: page
-title: Your Page Title Here
+title: Arkansas Map
 # ATS // Arkansas
 *Note: With version 1.51, Arkansas has been officially released and as such no further updates will take place.*
-<a href="README.md" target="_blank">Return to Main Page →</a>
+<a href="/" target="_blank">Return to Main Page →</a>
 ## Table of Contents
 - [1.51](#151)
 - [1.50](#150)
