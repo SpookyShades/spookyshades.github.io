@@ -1,11 +1,25 @@
 # Spooks' ATS/ETS2 Repository
+*Updated for 1.57*
+
 ## Table of Contents
-ATS Maps
-- [Illinois (1.57)](#illinois)
-- [Louisiana (1.57)](#louisiana)
-- [South Dakota (1.57)](#south-dakota)
-- [ATS Full Map](#ATS-full-map)
+ATS Maps: Active
+- [ATS Full Map](#ats-full-map)
+- [Illinois](#illinois)
+- [Louisiana](#louisiana)
+- [South Dakota](#south-dakota)
+
+ATS Maps: Archived
+- [Arkansas](#arkansas)
+- [Iowa](#iowa)
+- [Kansas](#kansas)
+- [Missouri](#missouri)
+- [Nebraska](#nebraska)
+- [Oklahoma](#oklahoma)
+
 ## Maps // American Truck Simulator
+### ATS Full Map
+
+  [ATS Full Map](https://i.postimg.cc/GrTQvbhR/Full-Map.png)
 ### Illinois
 *Valid for version 1.57* • <a href="illinois.md" target="_blank">Previous Versions →</a>
 
@@ -21,6 +35,20 @@ ATS Maps
 
   <img width="3840" height="2441" alt="1 57 SD" src="https://github.com/user-attachments/assets/b9493339-cf4a-4d78-9ec2-a2bf4e549332" />
 
-### ATS Full Map
+### Arkansas
+*This map is archived.* • <a href="arkansas.md" target="_blank">Previous Versions →</a>
 
-  [ATS Full Map](https://i.postimg.cc/GrTQvbhR/Full-Map.png)
+### Iowa
+*This map is archived.* • <a href="iowa.md" target="_blank">Previous Versions →</a>
+
+### Kansas
+*This map is archived.* • <a href="kansas.md" target="_blank">Previous Versions →</a>
+
+### Missouri
+*This map is archived.* • <a href="missouri.md" target="_blank">Previous Versions →</a>
+
+### Nebraska
+*This map is archived.* • <a href="nebraska.md" target="_blank">Previous Versions →</a>
+
+### Oklahoma
+*This map is archived.* • <a href="oklahoma.md" target="_blank">Previous Versions →</a>
