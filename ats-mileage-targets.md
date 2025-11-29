@@ -1,8 +1,13 @@
+---
+layout: page
+title: ATS Mileage Targets
+---
+
 # ATS Mileage Targets
 *Updated as of 1.57*
 - Mileage targets are the map editor's tool to automatically calculate the distances from a road sign to the city/location in question. Almost always, these targets are present in-game in some form, however accessible. Rare exceptions like Ashland, KS (ATS), or Å i Lofoten, NO (ETS2) may exist. These include scenic cities, junctions, and borders, rather than just exclusively deliverable cities.
 
-<a href="README.md" target="_blank">Return to Main Page →</a>
+<a href="{{ site.baseurl }}/" target="_blank">Return to Main Page →</a>
 ## Table of Contents
 Updated this version (1.57) 🔥
 
