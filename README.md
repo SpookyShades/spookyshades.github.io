@@ -25,7 +25,7 @@
 - [West Balkans](#west-balkans)
 
 ### ATS Mileage Targets
-<a href="ats-mileage-targets.md" target="_blank">View ATS Mileage Targets →</a>
+<a href="{{ site.baseurl }}/ats-mileage-targets" target="_blank">View ATS Mileage Targets →</a>
 
 ### ETS2 Mileage Targets
 <a href="ets2-mileage-targets.md" target="_blank">View ETS2 Mileage Targets →</a>
@@ -88,7 +88,7 @@
 *This map is archived.* • <a href="west-balkans.md" target="_blank">Previous Versions →</a>
 
 ## ATS Mileage Targets
-<a href="ats-mileage-targets.md" target="_blank">View ATS Mileage Targets →</a>
+<a href="{{ site.baseurl }}/ats-mileage-targets" target="_blank">View ATS Mileage Targets →</a>
 
 ## ETS2 Mileage Targets
 <a href="ets2-mileage-targets.md" target="_blank">View ETS2 Mileage Targets →</a>
