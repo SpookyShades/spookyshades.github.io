@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Arkansas Map
-permalink: /arkansas
 ---
 # ATS // Arkansas
 *Note: With version 1.51, Arkansas has been officially released and as such no further updates will take place.*
