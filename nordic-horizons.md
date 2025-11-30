@@ -9,7 +9,9 @@ title: Nordic Horizons Map
 ## Table of Contents
 - [1.57](#157)
 - [Initial](#initial)
+
 ## Maps
+
 ### 1.57
 
 <img alt="1.57 NH" 
