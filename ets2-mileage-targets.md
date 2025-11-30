@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arkansas Map
+title: ETS2 Mileage Targets
 ---
 
 # ETS2 Mileage Targets
