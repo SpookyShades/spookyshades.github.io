@@ -10,7 +10,9 @@ title: Kansas Map
 - [1.49](#149)
 - [1.48](#148)
 - [1.47](#147)
+
 ## Maps
+
 ### 1.49
 *Note: At the time, Kansas was paired with Nebraska.*
 
