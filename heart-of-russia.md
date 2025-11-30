@@ -8,7 +8,9 @@ title: Heart of Russia Map
 <a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [Initial](#initial)
+
 ## Maps
+
 ### Initial
 
 <img alt="HoR Map" 
