@@ -1,6 +1,11 @@
+---
+layout: default
+title: Nordic Horizons Map
+---
+
 # ETS2 // Nordic Horizons
 *Note: With version 1.57, Nordic Horizons has been officially released and as such no further updates will take place.*
-<a href="README.md" target="_blank">Return to Main Page →</a>
+<a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.57](#157)
 - [Initial](#initial)
