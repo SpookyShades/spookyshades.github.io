@@ -10,7 +10,9 @@ title: Missouri Map
 - [1.53](#153)
 - [1.51](#151)
 - [1.50](#150)
+
 ## Maps
+
 ### 1.53
 *Note: At the time, Missouri was paired with Iowa and Louisiana.*
 
