@@ -25,10 +25,10 @@
 - [West Balkans](#west-balkans)
 
 ### ATS Mileage Targets
-<a href="{{ site.baseurl }}/ats-mileage-targets" target="_blank">View ATS Mileage Targets →</a>
+<a href="{{ site.baseurl }}/ats-mileage-targets">View ATS Mileage Targets →</a>
 
 ### ETS2 Mileage Targets
-<a href="ets2-mileage-targets.md" target="_blank">View ETS2 Mileage Targets →</a>
+<a href="ets2-mileage-targets.md">View ETS2 Mileage Targets →</a>
 
 ## Maps // American Truck Simulator
 ### ATS Full Map
@@ -56,7 +56,7 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### Arkansas
-*This map is archived.* • <a href="{{ site.baseurl }}/arkansas" target="_blank">Previous Versions →</a>
+*This map is archived.* • <a href="{{ site.baseurl }}/arkansas">Previous Versions →</a>
 
 ### Iowa
 *This map is archived.* • <a href="iowa.md" target="_blank">Previous Versions →</a>
