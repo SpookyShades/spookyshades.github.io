@@ -9,7 +9,9 @@ title: Nebraska Map
 ## Table of Contents
 - [1.50](#150)
 - [1.49](#149)
+
 ## Maps
+
 ### 1.50
 
 <img alt="1.50 NE" 
