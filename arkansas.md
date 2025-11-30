@@ -10,7 +10,9 @@ title: Arkansas Map
 ## Table of Contents
 - [1.51](#151)
 - [1.50](#150)
+
 ## Maps
+
 ### 1.51
 *Note: At the time, Arkansas was paired with Iowa, Louisiana, and Missouri.*
 
