@@ -5,6 +5,7 @@ title: Kansas Map
 
 # ATS // Kansas
 *Note: With version 1.49, Kansas has been officially released and as such no further updates will take place.*
+
 <a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.49](#149)
@@ -28,7 +29,7 @@ title: Kansas Map
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### 1.47
-*Note: At the time, Kansas was paired with Oklahoma and the Texas 2.0 content.
+*Note: At the time, Kansas was paired with Oklahoma and the Texas 2.0 content.*
 
 <img alt="1.47 KS" 
      src="https://github.com/user-attachments/assets/66adc75f-a45f-4a12-ad16-25c23d328fb0"
