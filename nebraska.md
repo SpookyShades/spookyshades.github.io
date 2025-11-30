@@ -5,6 +5,7 @@ title: Nebraska Map
 
 # ATS // Nebraska
 *Note: With version 1.50, Nebraska has been officially released and as such no further updates will take place.*
+
 <a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.50](#150)
