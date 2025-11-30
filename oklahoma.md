@@ -9,7 +9,9 @@ title: Oklahoma Map
 ## Table of Contents
 - [1.48](#148)
 - [1.47](#147)
+
 ## Maps
+
 ### 1.48
 *Note: At the time, Oklahoma was paired with Kansas.*
 
