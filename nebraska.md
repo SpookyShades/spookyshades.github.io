@@ -1,6 +1,11 @@
+---
+layout: default
+title: Nebraska Map
+---
+
 # ATS // Nebraska
 *Note: With version 1.50, Nebraska has been officially released and as such no further updates will take place.*
-<a href="README.md" target="_blank">Return to Main Page →</a>
+<a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.50](#150)
 - [1.49](#149)
