@@ -1,34 +1,78 @@
 <style>
-.markdown-body {
-  max-width: 800px;
-  margin: 0 auto; 
-  padding: 0 16px;
-}
-.markdown-body table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1em 0;
-  border: 1px solid #ddd;
-}
-.markdown-body th, .markdown-body td {
-  border: 1px solid #ddd;
-  padding: 0.5em;
-  text-align: left;
-}
-.markdown-body {
-  width: 100%;
-  max-width: 860px; 
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20px;
-  padding-right: 20px;
-  box-sizing: border-box;
-}
-.markdown-body img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+  .markdown-body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+
+  .markdown-body table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    border: 1px solid #ddd;
+    font-size: 0.95em;
+  }
+
+  .markdown-body th,
+  .markdown-body td {
+    border: 1px solid #ddd;
+    padding: 0.6em 0.8em;
+    text-align: left;
+  }
+
+  /* Nice, non-intrusive header that fits Jekyll’s usual aesthetic */
+  .markdown-body th {
+    background-color: #e6f3e6;     /* very soft green */
+    /* alternative soft blue: #e6f0fa; */
+    font-weight: 600;
+    color: #2d672d;                /* darker green text for contrast */
+    /* for blue version: color: #1e4976; */
+  }
+
+  /* Highlight the current/latest version row with a gentle gold */
+  .markdown-body tr.highlight-latest td {
+    background-color: #fff8e6 !important;  /* very soft gold/cream */
+    border-top: 2px solid #f0c14b;
+    border-bottom: 2px solid #f0c14b;
+    font-weight: 500;
+  }
+
+  /* Optional: subtle hover effect on all rows */
+  .markdown-body tr:hover td {
+    background-color: #f9f9f9;
+  }
+  .markdown-body tr.highlight-latest:hover td {
+    background-color: #fff4d6 !important;
+  }
+
+  .markdown-body img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+  }
 </style>
+
+<!-- This script automatically adds the "highlight-latest" class to the row 
+     whose second column (index 1) contains the current version number.
+     Just change the value of latestVersion below whenever you release a new version. -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const latestVersion = "1.57";   // ← UPDATE THIS WHEN YOU RELEASE A NEW VERSION
+
+    const tables = document.querySelectorAll(".markdown-body table");
+    tables.forEach(table => {
+      const rows = table.querySelectorAll("tr");
+      rows.forEach(row => {
+        const cells = row.querySelectorAll("td, th");
+        if (cells.length > 1) {
+          const versionCell = cells[1].textContent.trim();
+          // Handle possible whitespace or Markdown pipe characters
+          if (versionCell === latestVersion || versionCell.startsWith(latestVersion + " ") || versionCell.includes("|" + latestVersion)) {
+            row.classList.add("highlight-latest");
+          }
+        }
+      });
+    });
+  });
+</script>
