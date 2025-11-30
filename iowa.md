@@ -10,7 +10,9 @@ title: Iowa Map
 - [1.54](#154)
 - [1.53](#153)
 - [1.51](#151)
+
 ## Maps
+
 ### 1.54
 *Note: At the time, Iowa was paired with Illinois, Louisiana, and South Dakota.*
 
