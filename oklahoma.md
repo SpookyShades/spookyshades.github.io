@@ -1,6 +1,11 @@
+---
+layout: default
+title: Oklahoma Map
+---
+
 # ATS // Oklahoma
 *Note: With version 1.48, Oklahoma has been officially released and as such no further updates will take place.*
-<a href="README.md" target="_blank">Return to Main Page →</a>
+<a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.48](#148)
 - [1.47](#147)
