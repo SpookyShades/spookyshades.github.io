@@ -8,41 +8,39 @@
   .markdown-body table {
     width: 100%;
     border-collapse: collapse;
-    margin: 1em 0;
+    margin: 1.5em 0;
     border: 1px solid #ddd;
-    font-size: 0.95em;
   }
 
   .markdown-body th,
   .markdown-body td {
     border: 1px solid #ddd;
-    padding: 0.6em 0.8em;
+    padding: 0.6em 0.9em;
     text-align: left;
   }
 
-  /* Nice, non-intrusive header that fits Jekyll’s usual aesthetic */
+  /* Soft green header that matches Jekyll’s general vibe */
   .markdown-body th {
-    background-color: #e6f3e6;     /* very soft green */
-    /* alternative soft blue: #e6f0fa; */
+    background-color: #e8f5e8;
+    color: #2d6a2d;
     font-weight: 600;
-    color: #2d672d;                /* darker green text for contrast */
-    /* for blue version: color: #1e4976; */
   }
 
-  /* Highlight the current/latest version row with a gentle gold */
-  .markdown-body tr.highlight-latest td {
-    background-color: #fff8e6 !important;  /* very soft gold/cream */
-    border-top: 2px solid #f0c14b;
-    border-bottom: 2px solid #f0c14b;
+  /* Gentle gold highlight for the current version (1.57) */
+  /* This selector matches any <td> that contains "1.57" in the Version column */
+  .markdown-body td:nth-child(2):has-text("1.57") {
+    background-color: #fff8e1 !important;
     font-weight: 500;
   }
 
-  /* Optional: subtle hover effect on all rows */
-  .markdown-body tr:hover td {
-    background-color: #f9f9f9;
+  /* Apply the highlight to the entire row when the 2nd cell contains 1.57 */
+  .markdown-body tr:has(td:nth-child(2):has-text("1.57")) td {
+    background-color: #fff8e1 !important;
   }
-  .markdown-body tr.highlight-latest:hover td {
-    background-color: #fff4d6 !important;
+
+  /* Optional: slightly darker gold on hover */
+  .markdown-body tr:has(td:nth-child(2):has-text("1.57")):hover td {
+    background-color: #fff4d0 !important;
   }
 
   .markdown-body img {
@@ -52,27 +50,3 @@
     margin: 1em auto;
   }
 </style>
-
-<!-- This script automatically adds the "highlight-latest" class to the row 
-     whose second column (index 1) contains the current version number.
-     Just change the value of latestVersion below whenever you release a new version. -->
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const latestVersion = "1.57";   // ← UPDATE THIS WHEN YOU RELEASE A NEW VERSION
-
-    const tables = document.querySelectorAll(".markdown-body table");
-    tables.forEach(table => {
-      const rows = table.querySelectorAll("tr");
-      rows.forEach(row => {
-        const cells = row.querySelectorAll("td, th");
-        if (cells.length > 1) {
-          const versionCell = cells[1].textContent.trim();
-          // Handle possible whitespace or Markdown pipe characters
-          if (versionCell === latestVersion || versionCell.startsWith(latestVersion + " ") || versionCell.includes("|" + latestVersion)) {
-            row.classList.add("highlight-latest");
-          }
-        }
-      });
-    });
-  });
-</script>
