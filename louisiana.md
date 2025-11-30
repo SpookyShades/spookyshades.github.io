@@ -4,6 +4,7 @@ title: Louisiana Map
 ---
 
 # ATS // Louisiana
+
 <a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.57](#157)
@@ -28,7 +29,7 @@ title: Louisiana Map
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### 1.54
-*Note: At the time, Louisiana was paired with Iowa, Illinois, and South Dakota*
+*Note: At the time, Louisiana was paired with Iowa, Illinois, and South Dakota.*
 
 <img alt="1.54 LA" 
      src="https://github.com/user-attachments/assets/8661ab2e-d37d-479d-96dd-00426b7dc99c"
@@ -47,7 +48,7 @@ title: Louisiana Map
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### 1.50
-*Note: At the time, Louisiana was paried with Arkansas and Missouri*
+*Note: At the time, Louisiana was paried with Arkansas and Missouri.*
 
 <img alt="1.50 LA" 
      src="https://github.com/user-attachments/assets/6830ec43-5615-4daf-aaa0-ad246740356d"
