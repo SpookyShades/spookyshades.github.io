@@ -1,23 +1,7 @@
 <style>
-  .markdown-body {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 16px;
-  }
-
-  .markdown-body table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1.5em 0;
-    border: 1px solid #ddd;
-  }
-
-  .markdown-body th,
-  .markdown-body td {
-    border: 1px solid #ddd;
-    padding: 0.6em 0.9em;
-    text-align: left;
-  }
+  .markdown-body { max-width: 800px; margin: 0 auto; padding: 0 16px; }
+  .markdown-body table { width: 100%; border-collapse: collapse; margin: 1.5em 0; border: 1px solid #ddd; }
+  .markdown-body th, .markdown-body td { border: 1px solid #ddd; padding: 0.6em 0.9em; text-align: left; }
 
   .markdown-body th {
     background-color: #e8f5e8 !important;
@@ -25,36 +9,20 @@
     font-weight: 600;
   }
 
-  .markdown-body tr.current-version td {
+  .markdown-body td:nth-child(2) {
+    position: relative;
+  }
+  .markdown-body td:nth-child(2)::after {
+    content: "1.57";  /* change this when a new version releases!! */
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .markdown-body tr:has(td:nth-child(2)::after) td {
     background-color: #fff8e1 !important;
   }
-
-  .markdown-body tr.current-version:hover td {
+  .markdown-body tr:has(td:nth-child(2)::after):hover td {
     background-color: #fff4d0 !important;
   }
-
-  .markdown-body img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 1em auto;
-  }
 </style>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const CURRENT_VERSION = "1.57";   // ← Change this for new game versions
-
-    document.querySelectorAll(".markdown-body table").forEach(table => {
-      table.querySelectorAll("tr").forEach(row => {
-        const cells = row.cells;
-        if (cells.length >= 2) {
-          const versionText = cells[1].textContent.trim();
-          if (versionText === CURRENT_VERSION || versionText.startsWith(CURRENT_VERSION + " ")) {
-            row.classList.add("current-version");
-          }
-        }
-      });
-    });
-  });
-</script>
