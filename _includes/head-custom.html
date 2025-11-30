@@ -19,27 +19,17 @@
     text-align: left;
   }
 
-  /* Soft green header that matches Jekyll’s general vibe */
   .markdown-body th {
-    background-color: #e8f5e8;
+    background-color: #e8f5e8 !important;
     color: #2d6a2d;
     font-weight: 600;
   }
 
-  /* Gentle gold highlight for the current version (1.57) */
-  /* This selector matches any <td> that contains "1.57" in the Version column */
-  .markdown-body td:nth-child(2):has-text("1.57") {
-    background-color: #fff8e1 !important;
-    font-weight: 500;
-  }
-
-  /* Apply the highlight to the entire row when the 2nd cell contains 1.57 */
-  .markdown-body tr:has(td:nth-child(2):has-text("1.57")) td {
+  .markdown-body tr.current-version td {
     background-color: #fff8e1 !important;
   }
 
-  /* Optional: slightly darker gold on hover */
-  .markdown-body tr:has(td:nth-child(2):has-text("1.57")):hover td {
+  .markdown-body tr.current-version:hover td {
     background-color: #fff4d0 !important;
   }
 
@@ -50,3 +40,21 @@
     margin: 1em auto;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const CURRENT_VERSION = "1.57";   // ← Change this for new game versions
+
+    document.querySelectorAll(".markdown-body table").forEach(table => {
+      table.querySelectorAll("tr").forEach(row => {
+        const cells = row.cells;
+        if (cells.length >= 2) {
+          const versionText = cells[1].textContent.trim();
+          if (versionText === CURRENT_VERSION || versionText.startsWith(CURRENT_VERSION + " ")) {
+            row.classList.add("current-version");
+          }
+        }
+      });
+    });
+  });
+</script>
