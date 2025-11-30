@@ -62,7 +62,7 @@ ________________________________________________________________________________
 | Target   | Version | Patch | Code         |
 |----------|---------|-------|--------------|
 | Antwerp  | 1.47    |       | be_antwerpen |
-| Arlon    | 1.57    | 0.47  | be_arlon     |
+| Arlon    |🔥 1.57    | 0.47  | be_arlon     |
 | Bruges   |🔥 1.57    | 0.47  | be_brugge    |
 | Brussels | 1.47    |       | be_brussel   |
 | Ghent    |🔥 1.57    | 0.47  | be_gent      |
@@ -916,16 +916,16 @@ ________________________________________________________________________________
 |-----------------|---------|-------|--------------|
 | Basel           | 1.47    |       | ch_basel     |
 | Bern            | 1.47    |       | ch_bern      |
-| San Bernardino  | 1.47    |       | ch_bernardin |
 | Chur            | 1.47    |       | ch_chur      |
+| Gd. St. Bernard | 1.47    |       | ch_stbernard |
 | Geneva          | 1.47    |       | ch_geneva    |
 | Gotthard        | 1.47    |       | ch_gotthard  |
 | Lausanne        | 1.47    |       | ch_lausanne  |
 | Lugano          | 1.47    |       | ch_lugano    |
 | Lucerne         | 1.47    |       | ch_luzern    |
-| St. Magarethen  | 1.47    |       | ch_magarethe |
 | Martigny        | 1.47    |       | ch_martigny  |
-| Gd. St. Bernard | 1.47    |       | ch_stbernard |
+| San Bernardino  | 1.47    |       | ch_bernardin |
+| St. Magarethen  | 1.47    |       | ch_magarethe |
 | Vevey           | 1.47    |       | ch_vevey     |
 | Winterthur      | 1.47    |       | ch_winterthu |
 | Zürich          | 1.47    |       | ch_zurich    |
