@@ -5,6 +5,7 @@ title: Heart of Russia Map
 
 # ETS2 // Heart of Russia
 *Note: As of February 2022, Heart of Russia has been put on pause. As there will be no further changes to this expansion, the map is left as is.*
+
 <a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [Initial](#initial)
