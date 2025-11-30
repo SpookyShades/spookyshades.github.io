@@ -62,7 +62,7 @@ ________________________________________________________________________________
 | Target   | Version | Patch | Code         |
 |----------|---------|-------|--------------|
 | Antwerp  | 1.47    |       | be_antwerpen |
-| Arlon    |🔥 1.57    | 0.47  | be_arlon     |
+| Arlon    | 1.57    | 0.47  | be_arlon     |
 | Bruges   |🔥 1.57    | 0.47  | be_brugge    |
 | Brussels | 1.47    |       | be_brussel   |
 | Ghent    |🔥 1.57    | 0.47  | be_gent      |
