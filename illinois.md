@@ -1,5 +1,10 @@
+---
+layout: default
+title: Illinois Map
+---
+
 # ATS // Illinois
-<a href="README.md" target="_blank">Return to Main Page →</a>
+<a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.57](#157)
 - [1.56](#156)
