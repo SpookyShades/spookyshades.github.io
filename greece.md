@@ -9,7 +9,9 @@ title: Greece Map
 ## Table of Contents
 - [1.53](#153)
 - [1.52](#152)
+
 ## Maps
+
 ### 1.53
 <img alt="1.53 GR" 
      src="https://github.com/user-attachments/assets/eba4b531-2d8f-4b57-8255-8a2b6043e2d5"
