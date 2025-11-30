@@ -5,6 +5,7 @@ title: West Balkans Map
 
 # ETS2 // West Balkans
 *Note: With version 1.48.5, West Balkans has been officially released and as such no further updates will take place.*
+
 <a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
 - [1.48.5](#1485)
