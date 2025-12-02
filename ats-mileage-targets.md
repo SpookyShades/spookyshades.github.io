@@ -11,7 +11,7 @@ title: ATS Mileage Targets
 ## Table of Contents
 Updated this version (1.57) 🔥
 
-- [Arizona](#arizona-mileage-targets), [Illinois](#illinois-mileage-targets), [Nevada](#nevada-mileage-targets), [New Mexico](#new-mexico-mileage-targets)
+- [Arizona](#arizona-mileage-targets), [Illinois](#illinois-mileage-targets), [Kentucky](#kentucky-mileage-targets), [Nevada](#nevada-mileage-targets), [New Mexico](#new-mexico-mileage-targets)
 
 No updates
 
@@ -608,6 +608,14 @@ ________________________________________________________________________________
 | US-69/US-400 N      | 1.49    | 0.44  | ks_us694002  |
 | US-75/US-400        | 1.49    | 0.44  | ks_us75x400  |
 | US-81/US-24         | 1.49    | 0.44  | ks_us81xus24 |
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+### Kentucky Mileage Targets
+[Return to Table of Contents →](#table-of-contents)
+
+| Target         | Version | Patch | Code         |
+|----------------|---------|-------|--------------|
+| Louisville     | 1.57    | 0.46  | ky_louisvill |
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Louisiana Mileage Targets
