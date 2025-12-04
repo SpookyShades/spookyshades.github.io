@@ -4,6 +4,7 @@ title: Louisiana Map
 ---
 
 # ATS // Louisiana
+*Note: With version 1.57, Louisiana has been officially released and as such no further updates will take place.*
 
 <a href="{{ site.baseurl }}/">Return to Main Page →</a>
 ## Table of Contents
