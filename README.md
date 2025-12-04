@@ -7,12 +7,12 @@
 ### ATS Maps: Active
 - [ATS Full Map](#ats-full-map)
 - [Illinois](#illinois)
-- [Louisiana](#louisiana)
 - [South Dakota](#south-dakota)
 
 ### ATS Maps: Archived
 - [Arkansas](#arkansas)
 - [Iowa](#iowa)
+- [Louisiana](#louisiana)
 - [Kansas](#kansas)
 - [Missouri](#missouri)
 - [Nebraska](#nebraska)
@@ -31,6 +31,8 @@
 <a href="{{ site.baseurl }}/ets2-mileage-targets">View ETS2 Mileage Targets →</a>
 
 ## Maps // American Truck Simulator
+*Note: Open the maps in a new tab to be able to zoom in!*
+
 ### ATS Full Map
 
   [ATS Full Map](https://i.postimg.cc/GrTQvbhR/Full-Map.png)
@@ -39,13 +41,6 @@
 
   <img alt="1.57 IL" 
      src="https://github.com/user-attachments/assets/434549dd-5a88-4bd7-8d94-224f377745e6"
-     style="max-width: 100%; height: auto; width: auto; display: block;">
-  
-### Louisiana
-*Valid for version 1.57* • <a href="{{ site.baseurl }}/louisiana">Previous Versions →</a>
-
-  <img alt="1.57 LA" 
-     src="https://github.com/user-attachments/assets/e608b0d1-9f77-472c-bf02-d45daad9e619"
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### South Dakota
@@ -60,6 +55,9 @@
 
 ### Iowa
 *This map is archived.* • <a href="{{ site.baseurl }}/iowa">Previous Versions →</a>
+
+### Louisiana
+*This map is archived.* • <a href="{{ site.baseurl }}/louisiana">Previous Versions →</a>
 
 ### Kansas
 *This map is archived.* • <a href="{{ site.baseurl }}/kansas">Previous Versions →</a>
