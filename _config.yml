@@ -3,4 +3,4 @@ plugins:
   - jekyll-remote-theme
 title: ATS/ETS2 Maps & Mileage Targets
 description: Maps created from available in-game sectors and mileage targets for upcoming map expansions.
-baseurl: ""
+baseurl: /spooks.github.io
