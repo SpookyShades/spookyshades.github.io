@@ -1,6 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
 title: ATS/ETS2 Maps & Mileage Targets
 description: Maps created from available in-game sectors and mileage targets for upcoming map expansions.
-baseurl: /spooks.github.io
+baseurl: ""
