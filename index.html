@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+   <meta name="description" content="">
+   <title></title>
+
+    <!-- themes -->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
+
+   <link rel="stylesheet" href="assets/css/map.css"> <!-- map -->
+   <link rel="stylesheet" href="assets/css/info.css"> <!-- info icon -->
+</head>
+
+<body>
+   <div id="app"></div>
+
+    <script>
+      // Docsify
+      window.$docsify = {
+        // general
+        name: "Spooks' TruckSim Map Repository",
+        homepage: 'README.md',
+        loadSidebar: 'sidebar.md',
+
+        // navigation
+        auto2top: true,
+        maxLevel: 3,
+        subMaxLevel: 3,
+
+      pagination: {
+        previousText: '← Previous',
+        nextText: 'Next →',
+        crossChapter: true,
+        crossChapterText: true
+    }
+      };
+    </script>
+    <script src="assets/js/main.js"></script>
+    
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+   <script src="assets/js/state-nav-data.js"></script>
+   <script src="assets/js/state-nav-plugin.js"></script>
+
+<!-- icons in corner -->
+<div id="bot-controls">
+  <button id="info-btn">ℹ</button>
+</div>
+
+<div id="info-panel" hidden>
+  <strong>Credits</strong><br>
+  Map data © SCS Software<br>
+  Site by Spooks<br>
+  Made with Docsify
+</div>
+
+<!-- update banner -->
+<div id="update-banner" hidden>
+  <span><strong>v1.57 Updates:</strong></span>
+  <a href="#/ats/arkansas">Arkansas</a>
+  <a href="#/ats/arizona">Arizona</a>
+  <a href="#/ats/illinois">Illinois</a>
+  <a href="#/ats/kentucky">Kentucky</a>
+  <a href="#/ats/mississippi">Mississippi</a>
+  <a href="#/ats/nevada">Nevada</a>
+  <a href="#/ats/newmexico">New Mexico</a>
+  <a href="#/ats/utah">Utah</a>
+  <span>|</span>
+  <a href="#/ets2/ets2base">Base Map ETS2 [Belgium, Germany, Netherlands]</a>
+  <a href="#/ets2/nordic-horizons">Nordic Horizons [Sweden]</a>
+  <a href="#/ets2/scandinavia">Scandinavia [Denmark]</a>
+</div>
+
+</body>
+</html>
