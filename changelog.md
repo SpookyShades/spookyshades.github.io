@@ -2,9 +2,17 @@
 <!-- https://tableconvert.com/excel-to-markdown -->
 <!--Mileage Markers 1.57: AR,AZ,IL,KY,NV,NM,UT //// BE,DE,NL,SE,DK-->
 
+## 1.0.1
+
+For ATS/ETS2 v<span style="color:orange;"><b>1.57</b></span>: 2026.1.21
+- Modified the way new mileage targets present on their various pages.
+- Fixed an issue where the mileage target <code>I-40 / NM-500</code> (New Mexico) was not properly marked for v1.57.
+- Fixed an issue where the mileage target <code>Halsskov</code> (Denmark) was not properly marked for v1.57.
+- Updated the [South Dakota](ats/southdakota.md) map to represent confirmation of US-212 following a [blog on January 2nd, 2026](https://blog.scssoft.com/search/label/South%20Dakota).
+
 ## 1.0.0
 
-*2025.12.20* for ATS/ETS2 **v1.57**
+For ATS/ETS2 v<span style="color:orange;"><b>1.57</b></span>: 2025.12.20
 
 - Entirely refactored the layout of the website to make more easily accessible and visually appealing
 - Added interactive ATS and ETS2 maps for streamlined navigation of the homepage
@@ -20,7 +28,7 @@
 
 ## 0.2.0
 
-*2025.12.07* for ATS/ETS2 **v1.57**
+For ATS/ETS2 v<span style="color:orange;"><b>1.57</b></span>: 2025.12.07
 
 - Added British Columbia map
 - Added Canada - West large map
@@ -32,6 +40,6 @@
 
 ## 0.1.0
 
-*2025.11.29* for ATS/ETS2 **v1.57**
+For ATS/ETS2 v<span style="color:orange;"><b>1.57</b></span>: 2025.11.29
 
 - Initial website creation

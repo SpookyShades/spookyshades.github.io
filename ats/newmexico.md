@@ -25,12 +25,12 @@ New Mexico has 58 mileage targets. The most recent update occurred with version 
 | Farmington          | 1.43    |       | nm_farmingto |
 | Fort Sumner         | 1.43    |       | nm_fortsumne |
 | Gallup              | 1.43    |       | nm_gallup    |
-| Grants              |🔥 1.57    | 0.46  | nm_grants    |
+| <span style="color:orange;">Grants</span>              | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">nm_grants</span>    |
 | Hobbs               | 1.43    |       | nm_hobbs     |
 | Las Cruces          | 1.43    |       | nm_lascruces |
 | Logan               | 1.46    |       | nm_logan     |
 | Lordsburg           | 1.43    |       | nm_lordsburg |
-| Mesita              |🔥 1.57    | 0.46  | nm_mesita    |
+| <span style="color:orange;">Mesita</span>              | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">nm_mesita</span>    |
 | Mountain Park       | 1.43    |       | nm_mountpark |
 | Quemado             | 1.43    |       | nm_quemado   |
 | Raton               | 1.43    |       | nm_raton     |
@@ -72,7 +72,7 @@ New Mexico has 58 mileage targets. The most recent update occurred with version 
 | I-25/US-70          | 1.43    |       | nm_i25us70   |
 | I-25/US-84s         | 1.43    |       | nm_i25us84s  |
 | I-40/US-84w         | 1.43    |       | nm_i40us84w  |
-| I-40 / NM-500       | 1.57    | 0.46  | nm_i40x500   |
+| <span style="color:orange;">I-40 / NM-500</span>       | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">nm_i40x500</span>   |
 | US-64/US-84e        | 1.43    |       | nm_us64us84e |
 | US-70/US-380        | 1.43    |       | nm_us70us380 |
 | US-84/US-285        | 1.43    |       | nm_us84285nm |

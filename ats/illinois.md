@@ -29,29 +29,29 @@ Illinois has 18 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| Beardstown   |🔥 1.57    | 0.46  | il_beardstwn |
+| <span style="color:orange;">Beardstown</span>   |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_beardstwn</span> |
 | Cairo        | 1.54    | 0.30  | il_cai       |
-| Carterville  |🔥 1.57    | 0.46  | il_cartervil |
-| Champaign    |🔥 1.57    | 0.46  | il_champaign |
-| Chicago      |🔥 1.57    | 0.46  | il_chicago   |
-| Effingham    |🔥 1.57    | 0.46  | il_effingham |
-| Grayville    |🔥 1.57    | 0.46  | il_grayville |
-| Macomb       |🔥 1.57    | 0.46  | il_macomb    |
-| Marion       |🔥 1.57    | 0.46  | il_marion    |
-| Monmouth     |🔥 1.57    | 0.46  | il_monmouth  |
-| Mt Vernon    |🔥 1.57    | 0.46  | il_mtvernon  |
-| Norris City  |🔥 1.57    | 0.46  | il_norriscty |
+| <span style="color:orange;">Carterville</span>  |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_cartervil</span> |
+| <span style="color:orange;">Champaign</span>    |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_champaign</span> |
+| <span style="color:orange;">Chicago</span>      |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_chicago</span>   |
+| <span style="color:orange;">Effingham</span>    |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_effingham</span> |
+| <span style="color:orange;">Grayville</span>    |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_grayville</span> |
+| <span style="color:orange;">Macomb</span>       |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_macomb</span>    |
+| <span style="color:orange;">Marion</span>       |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_marion</span>    |
+| <span style="color:orange;">Monmouth</span>     |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_monmouth</span>  |
+| <span style="color:orange;">Mt Vernon</span>    |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_mtvernon</span>  |
+| <span style="color:orange;">Norris City</span>  |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_norriscty</span> |
 | Quincy       | 1.54    | 0.30  | il_quincy    |
-| Rushville    |🔥 1.57    | 0.46  | il_rushville |
+| <span style="color:orange;">Rushville</span>    |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_rushville</span> |
 | Springfield  | 1.54    | 0.30  | il_springfie |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-72 / US-67 |🔥 1.57    | 0.46  | il_i72xus67  |
-| IL-1 / IL-13 |🔥 1.57    | 0.46  | il_il1xil13  |
-| I-64 / IL-4  |🔥 1.57    | 0.46  | il_illinois4 |
+| <span style="color:orange;">I-72 / US-67</span> |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_i72xus67</span>  |
+| <span style="color:orange;">IL-1 / IL-13</span> |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_il1xil13</span>  |
+| <span style="color:orange;">I-64 / IL-4</span>  |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">il_illinois4</span> |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

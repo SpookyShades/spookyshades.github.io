@@ -36,15 +36,15 @@ Belgium has 10 mileage targets. The most recent update occurred with version 1.5
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
 | Antwerp  | 1.44    |       | be_antwerpen |
-| Arlon    |🔥 1.57    | 0.47  | be_arlon     |
-| Bruges   |🔥 1.57    | 0.47  | be_brugge    |
+| <span style="color:orange;">Arlon</span>    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | be_arlon</span>     |
+| <span style="color:orange;">Bruges</span>   | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | be_brugge</span>    |
 | Brussels | 1.43    |       | be_brussel   |
-| Ghent    |🔥 1.57    | 0.47  | be_gent      |
-| Kortrijk |🔥 1.57    | 0.47  | be_kortrijk  |
+| <span style="color:orange;">Ghent</span>    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | be_gent</span>      |
+| <span style="color:orange;">Kortrijk</span> | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | be_kortrijk</span>  |
 | Liège    | 1.43    |       | be_liege     |
-| Mons     |🔥 1.57    | 0.47  | be_mons      |
-| Namur    |🔥 1.57    | 0.47  | be_namur     |
-| Ostend   |🔥 1.57    | 0.47  | be_oostende  |
+| <span style="color:orange;">Mons</span>     | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | be_mons</span>      |
+| <span style="color:orange;">Namur</span>    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | be_namur</span>     |
+| <span style="color:orange;">Ostend</span>   | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | be_oostende</span>  |
 
 ### 🇨🇿 Czechia
 Czechia has 11 mileage targets across both the base map and Going East! The most recent update occurred with version 1.44.
@@ -169,7 +169,7 @@ Germany has 51 mileage targets. The most recent update occurred with version 1.5
 | Memmingen         | 1.44    |       | de_memmingen |
 | Munich            | 1.43    |       | de_munchen   |
 | Nuremberg         | 1.43    |       | de_nurnberg  |
-| Oberhausen        |🔥 1.57    | 0.47  | de_oberhause |
+| <span style="color:orange;">Oberhausen</span>        | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">de_oberhause</span> |
 | Oldenburg         | 1.44    |       | de_oldenburg |
 | Osnabrück         | 1.43    |       | de_osnabruck |
 | Passau            | 1.44    |       | de_passau    |
@@ -242,23 +242,23 @@ The Netherlands has 19 mileage targets. The most recent update occurred with ver
 |:----------------:|:-------:|:-----:|:------------:|
 | Amsterdam       | 1.43    |       | nl_amsterdam |
 | Apeldoorn       | 1.44    |       | nl_apeldoorn |
-| Arnhem          |🔥 1.57    | 0.47  | nl_arnhem    |
-| Assen           |🔥 1.57    | 0.47  | nl_assen     |
-| Breda           |🔥 1.57    | 0.47  | nl_breda     |
-| s-Hertogenbosch |🔥 1.57    | 0.47  | nl_denbosch  |
-| Den Helder      |🔥 1.57    | 0.47  | nl_denhelder |
-| Deventer        |🔥 1.57    | 0.47  | nl_deventer  |
-| Eindhoven       |🔥 1.57    | 0.47  | nl_eindhoven |
+| <span style="color:orange;">Arnhem</span>          | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_arnhem</span>    |
+| <span style="color:orange;">Assen</span>           | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_assen</span>     |
+| <span style="color:orange;">Breda</span>           | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_breda</span>     |
+| <span style="color:orange;">'s-Hertogenbosch</span> | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_denbosch</span>  |
+| <span style="color:orange;">Den Helder</span>      | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_denhelder</span> |
+| <span style="color:orange;">Deventer</span>        | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_deventer</span>  |
+| <span style="color:orange;">Eindhoven</span>       | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_eindhoven</span> |
 | Groningen       | 1.43    |       | nl_groningen |
 | Hengelo         | 1.44    |       | nl_hengelo   |
 | Leeuwarden      | 1.44    |       | nl_leeuwardn |
-| Maastricht      |🔥 1.57    | 0.47  | nl_maastrich |
-| Middelburg      |🔥 1.57    | 0.47  | nl_middelbur |
-| Nijmegen        |🔥 1.57    | 0.47  | nl_nijmegen  |
+| <span style="color:orange;">Maastricht</span>      | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_maastrich</span> |
+| <span style="color:orange;">Middelburg</span>      | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_middelbur</span> |
+| <span style="color:orange;">Nijmegen</span>        | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_nijmegen</span>  |
 | Rotterdam       | 1.43    |       | nl_rotterdam |
-| Utrecht         |🔥 1.57    | 0.47  | nl_utrecht   |
+| <span style="color:orange;">Utrecht</span>         | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_utrecht</span>   |
 | Venlo           | 1.44    |       | nl_venlo     |
-| Zwolle          |🔥 1.57    | 0.47  | nl_zwolle    |
+| <span style="color:orange;">Zwolle</span>          | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">nl_zwolle</span>    |
 
 ### 🇵🇱 Poland
 Poland has 30 mileage targets across both the base map and Going East! The most recent update occurred with version 1.44.

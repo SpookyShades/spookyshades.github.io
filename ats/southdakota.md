@@ -4,7 +4,15 @@
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
-### 1.56 - 1.57
+### 1.57
+
+*US-212 confirmed to continue into South Dakota from Montana.*
+
+<img alt="1.57 SD" 
+     src="assets\img\statemaps\1.57 SD.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
+
+### 1.56
 
 <img alt="1.57 SD" 
      src="https://github.com/user-attachments/assets/b9493339-cf4a-4d78-9ec2-a2bf4e549332"
