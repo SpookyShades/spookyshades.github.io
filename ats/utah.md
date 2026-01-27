@@ -48,7 +48,7 @@ Utah has 47 mileage targets. The most recent update occurred with version 1.57.
 |:----------------:|:-------:|:-----:|:------------:|
 | I-15 Border           | 1.43    |       | az_ut_i15_sl |
 | Four Corners    | 1.43    |       | azconmut4c   |
-| <span style="color:orange;">US-163 Border</span>         | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">azut_sl163</span>   |
+| US-163 Border         | 1.57    | 0.46  | azut_sl163   |
 | I-70 Border           | 1.43    |       | co_ut_sl_i70 |
 | US-6 Border           | 1.43    |       | nv_ut_sl6    |
 

@@ -1,8 +1,8 @@
 # Arizona
-?> **Note,** Arizona may be recieving new mileage target updates due to the ongoing Route 66 rework project.
+?> **Note,** Arizona has completed its Project 66 rework and no changes are expected in the near future.
 
 ## Mileage Targets
-Arizona has 87 mileage targets. The most recent update occurred with version 1.57.
+Arizona has 88 mileage targets. The most recent update occurred with version 1.58.
 
 ### Cities
 
@@ -15,38 +15,39 @@ Arizona has 87 mileage targets. The most recent update occurred with version 1.5
 | Chinle                     | 1.43    |       | az_chinle    |
 | Clifton                    | 1.43    |       | az_clifton   |
 | Colorado City              | 1.43    |       | az_coloradoc |
+| <span style="color:orange;">Desert View</span>                | <span style="color:orange;">1.58</span>    | <span style="color:orange;">0.305</span> | <span style="color:orange;">az_desertvw</span>  |
 | Ehrenberg                  | 1.43    |       | az_ehrenberg |
 | Flagstaff                  | 1.43    |       | az_flagstaff |
-| Fort Huachuca              | 1.43    |       | az_fthuachuc |
 | Fredonia                   | 1.43    |       | az_fredonia  |
-| <span style="color:orange;">Ganado</span>                     | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_ganado</span>    |
+| Fort Huachuca              | 1.43    |       | az_fthuachuc |
+| Ganado                     | 1.57    | 0.46  | az_ganado    |
 | Gila                       | 1.43    |       | az_gila      |
 | Globe                      | 1.43    |       | az_globe     |
-| <span style="color:orange;">Grand Canyon East Ent.</span>     | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_gndcynest</span> |
-| <span style="color:orange;">Grand Canyon South Ent.</span>    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_gndcynsth</span> |
+| Grand Canyon East Ent.     | 1.57    | 0.46  | az_gndcynest |
+| Grand Canyon South Ent.    | 1.57    | 0.46  | az_gndcynsth |
 | Grand Canyon               | 1.43    |       | az_grandcany |
-| <span style="color:orange;">Hackberry</span>                  | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_hackberry</span> |
+| Hackberry                  | 1.57    | 0.46  | az_hackberry |
 | Holbrook                   | 1.43    |       | az_holbrook  |
-| <span style="color:orange;">Kaibeto</span>                    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_kaibeto</span>   |
+| Kaibeto                    | 1.57    | 0.46  | az_kaibeto   |
 | Kayenta                    | 1.43    |       | az_kayenta   |
 | Kingman                    | 1.43    |       | az_kingman   |
-| <span style="color:orange;">Lake Havasu City</span>           | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_lakehavas</span> |
+| Lake Havasu City           | 1.57    | 0.46  | az_lakehavas |
 | Lake Powell                | 1.43    |       | az_lakepowel |
-| <span style="color:orange;">Many Farms</span>                 | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_manyfarms</span> |
+| Many Farms                 | 1.57    | 0.46  | az_manyfarms |
 | Mexican Water              | 1.43    |       | az_mexicanwa |
 | Morenci                    | 1.43    |       | az_morenci   |
 | Nogales                    | 1.43    |       | az_nogales   |
 | Page                       | 1.43    |       | az_page      |
-| <span style="color:orange;">Parker</span>                     | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_parker</span>    |
+| Parker                     | 1.57    | 0.46  | az_parker    |
 | Peach Springs              | 1.43    |       | az_peachspgs |
-| <span style="color:orange;">Petrified Forest Nat. Park</span> | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_petrified</span> |
+| Petrified Forest Nat. Park | 1.57    | 0.46  | az_petrified |
 | Phoenix                    | 1.43    |       | az_phoenix   |
 | Phoenix                    | 1.43    |       | az_phoenix93 |
 | Prescott                   | 1.43    |       | az_prescott  |
 | Proving Ground             | 1.43    |       | az_provinggn |
 | Quartzsite                 | 1.43    |       | az_quartzsit |
-| <span style="color:orange;">Round Rock</span>                 | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_rndrock</span>   |
-| <span style="color:orange;">Sanders</span>                    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_sanders</span>   |
+| Round Rock                 | 1.57    | 0.46  | az_rndrock   |
+| Sanders                    | 1.57    | 0.46  | az_sanders   |
 | San Simon                  | 1.43    |       | az_sansimon  |
 | Seligman                   | 1.43    |       | az_seligman  |
 | Show Low                   | 1.43    |       | az_showlow   |
@@ -54,14 +55,14 @@ Arizona has 87 mileage targets. The most recent update occurred with version 1.5
 | Springerville              | 1.43    |       | az_springerv |
 | St. Johns                  | 1.43    |       | az_stjohns   |
 | Teec Nos Pos               | 1.43    |       | az_teecnospo |
-| <span style="color:orange;">Tuba City</span>                  | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_tubacity</span>  |
+| Tuba City                  | 1.57    | 0.46  | az_tubacity  |
 | Tucson                     | 1.43    |       | az_tucson77  |
 | Tucson                     | 1.43    |       | az_tucsoni10 |
-| <span style="color:orange;">Tusayan</span>                    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_tusayan</span>   |
-| <span style="color:orange;">Twin Arrows</span>                | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_twinarr</span>   |
+| Tusayan                    | 1.57    | 0.46  | az_tusayan   |
+| Twin Arrows                | 1.57    | 0.46  | az_twinarr   |
 | Valle                      | 1.43    |       | az_valle     |
 | Wickenburg                 | 1.43    |       | az_wickenbur |
-| <span style="color:orange;">Winslow</span>                    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_winslow</span>   |
+| Winslow                    | 1.57    | 0.46  | az_winslow   |
 | Yuma                       | 1.43    |       | az_yuma      |
 
 ### Borders
@@ -72,7 +73,7 @@ Arizona has 87 mileage targets. The most recent update occurred with version 1.5
 | I-15 Border                      | 1.43    |       | az_ut_i15_sl |
 | Four Corners               | 1.43    |       | azconmut4c   |
 | I-10 Border                      | 1.45    |       | aznmi10sl    |
-| <span style="color:orange;">US-163 Border</span>                    | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">azut_sl163</span>   |
+| US-163 Border                    | 1.57    | 0.46  | azut_sl163   |
 
 ### Junctions
 
@@ -88,7 +89,7 @@ Arizona has 87 mileage targets. The most recent update occurred with version 1.5
 | I-17/AZ-260                | 1.43    |       | az_i17az260  |
 | I-17/AZ-303                | 1.43    |       | az_i17az303  |
 | I-17/I-40                  | 1.43    |       | az_i17i40    |
-| <span style="color:orange;">I-17 / AZ-179</span>              | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_i17x179</span>   |
+| I-17 / AZ-179              | 1.57    | 0.46  | az_i17x179   |
 | I-40/AZ-89                 | 1.43    |       | az_i40az89   |
 | I-40/US-180                | 1.43    |       | az_i40us180w |
 | I-40/US-191                | 1.43    |       | az_i40us191  |
@@ -98,12 +99,12 @@ Arizona has 87 mileage targets. The most recent update occurred with version 1.5
 | 1-40/Needle Mt. Rd.        | 1.53    | 0.16  | az_needlerd  |
 | US-160/US-191              | 1.43    |       | az_us160191  |
 | US-160/AZ-98               | 1.43    |       | az_us160az98 |
-| <span style="color:orange;">US-191 / AZ-61</span>             | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_us191x61</span>  |
+| US-191 / AZ-61             | 1.57    | 0.46  | az_us191x61  |
 | US-60/AZ-303               | 1.43    |       | az_us60az303 |
-| <span style="color:orange;">US-60 / US-180</span>             | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_us60x180</span>  |
+| US-60 / US-180             | 1.57    | 0.46  | az_us60x180  |
 | US-89/US-160               | 1.43    |       | az_us89us160 |
-| <span style="color:orange;">US-89 / US-89a</span>             | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_us89x89a</span>  |
-| <span style="color:orange;">US-93 / AZ-68</span>              | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">az_us93x68</span>   |
+| US-89 / US-89a             | 1.57    | 0.46  | az_us89x89a  |
+| US-93 / AZ-68              | 1.57    | 0.46  | az_us93x68   |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

@@ -6,7 +6,8 @@
 
 - Want further explanation regarding how the maps and mileage targets can be interpreted or found? [Click here!](interpretation.md)
 
-- This website is updated for version **<mark>v1.57</mark>** released on November 18th (ATS) and November 20th (ETS2).
+- This website is updated for version **<mark>v1.58</mark>** released on January 27th (OB) (ATS) and **<mark>v1.57</mark>** released on November 20th (ETS2).
+     - v1.58 maps for ATS will be updated soon!
 
 # American Truck Simulator
 
@@ -14,7 +15,6 @@
 <!-- ATS Interactive Map -->
 - Use the interactive map below to select a state or province. 
 - The officially announced maps are [British Columbia](ats/britishcolumbia.md), [Illinois](ats/illinois.md), and [South Dakota](ats/southdakota.md). 
-- Ongoing reworks have been confirmed in the states of [Arizona](ats/arizona.md) and [New Mexico](ats/newmexico.md).
 
 <div class="map-label">
   <div class="map-label-name">-----</div>

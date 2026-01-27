@@ -18,7 +18,7 @@ Nevada has 44 mileage targets. The most recent update occurred with version 1.57
 | Ely               | 1.43    |       | nv_ely       |
 | Goldfield         | 1.43    |       | nv_goldfield |
 | Hoover Dam        | 1.43    |       | az_nv_hoover |
-| <span style="color:orange;">Hoover Dam</span>        |<span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">nv_hoover</span>    |
+| Hoover Dam        | 1.57    | 0.46  | nv_hoover    |
 | Indian Springs    | 1.43    |       | nv_indianspg |
 | Jackpot           | 1.43    |       | nv_jackpot   |
 | Las Vegas         | 1.43    |       | nv_lasvegas  |

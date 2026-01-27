@@ -85,7 +85,7 @@ Arkansas has 58 mileage targets. The most recent update occurred with version 1.
 | US-63 / US-412   | 1.51    | 0.41  | ar_us63x412  |
 | US-63 / US-67    | 1.51    | 0.41  | ar_us63x67   |
 | US-63 / US-82    | 1.51    | 0.41  | ar_us63x82   |
-| <span style="color:orange;">US-63 / AR-7</span>     | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">ar_us63xla7</span>  |
+| US-63 / AR-7     | 1.57    | 0.46  | ar_us63xla7  |
 | US-65 / US-165   | 1.51    | 0.41  | ar_us65x165  |
 | US-65 / US-412 East  | 1.51    | 0.41  | ar_us65x412  |
 | US-65 / US-412 West | 1.51    | 0.41  | ar_us65x412w |

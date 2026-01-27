@@ -1,6 +1,12 @@
 # Changelog
 <!-- https://tableconvert.com/excel-to-markdown -->
-<!--Mileage Markers 1.57: AR,AZ,IL,KY,NV,NM,UT //// BE,DE,NL,SE,DK-->
+<!--Mileage Markers ATS-57: AZ,IL,NM //// ETS2-57: BE,DE,NL,SE,DK-->
+
+## 1.1.0
+
+For ATS v<span style="color:orange;"><b>1.58</b></span> and ETS2 v<span style="color:orange;"><b>1.57</b></span>: 2026.1.27
+- Updated for ATS Open Beta v1.58.
+    - Updated state maps will be added in a future patch.
 
 ## 1.0.1
 

@@ -1,8 +1,8 @@
 # New Mexico
-?> **Note,** New Mexico may be recieving new mileage target updates due to the ongoing Route 66 rework project.
+?> **Note,** New Mexico has completed its Project 66 rework and no changes are expected in the near future.
 
 ## Mileage Targets
-New Mexico has 58 mileage targets. The most recent update occurred with version 1.57.
+New Mexico has 59 mileage targets. The most recent update occurred with version 1.58.
 
 ### Cities
 
@@ -25,13 +25,14 @@ New Mexico has 58 mileage targets. The most recent update occurred with version 
 | Farmington          | 1.43    |       | nm_farmingto |
 | Fort Sumner         | 1.43    |       | nm_fortsumne |
 | Gallup              | 1.43    |       | nm_gallup    |
-| <span style="color:orange;">Grants</span>              | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">nm_grants</span>    |
+| Grants              | 1.57    | 0.46  | nm_grants    |
 | Hobbs               | 1.43    |       | nm_hobbs     |
 | Las Cruces          | 1.43    |       | nm_lascruces |
 | Logan               | 1.46    |       | nm_logan     |
 | Lordsburg           | 1.43    |       | nm_lordsburg |
-| <span style="color:orange;">Mesita</span>              | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">nm_mesita</span>    |
+| Mesita              | 1.57    | 0.46  | nm_mesita    |
 | Mountain Park       | 1.43    |       | nm_mountpark |
+| <span style="color:orange;">Pastura</span>             | <span style="color:orange;">1.58</span>    | <span style="color:orange;">0.305</span> | <span style="color:orange;">nm_pastura</span>   |
 | Quemado             | 1.43    |       | nm_quemado   |
 | Raton               | 1.43    |       | nm_raton     |
 | Rio Grande Gorge Bridge | 1.43    |       | nm_riogranbr |
@@ -72,7 +73,7 @@ New Mexico has 58 mileage targets. The most recent update occurred with version 
 | I-25/US-70          | 1.43    |       | nm_i25us70   |
 | I-25/US-84s         | 1.43    |       | nm_i25us84s  |
 | I-40/US-84w         | 1.43    |       | nm_i40us84w  |
-| <span style="color:orange;">I-40 / NM-500</span>       | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.46</span>  | <span style="color:orange;">nm_i40x500</span>   |
+| I-40 / NM-500       | 1.57    | 0.46  | nm_i40x500   |
 | US-64/US-84e        | 1.43    |       | nm_us64us84e |
 | US-70/US-380        | 1.43    |       | nm_us70us380 |
 | US-84/US-285        | 1.43    |       | nm_us84285nm |
