@@ -2,7 +2,7 @@
 ?> **Note,** Vive la France! has been released. All bordering countries are released. No further updates are anticipated at this time.
 
 ### Mileage Targets
-France has 54 mileage targets across both the base map and Vive la France! The most recent update occurred with version 1.47.
+France has 55 mileage targets across both the base map and Vive la France! The most recent update occurred with version 1.58.
 
 #### Cities
 
@@ -28,6 +28,7 @@ France has 54 mileage targets across both the base map and Vive la France! The m
 | Civaux               | 1.43    |       | fr_civaux    |
 | Clermont-Ferrand     | 1.43    |       | fr_clermont  |
 | Dijon                | 1.43    |       | fr_dijon     |
+| <span style="color:orange;">Dunkirk</span>              | <span style="color:orange;">1.58</span>    | <span style="color:orange;">0.314</span> | <span style="color:orange;">fr_dunkerque</span> |
 | Gap                  | 1.43    |       | fr_gap       |
 | Golfech              | 1.43    |       | fr_golfech   |
 | Lacq                 | 1.43    |       | fr_lacq      |

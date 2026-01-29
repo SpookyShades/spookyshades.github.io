@@ -1,11 +1,21 @@
 # Changelog
 <!-- https://tableconvert.com/excel-to-markdown -->
-<!--Mileage Markers ATS-57: AZ,IL,NM //// ETS2-57: BE,DE,NL,SE,DK-->
+<!--Mileage Markers ATS-58: AZ,IL,NM //// ETS2-58: BE,FR,DE,NL-->
+
+## 58.2
+
+For ATS/ETS2 v<span style="color:orange;"><b>1.58</b></span>: 2026.1.29
+- Updated for ETS2 Open Beta v1.58.
+    - Belgium, France, Germany, and the Netherlands received updated.
+- Fixed an issue where renavigating to the ETS2 Base Map page from any other ETS2 DLC page was guiding to a broken link.
+- Changed the redirect ETS2 DLC names of "Beyond the Baltic Sea" and "Road to the Black Sea" to "Baltic Sea" and "Black Sea" respectively.
+- Refactored how version numbers will be listed on the website; to be by the primary game version instead.
 
 ## 1.1.0
 
 For ATS v<span style="color:orange;"><b>1.58</b></span> and ETS2 v<span style="color:orange;"><b>1.57</b></span>: 2026.1.27
 - Updated for ATS Open Beta v1.58.
+    - Arizona, Illinois, and New Mexico received updates.
     - Updated state maps will be added in a future patch.
 
 ## 1.0.1

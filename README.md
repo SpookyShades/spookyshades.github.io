@@ -6,8 +6,10 @@
 
 - Want further explanation regarding how the maps and mileage targets can be interpreted or found? [Click here!](interpretation.md)
 
-- This website is updated for version **<mark>v1.58</mark>** released on January 27th (OB) (ATS) and **<mark>v1.57</mark>** released on November 20th (ETS2).
+- This website is updated for version **<mark>v1.58</mark>** (OB) released on January 27th (ATS) and January 29th (ETS2).
      - v1.58 maps for ATS will be updated soon!
+
+**<mark>[Check out the changelog here for the most recent updates!](changelog.md)</mark>**
 
 # American Truck Simulator
 
@@ -194,7 +196,7 @@ viewBox="0 0 2715 2119"
 <!-- ETS2 Interactive Map -->
 - Use the interactive map below to select a country/bundle of countries. 
 - The officially announced maps are Iceland and Ireland. 
-- Ongoing reworks have been confirmed for Belgium, Luxembourg, the Netherlands, and the United Kingdom.
+- Ongoing reworks have been confirmed for [Belgium](ets2/ets2base.md?id=🇧🇪-belgium), [Luxembourg](ets2/ets2base.md?id=🇱🇺-luxembourg), [the Netherlands](ets2/ets2base.md?id=🇳🇱-netherlands), and [the United Kingdom](ets2/ets2base.md?id=🇬🇧-united-kingdom).
 - ETS2 maps on this website are represented as their respective DLCs. Countries spanning multiple DLCs will have their mileage targets shown in both DLC subpages (CZ, FI, FR, IT, NO, PL, RU, SK, SE).
 
 <div class="map-label">

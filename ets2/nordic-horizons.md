@@ -172,9 +172,9 @@ Sweden has 76 mileage targets across Nordic Horizons and Scandinavia. The most r
 | Oskarshamn   | 1.56    | 0.57  | se_oskarsham |
 | Östersund    | 1.56    | 0.57  | se_ostersund |
 | Överkalix    | 1.56    | 0.57  | se_overkalix |
-| <span style="color:orange;">Pajala</span>       | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">se_pajala</span>    |
+| Pajala       | 1.57    | 0.47  | se_pajala    |
 | Säffle       | 1.56    | 0.57  | se_saffle    |
-| <span style="color:orange;">Sälen</span>        | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">se_salen</span>     |
+| Sälen        | 1.57    | 0.47  | se_salen     |
 | Skellefteå   | 1.56    | 0.57  | se_skellefte |
 | Söderhamn    | 1.56    | 0.57  | se_soderhamn |
 | Södertälje   | 1.43    |       | se_sodertalj |
@@ -200,7 +200,7 @@ Sweden has 76 mileage targets across Nordic Horizons and Scandinavia. The most r
 | Västerås     | 1.43    |       | se_vasteraas |
 | Västervik    | 1.44    |       | se_vastervik |
 | Växjö        | 1.43    |       | se_vaxjo     |
-| <span style="color:orange;">Vittangi</span>     | <span style="color:orange;">1.57</span>    | <span style="color:orange;">0.47</span>  | <span style="color:orange;">se_vittangi</span>  |
+| Vittangi     | 1.57    | 0.47  | se_vittangi  |
 | Ystad        | 1.56    | 0.57  | se_ystad     |
 
 #### Borders

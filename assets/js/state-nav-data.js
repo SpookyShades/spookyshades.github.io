@@ -34,9 +34,9 @@ window.STATE_NAV = {
   ],
 
   ets2: [
-    { slug: "base-map", name: "Base Map ETS2" },
-    { slug: "balticsea", name: "Beyond the Baltic Sea" },
-    { slug: "blacksea", name: "Road to the Black Sea" },
+    { slug: "ets2base", name: "Base Map ETS2" },
+    { slug: "balticsea", name: "Baltic Sea" },
+    { slug: "blacksea", name: "Black Sea" },
     { slug: "goingeast", name: "Going East!" },
     { slug: "greece", name: "Greece" },
     { slug: "heart-of-russia", name: "Heart of Russia" },
