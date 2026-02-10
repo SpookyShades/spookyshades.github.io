@@ -6,7 +6,7 @@
 
 - Want further explanation regarding how the maps and mileage targets can be interpreted or found? [Click here!](interpretation.md)
 
-- This website is updated for version **<mark>v1.58</mark>** (OB) released on January 27th (ATS) and January 29th (ETS2).
+- This website is updated for version **<mark>v1.58</mark>** released on February 10th (ATS) and (OB) January 29th (ETS2).
      - v1.58 maps for ATS will be updated soon!
 
 **<mark>[Check out the changelog here for the most recent updates!](changelog.md)</mark>**

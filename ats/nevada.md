@@ -12,6 +12,7 @@ Nevada has 44 mileage targets. The most recent update occurred with version 1.57
 | Battle Mountain   | 1.43    |       | nv_battlemtn |
 | Beatty            | 1.43    |       | nv_beatty    |
 | Carson City       | 1.43    |       | nv_carsoncit |
+| Coaldale Junction | 1.49    | 0.44  | nv_coaldale  |
 | Denio             | 1.43    |       | nv_denio     |
 | Denio Junction    | 1.43    |       | nv_deniojct  |
 | Elko              | 1.43    |       | nv_elko      |
@@ -23,6 +24,7 @@ Nevada has 44 mileage targets. The most recent update occurred with version 1.57
 | Jackpot           | 1.43    |       | nv_jackpot   |
 | Las Vegas         | 1.43    |       | nv_lasvegas  |
 | Mazany Creek      | 1.43    |       | nv_maz1      |
+| McDermitt         | 1.43    |       | nvmcdermitt  |
 | Montgomery Pass   | 1.49    | 0.44  | nv_mont_pass |
 | Owyhee            | 1.43    |       | nv_owyhee    |
 | Panaca            | 1.43    |       | nv_panaca    |
@@ -36,8 +38,6 @@ Nevada has 44 mileage targets. The most recent update occurred with version 1.57
 | Wells             | 1.43    |       | nv_wells     |
 | Wendover          | 1.43    |       | nv_wendover  |
 | Winnemucca        | 1.43    |       | nv_winnemucc |
-| McDermitt         | 1.43    |       | nvmcdermitt  |
-| Coaldale Junction | 1.49    | 0.44  | nv_coaldale  |
 
 ### Borders
 

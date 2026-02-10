@@ -53,7 +53,7 @@ Oregon has 54 mileage targets. The most recent update occurred with version 1.43
 | Toledo            | 1.43    |       | or_toledo    |
 | Troutdale         | 1.43    |       | or_troutdale |
 | Vale              | 1.43    |       | or_vale      |
-| Williamette Pass  | 1.43    |       | or_williamet |
+| Willamette Pass   | 1.43    |       | or_williamet |
 
 ### Borders
 
