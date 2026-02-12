@@ -2,6 +2,13 @@
 <!-- https://tableconvert.com/excel-to-markdown -->
 <!--Mileage Markers ATS-58: AZ,IL,NM //// ETS2-58: BE,FR,DE,NL-->
 
+## 58.3
+
+For ATS/ETS2 v<span style="color:orange;"><b>1.58</b></span>: 2026.2.12
+- Bumped the OB text to full release (no additional changes were observed).
+- Updated the South Dakota map to match the new version
+- Updated the full US map to match the new version (changes to Arizona, California, Idaho, New Mexico, South Dakota, and Texas).
+
 ## 58.2
 
 For ATS/ETS2 v<span style="color:orange;"><b>1.58</b></span>: 2026.1.29

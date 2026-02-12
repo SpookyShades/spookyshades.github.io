@@ -6,8 +6,7 @@
 
 - Want further explanation regarding how the maps and mileage targets can be interpreted or found? [Click here!](interpretation.md)
 
-- This website is updated for version **<mark>v1.58</mark>** released on February 10th (ATS) and (OB) January 29th (ETS2).
-     - v1.58 maps for ATS will be updated soon!
+- This website is updated for version **<mark>v1.58</mark>** released on February 10th (ATS) and February 12th (ETS2).
 
 **<mark>[Check out the changelog here for the most recent updates!](changelog.md)</mark>**
 
@@ -188,7 +187,7 @@ viewBox="0 0 2715 2119"
 
   [🇨🇦 Canada (Western) Complete Map](https://i.postimg.cc/FNZSgKm8/Full-Map-West-Canada.png)
   
-  [🇺🇸 United States Complete Map](https://i.postimg.cc/YrYG4rdK/Full-Map.png)
+  [🇺🇸 United States Complete Map](https://i.postimg.cc/c1C419X7/Full-Map.png)
 
 # Euro Truck Simulator 2
 
