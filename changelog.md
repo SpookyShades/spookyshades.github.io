@@ -2,7 +2,13 @@
 <!-- https://tableconvert.com/excel-to-markdown -->
 <!--Mileage Markers ATS-58: BC,IL,MT,NV,ND,SD,WY //// ETS2-58: BE,FR,DE,NL-->
 
+## 59.2
+For ATS v<span style="color:orange;"><b>1.59 OB</b></span> and ETS2 v<span style="color:orange;"><b>1.58</b></span>: 2026.4.14
+- Updated the Illinois map for 1.59.
+- Updated the full US map for 1.59.
+
 ## 59.1
+For ATS v<span style="color:orange;"><b>1.59 OB</b></span> and ETS2 v<span style="color:orange;"><b>1.58</b></span>: 2026.4.14
 - Added the full maps for both the US and Canada onto the landing page rather than separated out through separate link.
 - Added color contrast to the interactive landing page maps for better legibility as to what each subpage will contain.
 - Fixed an error where mileage targets were listed out of order: Croatia, Greece, Switzerland.

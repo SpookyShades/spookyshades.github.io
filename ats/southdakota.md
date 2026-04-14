@@ -4,7 +4,7 @@
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
-### 1.58
+### 1.58-1.59
 
 - Many of the roads are now tagged for `Show in UI map` (except US-18, US-212) and assigned their DLC tags
 - Updated scenery and road layout to all roads except the above two as well
@@ -12,6 +12,7 @@
 - Accounted for the small section of US-385 added to the Nebraska DLC
 - A section of US-16/US-385 was hidden in this version, but like other maps left in as a different color
 - Sector `-0002-0006` was revealed with more of US-81
+- This map was unchanged going into 1.59.
 
 <img alt="1.58 SD" 
      src="assets\img\statemaps\1.58 SD.png"

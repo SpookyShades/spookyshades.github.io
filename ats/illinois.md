@@ -4,6 +4,17 @@
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
+### 1.59
+
+- All parts of the Illinois map hidden after 1.56 were readded to prepare for release
+- Minor changes to company boundaries, gas stations
+- Removed a hidden road off of I-57 in the far south of Illinois
+- Added a hidden road north of Marion
+
+<img alt="1.59 IL" 
+     src="assets\img\statemaps\1.59 IL.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
+
 ### 1.57-1.58
 
 <img alt="1.57 IL" 
