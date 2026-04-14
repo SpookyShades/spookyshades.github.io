@@ -32,7 +32,7 @@ New Mexico has 59 mileage targets. The most recent update occurred with version 
 | Lordsburg           | 1.43    |       | nm_lordsburg |
 | Mesita              | 1.57    | 0.46  | nm_mesita    |
 | Mountain Park       | 1.43    |       | nm_mountpark |
-| <span style="color:orange;">Pastura</span>             | <span style="color:orange;">1.58</span>    | <span style="color:orange;">0.305</span> | <span style="color:orange;">nm_pastura</span>   |
+| Pastura             | 1.58    | 0.305 | nm_pastura   |
 | Quemado             | 1.43    |       | nm_quemado   |
 | Raton               | 1.43    |       | nm_raton     |
 | Rio Grande Gorge Bridge | 1.43    |       | nm_riogranbr |

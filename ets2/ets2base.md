@@ -332,16 +332,16 @@ Switzerland has 15 mileage targets. The most recent update occurred with version
 |:----------------:|:-------:|:-----:|:------------:|
 | Basel           | 1.44    |       | ch_basel     |
 | Bern            | 1.43    |       | ch_bern      |
-| San Bernardino  | 1.47    |       | ch_bernardin |
 | Chur            | 1.47    |       | ch_chur      |
 | Geneva          | 1.43    |       | ch_geneva    |
 | Gotthard        | 1.43    |       | ch_gotthard  |
+| Great St Bernard Pass | 1.47    |       | ch_stbernard |
 | Lausanne        | 1.44    |       | ch_lausanne  |
-| Lugano          | 1.44    |       | ch_lugano    |
 | Lucerne         | 1.44    |       | ch_luzern    |
-| St. Magarethen  | 1.47    |       | ch_magarethe |
+| Lugano          | 1.44    |       | ch_lugano    |
 | Martigny        | 1.47    |       | ch_martigny  |
-| Gd. St. Bernard | 1.47    |       | ch_stbernard |
+| San Bernardino  | 1.47    |       | ch_bernardin |
+| St. Magarethen  | 1.47    |       | ch_magarethe |
 | Vevey           | 1.47    |       | ch_vevey     |
 | Winterthur      | 1.44    |       | ch_winterthu |
 | Zürich          | 1.43    |       | ch_zurich    |

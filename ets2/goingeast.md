@@ -24,7 +24,7 @@ Czechia has 11 mileage targets across both the base map and Going East! The most
 | Rozvadov         | 1.44    |       | cz_rozvadov  |
 | Svitavy          | 1.44    |       | cz_svitavy   |
 
-### 🇪🇪 Hungary
+### 🇭🇺 Hungary
 Hungary has 6 mileage targets. The most recent update occurred with version 1.44.
 
 #### Cities

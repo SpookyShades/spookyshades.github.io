@@ -1,6 +1,14 @@
 # Changelog
 <!-- https://tableconvert.com/excel-to-markdown -->
-<!--Mileage Markers ATS-58: AZ,IL,NM //// ETS2-58: BE,FR,DE,NL-->
+<!--Mileage Markers ATS-58: BC,IL,MT,NV,ND,SD,WY //// ETS2-58: BE,FR,DE,NL-->
+
+## 59.1
+- Added the full maps for both the US and Canada onto the landing page rather than separated out through separate link.
+- Added color contrast to the interactive landing page maps for better legibility as to what each subpage will contain.
+- Fixed an error where mileage targets were listed out of order: Croatia, Greece, Switzerland.
+- Fixed an error where Hungary had the wrong flag.
+- Adjusted the Illinois 1.57 map to also include 1.58, as the map didn't change.
+- Added mileage targets to British Columbia, Illinois, Montana, Nevada, North Dakota, South Dakota, and Wyoming.
 
 ## 58.3
 

@@ -25,6 +25,7 @@ Greece has 28 mileage targets. The most recent update occurred with version 1.53
 | Athens             | 1.53    | 0.22  | gr_athens    |
 | Chania             | 1.53    | 0.22  | gr_chania    |
 | Chios              | 1.53    | 0.22  | gr_chios     |
+| Corinth            | 1.53    | 0.22  | gr_korinth   |
 | Evzonoi            | 1.53    | 0.42  | gr_evzoni    |
 | Heraklion          | 1.53    | 0.22  | gr_heraklion |
 | Igoumenitsa        | 1.53    | 0.22  | gr_igoumeni  |
@@ -33,7 +34,6 @@ Greece has 28 mileage targets. The most recent update occurred with version 1.53
 | Karditsa           | 1.53    | 0.22  | gr_karditsa  |
 | Kavala             | 1.53    | 0.42  | gr_kavala    |
 | Komotini           | 1.53    | 0.42  | gr_komotini  |
-| Corinth            | 1.53    | 0.22  | gr_korinth   |
 | Kozani             | 1.53    | 0.22  | gr_kozani    |
 | Lamia              | 1.53    | 0.22  | gr_lamia     |
 | Larissa            | 1.53    | 0.22  | gr_larisa    |

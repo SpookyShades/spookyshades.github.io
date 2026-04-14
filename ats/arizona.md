@@ -15,7 +15,7 @@ Arizona has 88 mileage targets. The most recent update occurred with version 1.5
 | Chinle                     | 1.43    |       | az_chinle    |
 | Clifton                    | 1.43    |       | az_clifton   |
 | Colorado City              | 1.43    |       | az_coloradoc |
-| <span style="color:orange;">Desert View</span>                | <span style="color:orange;">1.58</span>    | <span style="color:orange;">0.305</span> | <span style="color:orange;">az_desertvw</span>  |
+| Desert View                | 1.58    | 0.305 | az_desertvw  |
 | Ehrenberg                  | 1.43    |       | az_ehrenberg |
 | Flagstaff                  | 1.43    |       | az_flagstaff |
 | Fredonia                   | 1.43    |       | az_fredonia  |

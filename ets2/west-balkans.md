@@ -62,18 +62,18 @@ Croatia has 12 mileage targets. The most recent update occurred with version 1.4
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
+| Bajakovo         | 1.48    | 5.00  | hr_bajakovo |
 | Dubrovnik        | 1.49    |       | dubrovnik   |
 | Goričan          | 1.49    |       | gorican     |
-| Bajakovo         | 1.48    | 5.00  | hr_bajakovo |
+| Okučani          | 1.49    |       | okucani     |
 | Osijek           | 1.47    |       | hr_osijek   |
 | Plitvička Jezera | 1.48    | 5.00  | hr_plitvice |
 | Rijeka           | 1.47    |       | hr_rijeka   |
+| Senj             | 1.49    |       | senj        |
 | Split            | 1.47    |       | hr_split    |
 | Zadar            | 1.47    |       | hr_zadar    |
 | Zagreb           | 1.47    |       | hr_zagreb   |
-| Okučani          | 1.49    |       | okucani     |
-| Senj             | 1.49    |       | senj        |
-| Zagreb           | 1.49    |       | z_istok     |
+| Zagreb (West)          | 1.49    |       | z_istok     |
 
 ### 🇽🇰 Kosovo
 Kosovo has 1 mileage target. The most recent update occurred with version 1.47.

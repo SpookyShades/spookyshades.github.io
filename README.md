@@ -6,7 +6,7 @@
 
 - Want further explanation regarding how the maps and mileage targets can be interpreted or found? [Click here!](interpretation.md)
 
-- This website is updated for version **<mark>v1.58</mark>** released on February 10th (ATS) and February 12th (ETS2).
+- This website is updated for version **<mark>v1.59 OB</mark>** released on April 14th (ATS) and **<mark>v1.58</mark>** on February 12th (ETS2).
 
 **<mark>[Check out the changelog here for the most recent updates!](changelog.md)</mark>**
 
@@ -14,6 +14,7 @@
 
 ## ATS Interactive Map
 <!-- ATS Interactive Map -->
+<!-- indiana points 1540,1251,1569,1237,1643,1232,1669,1376,1655,1390,1641,1390,1641,1407,1631,1419,1609,1424,1588,1443,1571,1441,1564,1445,1542,1455,1540,1433,1554,1395 -->
 - Use the interactive map below to select a state or province. 
 - The officially announced maps are [British Columbia](ats/britishcolumbia.md), [Illinois](ats/illinois.md), and [South Dakota](ats/southdakota.md). 
 
@@ -185,9 +186,18 @@ viewBox="0 0 2715 2119"
 
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
-  [🇨🇦 Canada (Western) Complete Map](https://i.postimg.cc/FNZSgKm8/Full-Map-West-Canada.png)
+  🇨🇦 Canada (Western) Complete Map
+
+  <img alt="Canada (Western) Full Map" 
+     src="assets\img\statemaps\FullMapWestCanada.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
   
-  [🇺🇸 United States Complete Map](https://i.postimg.cc/c1C419X7/Full-Map.png)
+  
+  🇺🇸 United States Complete Map
+
+<img alt="US Full Map" 
+     src="assets\img\statemaps\FullMap.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
 
 # Euro Truck Simulator 2
 

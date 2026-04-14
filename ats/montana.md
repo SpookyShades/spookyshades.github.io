@@ -2,12 +2,13 @@
 ?> **Note,** Montana has been released. No further map updates will occur but mileage targets may be added along with future map expansions (Alberta, British Columbia, North Dakota, Saskatchewan, South Dakota).
 
 ## Mileage Targets
-Montana has 72 mileage targets. The most recent update occurred with version 1.45.
+Montana has 75 mileage targets. The most recent update occurred with version 1.59.
 
 ### Cities
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
+| <span style="color:orange;">Alzada</span>              | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">mt_alzad</span>     |
 | Babb                | 1.45    |       | mt_babb      |
 | Belt                | 1.45    |       | mt_belt      |
 | Big Sandy           | 1.44    |       | mt_bigsandy  |
@@ -70,7 +71,9 @@ Montana has 72 mileage targets. The most recent update occurred with version 1.4
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-93 Border              | 1.44    |       | idmtus93sl   |
+| <span style="color:orange;">US-93 Border (CAN)</span>  | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">can_usa_93</span>   |
+| US-93 Border (ID)         | 1.44    |       | idmtus93sl   |
+| <span style="color:orange;">US-212 Border (near Alzada)</span>  | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">sdmt_sl212</span>   |
 | MT-59/WY-59 Border        | 1.44    |       | mtwy_sl59    |
 
 ### Junctions
@@ -82,14 +85,14 @@ Montana has 72 mileage targets. The most recent update occurred with version 1.4
 | I-90/I-94           | 1.44    |       | mt_i90i94    |
 | I-90/MT-200         | 1.44    |       | mt_i90mt200e |
 | I-90/US-89          | 1.44    |       | mt_i90us89   |
-| MT-135/MT-200       | 1.44    |       | mt_mt135x200 |
-| MT-24/MT-200        | 1.44    |       | mt_mt24mt200 |
 | US-191/MT-19        | 1.44    |       | mt_us191mt19 |
 | US-212/US-310       | 1.44    |       | mt_us212310  |
 | US-2/MT-24          | 1.44    |       | mt_us2mt24   |
 | US-87/US-191        | 1.44    |       | mt_us87us191 |
 | US-87/US-89         | 1.44    |       | mt_us87us89  |
 | US-93/MT-43         | 1.45    |       | mt_us93mt43  |
+| MT-135/MT-200       | 1.44    |       | mt_mt135x200 |
+| MT-24/MT-200        | 1.44    |       | mt_mt24mt200 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

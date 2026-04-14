@@ -12,12 +12,13 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ## Mileage Targets
-North Dakota has 1 mileage target. The most recent update occurred with version 1.44.
+North Dakota has 2 mileage targets. The most recent update occurred with version 1.59.
 
 ### Cities
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
+| <span style="color:orange;">Fargo</span>     | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">nd_fargo</span> |
 | Williston | 1.44    |       | nd_williston |
 
 ## States and Provinces of American Truck Simulator
