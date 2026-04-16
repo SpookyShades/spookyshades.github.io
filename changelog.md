@@ -1,6 +1,11 @@
 # Changelog
 <!-- https://tableconvert.com/excel-to-markdown -->
-<!--Mileage Markers ATS-58: BC,IL,MT,NV,ND,SD,WY //// ETS2-58: BE,FR,DE,NL-->
+<!--Mileage Markers ATS-59: BC,IL,MT,NV,ND,SD,WY //// ETS2-59: -->
+
+## 59.3
+For ATS/ETS2 v<span style="color:orange;"><b>1.59 OB</b></span>: 2026.4.16
+- Updated for ETS2 1.59 OB. (Which is to say, nothing changed).
+- Fixed an error where Nevada had its mileage target overview read 1.57 as its newest update rather than 1.59.
 
 ## 59.2
 For ATS v<span style="color:orange;"><b>1.59 OB</b></span> and ETS2 v<span style="color:orange;"><b>1.58</b></span>: 2026.4.14

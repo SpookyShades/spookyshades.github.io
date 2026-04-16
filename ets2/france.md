@@ -28,7 +28,7 @@ France has 55 mileage targets across both the base map and Vive la France! The m
 | Civaux               | 1.43    |       | fr_civaux    |
 | Clermont-Ferrand     | 1.43    |       | fr_clermont  |
 | Dijon                | 1.43    |       | fr_dijon     |
-| <span style="color:orange;">Dunkirk</span>              | <span style="color:orange;">1.58</span>    | <span style="color:orange;">0.314</span> | <span style="color:orange;">fr_dunkerque</span> |
+| Dunkirk              | 1.58    | 0.314 | fr_dunkerque |
 | Gap                  | 1.43    |       | fr_gap       |
 | Golfech              | 1.43    |       | fr_golfech   |
 | Lacq                 | 1.43    |       | fr_lacq      |
@@ -59,7 +59,7 @@ France has 55 mileage targets across both the base map and Vive la France! The m
 | Rouen                | 1.44    |       | fr_rouen     |
 | Saint-Alban-du-Rhône | 1.43    |       | fr_alban     |
 | Saint-Laurent        | 1.43    |       | fr_laurent   |
-| Saint-Quentin          | 1.43    |       | fr_stquentin |
+| Saint-Quentin        | 1.43    |       | fr_stquentin |
 | Strasbourg           | 1.44    |       | fr_strasbour |
 | Toulouse             | 1.43    |       | fr_toulouse  |
 | Tours                | 1.43    |       | fr_tours     |

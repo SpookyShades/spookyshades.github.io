@@ -2,7 +2,7 @@
 ?> **Note,** Nevada and all of its bordering states have been released. Potential mileage target updates may occur due to the neighboring rework to Arizona.
 
 ## Mileage Targets
-Nevada has 44 mileage targets. The most recent update occurred with version 1.57.
+Nevada has 44 mileage targets. The most recent update occurred with version 1.59.
 
 ### Cities
 
