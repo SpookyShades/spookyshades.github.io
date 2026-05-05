@@ -2,6 +2,12 @@
 <!-- https://tableconvert.com/excel-to-markdown -->
 <!--Mileage Markers ATS-59: BC,IL,MT,NV,ND,SD,WY //// ETS2-59: -->
 
+## 59.5
+For ATS v<span style="color:orange;"><b>1.59</b></span> and ETS2 v<span style="color:orange;"><b>1.59 OB</b></span>: 2026.5.5
+- Updated the Illinois (and by default the full US map) following reveal of the full Illinois map in detail during a May 5th livestream.
+- Removed duplicate Illinois maps for version 1.59, simplifying it to just one version.
+- Moved detailed map changes below their respective maps (Illinois, South Dakota).
+
 ## 59.4
 For ATS/ETS2 v<span style="color:orange;"><b>1.59 OB</b></span>: 2026.4.26
 - Updated the Illinois (and by default the full US map) following release of the Illinois Gameplay #2 video. See changes in the corresponding [Illinois](ats/illinois.md) page for details.

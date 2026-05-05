@@ -6,26 +6,17 @@
 
 ### 1.59
 
---- GAMEPLAY TRAILER 2 UPDATE
-- Corrected interstate patterns through the southern Chicago metro area
-- Brightened the 2025 ATS trailer map to make it more legible
-- Added implied continuation of I-64 east of I-57
-- Added remaining Illinois city names (Bloomington, Champaign, Chicago, Effingham)
-
-<img alt="1.59 IL (Gameplay Trailer 2 Update)" 
-     src="assets\img\statemaps\1.59-2 IL.png"
+<img alt="1.59 IL" 
+     src="assets\img\statemaps\1.59 IL.png"
      style="max-width: 100%; height: auto; width: auto; display: block;">
-
---- v1.59 UPDATE
 
 - All parts of the Illinois map hidden after 1.56 were readded to prepare for release
 - Minor changes to company boundaries, gas stations
 - Removed a hidden road off of I-57 in the far south of Illinois
 - Added a hidden road north of Marion
-
-<img alt="1.59 IL" 
-     src="assets\img\statemaps\1.59 IL.png"
-     style="max-width: 100%; height: auto; width: auto; display: block;">
+- Corrected interstate patterns through the southern Chicago metro area
+- Added remaining Illinois city names (Bloomington, Champaign, Chicago, Effingham)
+- Added the fully revealed map to replace the blurry trailer map
 
 ### 1.57-1.58
 

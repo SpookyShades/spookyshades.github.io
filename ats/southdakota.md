@@ -6,6 +6,10 @@
 
 ### 1.58-1.59
 
+<img alt="1.58 SD" 
+     src="assets\img\statemaps\1.58 SD.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
+
 - Many of the roads are now tagged for `Show in UI map` (except US-18, US-212) and assigned their DLC tags
 - Updated scenery and road layout to all roads except the above two as well
 - A section of US-18 (that was disconnected from the existing road) was removed/hidden
@@ -14,17 +18,13 @@
 - Sector `-0002-0006` was revealed with more of US-81
 - This map was unchanged going into 1.59.
 
-<img alt="1.58 SD" 
-     src="assets\img\statemaps\1.58 SD.png"
-     style="max-width: 100%; height: auto; width: auto; display: block;">
-
 ### 1.57
-
-- US-212 confirmed to continue into South Dakota from Montana.
 
 <img alt="1.57 SD" 
      src="assets\img\statemaps\1.57 SD.png"
      style="max-width: 100%; height: auto; width: auto; display: block;">
+
+- US-212 confirmed to continue into South Dakota from Montana.
 
 ### 1.56
 
