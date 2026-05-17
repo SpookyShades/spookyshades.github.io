@@ -71,7 +71,7 @@ viewBox="0 0 2715 2119"
           </polygon>
      </a>
      <a href="#/ats/indiana">
-          <polygon class="state" data-name="Indiana" data-type="both"
+          <polygon class="state" data-name="Indiana" data-type="map"
                points="1540,1251,1569,1237,1643,1232,1669,1376,1655,1390,1641,1390,1641,1407,1631,1419,1609,1424,1588,1443,1571,1441,1564,1445,1542,1455,1540,1433,1554,1395">
           </polygon>
      </a>
@@ -86,7 +86,7 @@ viewBox="0 0 2715 2119"
           </polygon>
      </a>
      <a href="#/ats/kentucky">
-          <polygon class="state" data-name="Kentucky" data-type="mileage"
+          <polygon class="state" data-name="Kentucky" data-type="both"
                points="1499,1522,1499,1501,1494,1496,1501,1486,1528,1489,1525,1474,1540,1467,1542,1460,1557,1445,1576,1438,1588,1445,1602,1426,1626,1421,1638,1412,1641,1395,1653,1395,1667,1376,1727,1388,1744,1381,1758,1390,1760,1414,1789,1441,1741,1491,1636,1503,1547,1510,1545,1520">
           </polygon>
      </a>
