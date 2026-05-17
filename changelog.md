@@ -1,6 +1,14 @@
 # Changelog
 <!-- https://tableconvert.com/excel-to-markdown -->
-<!--Mileage Markers ATS-59: BC,IL,MT,NV,ND,SD,WY //// ETS2-59: -->
+<!-- ATS-59: BC, IL, IN, KY, MN, MT, NV, ND, SD, WI, WY //// ETS2-59: -->
+
+## 59.7
+For ATS/ETS2 v<span style="color:orange;"><b>1.59</b></span>: 2026.5.17
+- Updated for the full release of Illinois.
+    - Relevant page updates: [Illinois](ats/illinois.md), [Indiana](ats/indiana.md), [Kentucky](ats/kentucky.md), [Minnesota](ats/minnesota.md), [Wisconsin](ats/wisconsin.md)
+    - Very minor page updates: [Iowa](ats/iowa.md), [Missouri](ats/missouri.md)
+- Created the [Indiana](ats/indiana.md) page now that certain roads leading into it are now accessible.
+- Created a map for [Kentucky](ats/kentucky.md) now that certain roads leading into it are now accessible.
 
 ## 59.6
 For ATS/ETS2 v<span style="color:orange;"><b>1.59</b></span>: 2026.5.6

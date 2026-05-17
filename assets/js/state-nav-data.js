@@ -8,6 +8,7 @@ window.STATE_NAV = {
     { slug: "colorado",  name: "Colorado" },
     { slug: "idaho",  name: "Idaho" },
     { slug: "illinois",  name: "Illinois" },
+    { slug: "indiana",  name: "Indiana" },
     { slug: "iowa",  name: "Iowa" },
     { slug: "kansas",  name: "Kansas" },
     { slug: "kentucky",  name: "Kentucky" },

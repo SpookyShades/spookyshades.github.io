@@ -1,5 +1,7 @@
 # Spooks' TruckSim Repository
 
+**<mark>Illinois</mark>** has released!
+
 - Hello! This website is provided to better streamline and organize all of the maps I've made over the years in one place! Given more and more projects are running simultaneously, I wouldn't be able to keep up linking map after map on the SCS forum for long before running out of available links. This also gives me a place to localize a bunch of other information I like to look at including the mileage targets.
 
 - The website is laid out to where you click below on a state/country equivalent and within contains any maps I've made through the course of its development. Mileage targets for that state are also included. Where a bundled map expansion exists, all associated states/regions of states will be bundled together (currently only valid for ETS2 expansions). Thanks for visiting! I hope the information you find here can be helpful for any and all discussions.
@@ -14,9 +16,8 @@
 
 ## ATS Interactive Map
 <!-- ATS Interactive Map -->
-<!-- indiana points 1540,1251,1569,1237,1643,1232,1669,1376,1655,1390,1641,1390,1641,1407,1631,1419,1609,1424,1588,1443,1571,1441,1564,1445,1542,1455,1540,1433,1554,1395 -->
 - Use the interactive map below to select a state or province. 
-- The officially announced maps are [British Columbia](ats/britishcolumbia.md), [Illinois](ats/illinois.md), and [South Dakota](ats/southdakota.md). 
+- The officially announced maps are [British Columbia](ats/britishcolumbia.md) and [South Dakota](ats/southdakota.md). 
 
 <div class="map-label">
   <div class="map-label-name">-----</div>
@@ -67,6 +68,11 @@ viewBox="0 0 2715 2119"
      <a href="#/ats/illinois">
           <polygon class="state" data-name="Illinois" data-type="both"
                points="1489,1496,1475,1462,1441,1436,1456,1414,1453,1402,1432,1402,1425,1383,1401,1366,1389,1338,1408,1316,1408,1280,1429,1268,1441,1237,1420,1213,1528,1203,1540,1246,1552,1395,1542,1424,1545,1469,1523,1474,1525,1489,1509,1486">
+          </polygon>
+     </a>
+     <a href="#/ats/indiana">
+          <polygon class="state" data-name="Indiana" data-type="both"
+               points="1540,1251,1569,1237,1643,1232,1669,1376,1655,1390,1641,1390,1641,1407,1631,1419,1609,1424,1588,1443,1571,1441,1564,1445,1542,1455,1540,1433,1554,1395">
           </polygon>
      </a>
      <a href="#/ats/iowa">

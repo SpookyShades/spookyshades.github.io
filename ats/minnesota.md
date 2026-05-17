@@ -7,8 +7,8 @@
 ### Preview
 !> **Note,** The map shown below only shows potential roads in their initial state before before the state was announced.
 
-<img alt="Early MN" 
-     src="https://github.com/user-attachments/assets/0be1d0bb-8865-4bbc-ba32-e1c1b57f88e6"
+<img alt="Minnesota Preview" 
+     src="assets\img\statemaps\preview-MN.png"
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ## Mileage Targets

@@ -1,5 +1,5 @@
 # Illinois
-!> **Note,** Illinois is in development. Information on this page is highly susceptible to changes in the future.
+?> **Note,** Illinois was released with v1.59. No further map updates will occur but mileage targets may be added along with future map expansions (Indiana, Kentucky, Wisconsin).
 
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.

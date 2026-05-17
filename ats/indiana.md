@@ -4,14 +4,12 @@
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
-### 1.59
+### Preview
+!> **Note,** The map shown below only shows potential roads in their initial state before before the state was announced.
 
-<img alt="Early IN" 
-     src=""
+<img alt="Indiana Preview" 
+     src="assets\img\statemaps\preview-IN.png"
      style="max-width: 100%; height: auto; width: auto; display: block;">
-
-## Mileage Targets
-Indiana has 0 mileage targets. The most recent update occurred with version None.
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

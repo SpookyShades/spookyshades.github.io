@@ -1,5 +1,5 @@
 # Iowa
-?> **Note,** Iowa was released with v1.55. No further map updates will occur but mileage targets may be added along with future map expansions (Illinois, Minnesota, South Dakota, Wisconsin).
+?> **Note,** Iowa was released with v1.55. No further map updates will occur but mileage targets may be added along with future map expansions (Minnesota, South Dakota, Wisconsin).
 
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.

@@ -1,5 +1,5 @@
 # Missouri
-?> **Note,** Missouri was released with v1.54. No further map updates will occur but mileage targets may be added along with future map expansions (Illinois, Tennessee).
+?> **Note,** Missouri was released with v1.54. No further map updates will occur but mileage targets may be added along with future map expansions (Tennessee).
 
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
