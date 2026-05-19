@@ -84,3 +84,67 @@ window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook)
     if (banner) banner.hidden = false;
   });
 });
+
+// map hover tooltip
+function initializeMapTooltips() {
+
+    const containers = document.querySelectorAll(".map-container");
+    containers.forEach(container => {
+
+        const tooltip = container.querySelector(".map-tooltip");
+        const states = container.querySelectorAll(".state");
+        if (!tooltip || states.length === 0) return;
+
+        const typeLabels = {
+            mileage: "Mileage Target",
+            map: "Map",
+            both: "Mileage Target + Map"
+        };
+
+        states.forEach(state => {
+            state.addEventListener("mouseenter", () => {
+                tooltip.classList.add("visible");
+            });
+            state.addEventListener("mouseleave", () => {
+                tooltip.classList.remove("visible");
+            });
+            state.addEventListener("mousemove", (e) => {
+
+                const name = state.dataset.name || "Unknown";
+                const type = state.dataset.type || "";
+                const flags = (state.dataset.flags || "")
+                    .split(" ")
+                    .filter(Boolean);
+
+                const flagHTML = flags.map(flag =>
+                    `<span class="flag flag-${flag}"></span>`
+                ).join("");
+
+                tooltip.innerHTML = `
+                    <div class="map-tooltip-title">
+                        ${name}
+                        ${flags.length ? " • " : ""}
+                        ${flagHTML}
+                    </div>
+
+                    <div class="map-tooltip-type">
+                        ${typeLabels[type] || type}
+                    </div>
+                `;
+
+                const rect = container.getBoundingClientRect();
+                tooltip.style.left =
+                    (e.clientX - rect.left + 15) + "px";
+                tooltip.style.top =
+                    (e.clientY - rect.top + 15) + "px";
+            });
+
+        });
+
+    });
+
+}
+
+window.addEventListener("load", () => {
+    setTimeout(initializeMapTooltips, 300);
+});

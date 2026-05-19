@@ -131,6 +131,13 @@
   text-decoration: underline;
 }
 
+/* no update banner for mobile users */
+@media (max-width: 768px) {
+  #update-banner {
+    display: none;
+  }
+}
+
 /* Wrap ONLY the active page */
 .sidebar-nav li.active > a {
   white-space: normal;

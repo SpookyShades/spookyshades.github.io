@@ -2,6 +2,19 @@
 <!-- https://tableconvert.com/excel-to-markdown -->
 <!-- ATS-59: BC, IL, IN, KY, MN, MT, NV, ND, SD, WI, WY //// ETS2-59: -->
 
+## 59.8
+For ATS/ETS2 v<span style="color:orange;"><b>1.59</b></span>: 2026.5.18
+- Overhauled many details of the landing page interactive maps.
+    - Removed the textbox above both interactive maps.
+    - Added cursor hover tooltips (with flags) to replace the removed textboxes.
+    - Minor tweaks to the image files for the interactive maps.
+    - Reworked every clickable region in both interactive maps for consistency and clarity.
+- Fixed an error where the landing page gave incorrect information regarding ongoing map expansions and reworks.
+- Adjusted clickable links on the landing page to make pages much easier to reach.
+- Added a menu of regions for both ATS and ETS2 in their respective sections on the landing page for ease of mobile user access.
+- Helped mobile users by removing the bottom update bar for narrow screens.
+- Added a logo to the repository including on the tab header.
+
 ## 59.7
 For ATS/ETS2 v<span style="color:orange;"><b>1.59</b></span>: 2026.5.17
 - Updated for the full release of Illinois.

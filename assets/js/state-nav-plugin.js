@@ -22,13 +22,10 @@
   window.$docsify = window.$docsify || {};
   window.$docsify.plugins = [].concat(function (hook, vm) {
     hook.afterEach(function (html) {
-      const match = html.match(/<!--\s*state-nav:\s*(ats|ets2)\s*-->/);
-      if (!match) return html;
-
-      const navType = match[1];
-      const nav = renderStateNav(navType, vm.route.path);
-
-      return html.replace(match[0], nav);
+      return html.replace(
+       /<!--\s*state-nav:\s*(ats|ets2)\s*-->/g,
+       (_, navType) => renderStateNav(navType, vm.route.path)
+);
     });
   }, window.$docsify.plugins || []);
 })();
