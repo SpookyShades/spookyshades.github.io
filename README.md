@@ -1,14 +1,12 @@
 # Spooks' TruckSim Repository
 
-**<mark>Illinois</mark>** has released!
-
 - Hello! This website is provided to better streamline and organize all of the maps I've made over the years in one place! Given more and more projects are running simultaneously, I wouldn't be able to keep up linking map after map on the SCS forum for long before running out of available links. This also gives me a place to localize a bunch of other information I like to look at including the mileage targets.
 
 - The website is laid out to where you click below on a state/country equivalent and within contains any maps I've made through the course of its development. Mileage targets for that state are also included. Where a bundled map expansion exists, all associated states/regions of states will be bundled together (currently only valid for ETS2 expansions). Thanks for visiting! I hope the information you find here can be helpful for any and all discussions.
 
 - Want further explanation regarding how the maps and mileage targets can be interpreted or found? <span style="color: #3498db">[Click here!](interpretation.md)</span>
 
-- This website is updated for version **<mark>v1.59</mark>** released on May 5th (ATS) and May 6th (ETS2).
+- This website is updated for version **<mark>v1.60 OB</mark>** released on June 2nd (ATS) and version **<mark>v1.59</mark>** released May 6th (ETS2).
 
 **<mark>[Check out the changelog here for the most recent updates!](changelog.md)</mark>**
 

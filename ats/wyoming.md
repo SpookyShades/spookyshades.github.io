@@ -2,7 +2,7 @@
 ?> **Note,** Wyoming has been released. No further map updates will occur but mileage targets may be added along with future map expansions (South Dakota).
 
 ## Mileage Targets
-Wyoming has 61 mileage targets. The most recent update occurred with version 1.59.
+Wyoming has 61 mileage targets. The most recent update occurred with version 1.60.
 
 ### Cities
 
@@ -64,7 +64,7 @@ Wyoming has 61 mileage targets. The most recent update occurred with version 1.5
 | US-20 Border             | 1.50    | 0.78  | newy_us20_sl |
 | US-26 Border             | 1.50    | 0.78  | newyus26sl   |
 | US-26 Border             | 1.43    |       | id_wy_sl_26  |
- <span style="color:orange;">US-212 Border (MT)</span>  | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">sdmt_sl212</span>   |
+ US-212 Border (MT)        | 1.59    | 0.317 | sdmt_sl212   |
 | CO-13/WY-789 Border      | 1.43    |       | cowysl789    |
 | MT-59/WY-59 Border       | 1.44    |       | mtwy_sl59    |
 
@@ -73,11 +73,12 @@ Wyoming has 61 mileage targets. The most recent update occurred with version 1.5
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
 | WY-220/WY-487      | 1.43    |       | wy_220x487   |
-| I-25 / US-26       | 1.50    | 0.92  | wy_i25x26    |
-| I-25 / I-80        | 1.43    |       | wy_i25xi80   |
-| I-90 / US-14       | 1.43    |       | wy_i90xus14  |
+| I-25/US-26       | 1.50    | 0.92  | wy_i25x26    |
+| I-25/I-80        | 1.43    |       | wy_i25xi80   |
+| I-90/US-14       | 1.43    |       | wy_i90xus14  |
 | US-14/US-310       | 1.45    |       | wy_us14us310 |
 | US-14/US-14 Alt    | 1.43    |       | wy_us14xalt  |
+| <span style="color:orange;">US-18/US-85</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">wy_us18xus85</span> |
 | US-26/US-287       | 1.43    |       | wy_us26x287  |
 
 ## States and Provinces of American Truck Simulator

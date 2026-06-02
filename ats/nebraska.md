@@ -18,7 +18,7 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ## Mileage Targets
-Nebraska has 72 mileage targets. The most recent update occurred with version 1.45.
+Nebraska has 52 mileage targets. The most recent update occurred with version 1.60.
 
 ### Cities
 
@@ -70,6 +70,7 @@ Nebraska has 72 mileage targets. The most recent update occurred with version 1.
 | I-80 Border                    | 1.50    | 0.78  | ne_wy_i80_sl |
 | US-20 Border                   | 1.50    | 0.78  | newy_us20_sl |
 | US-26 Border                   | 1.50    | 0.78  | newyus26sl   |
+| <span style="color:orange;">US-81 Border</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sdne_sl83</span> |
 
 ### Junctions
 

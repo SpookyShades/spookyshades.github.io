@@ -55,7 +55,7 @@ Illinois has 34 mileage targets. The most recent update occurred with version 1.
 | Galena             | 1.58    | 0.305 | il_galena    |
 | Gilman             | 1.58    | 0.305 | il_gilman    |
 | Grayville          | 1.57    | 0.46  | il_grayville |
-| <span style="color:orange;">Joliet</span>             | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">il_joliet</span>    |
+| Joliet             | 1.59    | 0.317 | il_joliet    |
 | Little America     | 1.58    | 0.305 | il_lilameric |
 | Macomb             | 1.57    | 0.46  | il_macomb    |
 | Marion             | 1.57    | 0.46  | il_marion    |

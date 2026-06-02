@@ -1,6 +1,12 @@
 # Changelog
 <!-- https://tableconvert.com/excel-to-markdown -->
-<!-- ATS-59: BC, IL, IN, KY, MN, MT, NV, ND, SD, WI, WY //// ETS2-59: -->
+<!-- ATS-59: BC,NE,NV,SD,WY //// ETS2-59: -->
+
+## 60.1
+For ATS v<span style="color:orange;"><b>1.60 OB</b></span> and ETS2 v<span style="color:orange;"><b>1.59</b></span>: 2026.6.2
+- Updated mileage targets for ATS 1.60 OB
+    - Page updates: [British Columbia](ats/britishcolumbia.md), [Nebraska](ats/nebraska.md), [Nevada](ats/nevada.md), [South Dakota](ats/southdakota.md), & [Wyoming](ats/wyoming.md)
+
 
 ## 59.8
 For ATS/ETS2 v<span style="color:orange;"><b>1.59</b></span>: 2026.5.18

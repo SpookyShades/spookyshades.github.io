@@ -8,7 +8,7 @@ Montana has 75 mileage targets. The most recent update occurred with version 1.5
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| <span style="color:orange;">Alzada</span>              | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">mt_alzad</span>     |
+| Alzada              | 1.59    | 0.317 | mt_alzad     |
 | Babb                | 1.45    |       | mt_babb      |
 | Belt                | 1.45    |       | mt_belt      |
 | Big Sandy           | 1.44    |       | mt_bigsandy  |
@@ -71,9 +71,9 @@ Montana has 75 mileage targets. The most recent update occurred with version 1.5
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| <span style="color:orange;">US-93 Border (CAN)</span>  | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">can_usa_93</span>   |
+| US-93 Border (CAN)  | 1.59    | 0.317 | can_usa_93   |
 | US-93 Border (ID)         | 1.44    |       | idmtus93sl   |
-| <span style="color:orange;">US-212 Border (near Alzada)</span>  | <span style="color:orange;">1.59</span>    | <span style="color:orange;">0.317</span> | <span style="color:orange;">sdmt_sl212</span>   |
+| US-212 Border (near Alzada)  | 1.59    | 0.317 | sdmt_sl212   |
 | MT-59/WY-59 Border        | 1.44    |       | mtwy_sl59    |
 
 ### Junctions
