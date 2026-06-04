@@ -46,23 +46,23 @@ Utah has 47 mileage targets. The most recent update occurred with version 1.57.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-15 Border           | 1.43    |       | az_ut_i15_sl |
-| Four Corners    | 1.43    |       | azconmut4c   |
-| US-163 Border         | 1.57    | 0.46  | azut_sl163   |
-| I-70 Border           | 1.43    |       | co_ut_sl_i70 |
-| US-6 Border           | 1.43    |       | nv_ut_sl6    |
+| Four Corners <span style="color:gray;">— Arizona, Colorado, New Mexico</span>   | 1.43    |       | azconmut4c   |
+| I-15 <span style="color:gray;">— Arizona</span>           | 1.43    |       | az_ut_i15_sl |
+| I-70 <span style="color:gray;">— Colorado</span>           | 1.43    |       | co_ut_sl_i70 |
+| US-6 <span style="color:gray;">— Nevada</span>           | 1.43    |       | nv_ut_sl6    |
+| US-163 <span style="color:gray;">— Arizona</span>         | 1.57    | 0.46  | azut_sl163   |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-15/UT-26      | 1.44    |       | ut_i15ut26   |
 | I-15/I-70       | 1.43    |       | ut_i15xi70   |
-| I-15/I-80       | 1.43    |       | ut_i15xi80n  |
+| I-15/I-80 (north) | 1.43    |       | ut_i15xi80n  |
+| I-15/I-80 (south) | 1.43    |       | ut_i25i80s   |
 | I-15/I-84       | 1.43    |       | ut_i15xi84s  |
-| I-15/I-80       | 1.43    |       | ut_i25i80s   |
-| I-70/US-191     | 1.43    |       | ut_i70xus191 |
+| I-15/SR-26      | 1.44    |       | ut_i15ut26   |
 | I-70/US-6       | 1.43    |       | ut_i70xus6   |
+| I-70/US-191     | 1.43    |       | ut_i70xus191 |
 | I-80/I-84       | 1.43    |       | ut_i80xi84   |
 | I-80/US-40      | 1.43    |       | ut_i80xus40  |
 

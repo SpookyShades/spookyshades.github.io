@@ -87,16 +87,16 @@ Louisiana has 43 mileage targets. The most recent update occurred with version 1
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-10 / US-165  | 1.55    | 0.90  | la_i10x165   |
-| I-10 / I-12    | 1.56    | 0.50  | la_i10xi12   |
-| I-49 / US-167  | 1.56    | 0.50  | la_i49x167   |
-| I-49 / LA-6    | 1.56    | 0.50  | la_i49xla6   |
-| LA-1 / LA-15   | 1.56    | 0.50  | la_la1x15    |
-| US-171 / LA-26 | 1.56    | 0.50  | la_us171x26  |
-| US-190 / LA-1  | 1.56    | 0.50  | la_us190x1   |
-| US-84 / US-165 | 1.56    | 0.50  | la_us84x165  |
-| US-90 / LA-14  | 1.56    | 0.50  | la_us90x14   |
-| US-90 / LA-318 | 1.56    | 0.50  | la_us90x318  |
+| I-10/I-12    | 1.56    | 0.50  | la_i10xi12   |
+| I-10/US-165  | 1.55    | 0.90  | la_i10x165   |
+| I-49/US-167  | 1.56    | 0.50  | la_i49x167   |
+| I-49/LA 6    | 1.56    | 0.50  | la_i49xla6   |
+| US-84/US-165 | 1.56    | 0.50  | la_us84x165  |
+| US-90/LA 14  | 1.56    | 0.50  | la_us90x14   |
+| US-90/LA 318 | 1.56    | 0.50  | la_us90x318  |
+| US-171/LA 26 | 1.56    | 0.50  | la_us171x26  |
+| US-190/LA 1  | 1.56    | 0.50  | la_us190x1   |
+| LA 1/LA 15   | 1.56    | 0.50  | la_la1x15    |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

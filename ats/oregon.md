@@ -59,10 +59,10 @@ Oregon has 54 mileage targets. The most recent update occurred with version 1.43
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-101 Border           | 1.43    |       | ca_or_sl_101 |
-| US-199 Border           | 1.43    |       | ca_or_sl_199 |
-| US-395 Border           | 1.43    |       | ca_or_sl_395 |
-| US-97 Border            | 1.43    |       | ca_or_sl_97  |
+| US-97 <span style="color:gray;">— California</span>            | 1.43    |       | ca_or_sl_97  |
+| US-101 <span style="color:gray;">— California</span>           | 1.43    |       | ca_or_sl_101 |
+| US-199 <span style="color:gray;">— California</span>           | 1.43    |       | ca_or_sl_199 |
+| US-395 <span style="color:gray;">— California</span>           | 1.43    |       | ca_or_sl_395 |
 
 ### Junctions
 
@@ -71,7 +71,7 @@ Oregon has 54 mileage targets. The most recent update occurred with version 1.43
 | I-5/I-405         | 1.43    |       | or_i5xi405s  |
 | I-82/I-84         | 1.43    |       | or_i82i84    |
 | US-20/US-395      | 1.43    |       | or_us20us395 |
-| US-97/OR-58       | 1.43    |       | or_us97nor58 |
+| US-97/OR 58       | 1.43    |       | or_us97nor58 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

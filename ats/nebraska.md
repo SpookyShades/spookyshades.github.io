@@ -67,25 +67,25 @@ Nebraska has 52 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-80 Border                    | 1.50    | 0.78  | ne_wy_i80_sl |
-| US-20 Border                   | 1.50    | 0.78  | newy_us20_sl |
-| US-26 Border                   | 1.50    | 0.78  | newyus26sl   |
-| <span style="color:orange;">US-81 Border</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sdne_sl83</span> |
+| I-80 <span style="color:gray;">— Wyoming</span>                    | 1.50    | 0.78  | ne_wy_i80_sl |
+| US-20 <span style="color:gray;">— Wyoming</span>                   | 1.50    | 0.78  | newy_us20_sl |
+| US-26 <span style="color:gray;">— Wyoming</span>                   | 1.50    | 0.78  | newyus26sl   |
+| <span style="color:orange;">US-81 — South Dakota</span>  | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sdne_sl83</span> |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-76 / I-80              | 1.50    | 0.78  | ne_i76xi80   |
-| I-80 / US-183            | 1.50    | 0.78  | ne_i80us183  |
-| I-80 / NE-17B            | 1.50    | 0.78  | ne_i80x17b   |
-| I-80 / US-6              | 1.50    | 0.78  | ne_i80xus6   |
-| I-80 / US-81             | 1.50    | 0.78  | ne_i80xus81  |
-| US-20 / US-275           | 1.55    | 0.90  | ne_us_20x275 |
-| US-20 / US-81            | 1.55    | 0.90  | ne_us20x81   |
-| US-26 / NE-61            | 1.50    | 0.78  | ne_us26xne61 |
-| US-81 / US-136           | 1.50    | 0.78  | ne_us81x136  |
-| US-81 / NE-92            | 1.50    | 0.78  | ne_us81xne92 |
+| I-76/I-80              | 1.50    | 0.78  | ne_i76xi80   |
+| I-80/US-6              | 1.50    | 0.78  | ne_i80xus6   |
+| I-80/US-81             | 1.50    | 0.78  | ne_i80xus81  |
+| I-80/US-183            | 1.50    | 0.78  | ne_i80us183  |
+| I-80/N-17B             | 1.50    | 0.78  | ne_i80x17b   |
+| US-20/US-81            | 1.55    | 0.90  | ne_us20x81   |
+| US-20/US-275           | 1.55    | 0.90  | ne_us_20x275 |
+| US-26/N-61             | 1.50    | 0.78  | ne_us26xne61 |
+| US-81/US-136           | 1.50    | 0.78  | ne_us81x136  |
+| US-81/N-92             | 1.50    | 0.78  | ne_us81xne92 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

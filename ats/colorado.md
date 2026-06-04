@@ -66,11 +66,12 @@ Colorado has 65 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-70 Border             | 1.43    |       | co_ut_sl_i70 |
-| US-50/US-400 Border     | 1.49    | 0.44  | coks_slus50  |
-| US-287 Border           | 1.47    |       | cooksl287    |
-| CO-13/WY-789 Border     | 1.43    |       | cowysl789    |
-| I-25 Border              | 1.47    |       | cowysli25    |
+| Four Corners <span style="color:gray;">— Arizona, New Mexico, Utah</span> | 1.43    |       | azconmut4c   |
+| I-25 <span style="color:gray;">— Wyoming</span>              | 1.47    |       | cowysli25    |
+| I-70 <span style="color:gray;">— Utah</span>             | 1.43    |       | co_ut_sl_i70 |
+| US-50/US-400 <span style="color:gray;">— Kansas</span>     | 1.49    | 0.44  | coks_slus50  |
+| US-287 <span style="color:gray;">— Oklahoma</span>           | 1.47    |       | cooksl287    |
+| CO-13/WY-789 <span style="color:gray;">— Wyoming</span>     | 1.43    |       | cowysl789    |
 
 ### Junctions
 

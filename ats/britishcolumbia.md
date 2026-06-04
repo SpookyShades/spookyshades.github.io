@@ -50,8 +50,8 @@ British Columbia has 30 mileage targets. The most recent update occurred with ve
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-93 Border               | 1.59    | 0.317 | can_usa_93   |
-| US-95 Border               | 1.44    |       | id_us95can   |
+| US-93 <span style="color:gray;">— Montana</span>  | 1.59    | 0.317 | can_usa_93   |
+| US-95 <span style="color:gray;">— Idaho  </span>  | 1.44    |       | id_us95can   |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

@@ -72,36 +72,32 @@ Kansas has 60 mileage targets. The most recent update occurred with version 1.49
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-50/US-400 Border        | 1.49    | 0.44  | coks_slus50  |
-| US-83 Border              | 1.49    | 0.44  | ksok_sl83    |
-| I-35 Border               | 1.49    | 0.44  | ksok_sli35   |
-| US-183 Border             | 1.49    | 0.44  | ksoksl183    |
+| US-50/US-400 <span style="color:gray;">— Colorado</span>        | 1.49    | 0.44  | coks_slus50  |
+| US-83 <span style="color:gray;">— Oklahoma</span>              | 1.49    | 0.44  | ksok_sl83    |
+| I-35 <span style="color:gray;">— Oklahoma</span>               | 1.49    | 0.44  | ksok_sli35   |
+| US-183 <span style="color:gray;">— Oklahoma</span>             | 1.49    | 0.44  | ksoksl183    |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-135/I-70          | 1.49    | 0.44  | ks_i135xi70  |
 | I-35/US-75          | 1.49    | 0.44  | ks_i35xus75  |
-| I-70/I-470          | 1.49    | 0.44  | ks_i470xi70  |
-| I-70/I-470          | 1.49    | 0.44  | ks_i70470w   |
-| I-70/I-470          | 1.49    | 0.44  | ks_i70i470   |
+| I-70/I-470          | 1.49    | 0.44  | ks_i470xi70,ks_i70470w,ks_i70i470  |
 | I-70/I-635          | 1.49    | 0.44  | ks_i70i635   |
 | I-70/US-75          | 1.49    | 0.44  | ks_i70us75e  |
-| I-70/KS-156         | 1.49    | 0.44  | ks_i70xks156 |
-| US-160/US-183       | 1.49    | 0.44  | ks_us160us18 |
-| US-183/KS-156       | 1.49    | 0.44  | ks_us183156  |
-| US-400/KS-99 E      | 1.49    | 0.44  | ks_us40099e  |
-| US-400/KS-99 W      | 1.49    | 0.44  | ks_us40099w  |
-| US-54/KS-3          | 1.49    | 0.44  | ks_us54ks3   |
-| US-54/KS-99         | 1.49    | 0.44  | ks_us54ks99  |
-| US-54 US-400/US-183 | 1.49    | 0.44  | ks_us54us183 |
-| US-54/US-400        | 1.49    | 0.44  | ks_us54x400  |
+| I-70/K-156          | 1.49    | 0.44  | ks_i70xks156 |
+| I-135/I-70          | 1.49    | 0.44  | ks_i135xi70  |
 | US-54/US-69         | 1.49    | 0.44  | ks_us54xus69 |
-| US-69/US-400        | 1.49    | 0.44  | ks_us69400   |
-| US-69/US-400 N      | 1.49    | 0.44  | ks_us694002  |
+| US-54/US-400        | 1.49    | 0.44  | ks_us54x400  |
+| US-54 US-400/US-183 | 1.49    | 0.44  | ks_us54us183 |
+| US-54/K-3           | 1.49    | 0.44  | ks_us54ks3   |
+| US-54/K-99          | 1.49    | 0.44  | ks_us54ks99  |
+| US-69/US-400        | 1.49    | 0.44  | ks_us69400,ks_us694002   |
 | US-75/US-400        | 1.49    | 0.44  | ks_us75x400  |
 | US-81/US-24         | 1.49    | 0.44  | ks_us81xus24 |
+| US-160/US-183       | 1.49    | 0.44  | ks_us160us18 |
+| US-183/K-156        | 1.49    | 0.44  | ks_us183156  |
+| US-400/K-99         | 1.49    | 0.44  | ks_us40099e, ks_us40099w  |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

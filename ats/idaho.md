@@ -50,15 +50,15 @@ Idaho has 43 mileage targets. The most recent update occurred with version 1.46.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-95 Border               | 1.44    |       | id_us95can   |
-| US-26 Border              | 1.43    |       | id_wy_sl_26  |
-| US-93 Border              | 1.44    |       | idmtus93sl   |
+| US-26 <span style="color:gray;">— Wyoming</span>              | 1.43    |       | id_wy_sl_26  |
+| US-93 <span style="color:gray;">— Montana</span>              | 1.44    |       | idmtus93sl   |
+| US-95 <span style="color:gray;">— British Columbia</span>               | 1.44    |       | id_us95can   |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-15/ID-33          | 1.44    |       | id_i15id33   |
+| I-15/SH-33          | 1.44    |       | id_i15id33   |
 | I-84/I-86           | 1.43    |       | id_i84xi86   |
 | US-2/US-95          | 1.44    |       | id_us2us95   |
 

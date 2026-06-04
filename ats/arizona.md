@@ -68,43 +68,44 @@ Arizona has 88 mileage targets. The most recent update occurred with version 1.5
 ### Borders
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| Hoover Dam                 | 1.43    |       | az_nv_hoover |
-| I-15 Border                       | 1.43    |       | az_nv_i15_sl |
-| I-15 Border                      | 1.43    |       | az_ut_i15_sl |
-| Four Corners               | 1.43    |       | azconmut4c   |
-| I-10 Border                      | 1.45    |       | aznmi10sl    |
-| US-163 Border                    | 1.57    | 0.46  | azut_sl163   |
+| Four Corners <span style="color:gray;">— Colorado, New Mexico, Utah</span> | 1.43    |       | azconmut4c   |
+| Hoover Dam <span style="color:gray;">— Nevada</span>                       | 1.43    |       | az_nv_hoover |
+| I-10 <span style="color:gray;">— New Mexico</span>                         | 1.45    |       | aznmi10sl    |
+| I-15 <span style="color:gray;">— Nevada</span>                             | 1.43    |       | az_nv_i15_sl |
+| I-15 <span style="color:gray;">— Utah</span>                               | 1.43    |       | az_ut_i15_sl |
+| I-19 <span style="color:gray;">— Mexico</span>  | 1.43    |       | mx_mexicoi19 |
+| US-163 <span style="color:gray;">— Utah</span>                             | 1.57    | 0.46  | azut_sl163   |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| AZ-89/AZ-260               | 1.43    |       | az_az89az260 |
-| I-10/AZ-303                | 1.43    |       | az_i10az303  |
-| I-10/AZ-77                 | 1.43    |       | az_i10az77   |
-| I-10/AZ-90                 | 1.43    |       | az_i10az90   |
+| I-8/I-10                   | 1.43    |       | az_i8i10     |
+| I-8/SR 85                  | 1.43    |       | az_i8az85    |
 | I-10/I-17                  | 1.43    |       | az_i10i17    |
 | I-10/I-19                  | 1.43    |       | az_i10i19    |
 | I-10/US-60                 | 1.43    |       | az_i10us60   |
-| I-17/AZ-260                | 1.43    |       | az_i17az260  |
-| I-17/AZ-303                | 1.43    |       | az_i17az303  |
+| I-10/SR 77                 | 1.43    |       | az_i10az77   |
+| I-10/SR 90                 | 1.43    |       | az_i10az90   |
+| I-10/SR 303                | 1.43    |       | az_i10az303  |
 | I-17/I-40                  | 1.43    |       | az_i17i40    |
-| I-17 / AZ-179              | 1.57    | 0.46  | az_i17x179   |
-| I-40/AZ-89                 | 1.43    |       | az_i40az89   |
+| I-17/SR 179                | 1.57    | 0.46  | az_i17x179   |
+| I-17/SR 260                | 1.43    |       | az_i17az260  |
+| I-17/SR 303                | 1.43    |       | az_i17az303  |
+| I-40/US-93                 | 1.43    |       | az_i40us93e  |
 | I-40/US-180                | 1.43    |       | az_i40us180w |
 | I-40/US-191                | 1.43    |       | az_i40us191  |
-| I-40/US-93                 | 1.43    |       | az_i40us93e  |
-| I-8/AZ-85                  | 1.43    |       | az_i8az85    |
-| I-8/I-10                   | 1.43    |       | az_i8i10     |
+| I-40/SR 89                 | 1.43    |       | az_i40az89   |
 | 1-40/Needle Mt. Rd.        | 1.53    | 0.16  | az_needlerd  |
-| US-160/US-191              | 1.43    |       | az_us160191  |
-| US-160/AZ-98               | 1.43    |       | az_us160az98 |
-| US-191 / AZ-61             | 1.57    | 0.46  | az_us191x61  |
-| US-60/AZ-303               | 1.43    |       | az_us60az303 |
-| US-60 / US-180             | 1.57    | 0.46  | az_us60x180  |
+| US-60/US-180               | 1.57    | 0.46  | az_us60x180  |
+| US-60/SR 303               | 1.43    |       | az_us60az303 |
+| US-89/US-89A               | 1.57    | 0.46  | az_us89x89a  |
 | US-89/US-160               | 1.43    |       | az_us89us160 |
-| US-89 / US-89a             | 1.57    | 0.46  | az_us89x89a  |
-| US-93 / AZ-68              | 1.57    | 0.46  | az_us93x68   |
+| US-93/SR 68                | 1.57    | 0.46  | az_us93x68   |
+| US-160/US-191              | 1.43    |       | az_us160191  |
+| US-160/SR 98               | 1.43    |       | az_us160az98 |
+| US-191/SR 61               | 1.57    | 0.46  | az_us191x61  |
+| SR 89/SR 260               | 1.43    |       | az_az89az260 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

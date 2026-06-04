@@ -71,28 +71,28 @@ Montana has 75 mileage targets. The most recent update occurred with version 1.5
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-93 Border (CAN)  | 1.59    | 0.317 | can_usa_93   |
-| US-93 Border (ID)         | 1.44    |       | idmtus93sl   |
-| US-212 Border (near Alzada)  | 1.59    | 0.317 | sdmt_sl212   |
-| MT-59/WY-59 Border        | 1.44    |       | mtwy_sl59    |
+| US-93 <span style="color:gray;">— British Columbia</span>  | 1.59    | 0.317 | can_usa_93   |
+| US-93 <span style="color:gray;">— Idaho</span>         | 1.44    |       | idmtus93sl   |
+| US-212 <span style="color:gray;">— Wyoming</span>  | 1.59    | 0.317 | sdmt_sl212   |
+| MT-59/WY-59 <span style="color:gray;">— Wyoming</span>        | 1.44    |       | mtwy_sl59    |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-15/I-90e          | 1.44    |       | mt_i15i90    |
-| I-15/I-90w          | 1.44    |       | mt_i15i90w   |
+| I-15/I-90 (east)    | 1.44    |       | mt_i15i90    |
+| I-15/I-90 (west)    | 1.44    |       | mt_i15i90w   |
 | I-90/I-94           | 1.44    |       | mt_i90i94    |
-| I-90/MT-200         | 1.44    |       | mt_i90mt200e |
 | I-90/US-89          | 1.44    |       | mt_i90us89   |
-| US-191/MT-19        | 1.44    |       | mt_us191mt19 |
-| US-212/US-310       | 1.44    |       | mt_us212310  |
-| US-2/MT-24          | 1.44    |       | mt_us2mt24   |
-| US-87/US-191        | 1.44    |       | mt_us87us191 |
+| I-90/MT 200         | 1.44    |       | mt_i90mt200e |
+| US-2/MT 24          | 1.44    |       | mt_us2mt24   |
 | US-87/US-89         | 1.44    |       | mt_us87us89  |
-| US-93/MT-43         | 1.45    |       | mt_us93mt43  |
-| MT-135/MT-200       | 1.44    |       | mt_mt135x200 |
-| MT-24/MT-200        | 1.44    |       | mt_mt24mt200 |
+| US-87/US-191        | 1.44    |       | mt_us87us191 |
+| US-93/MT 43         | 1.45    |       | mt_us93mt43  |
+| US-191/MT 19        | 1.44    |       | mt_us191mt19 |
+| US-212/US-310       | 1.44    |       | mt_us212310  |
+| MT 24/MT 200        | 1.44    |       | mt_mt24mt200 |
+| MT 135/MT 200       | 1.44    |       | mt_mt135x200 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

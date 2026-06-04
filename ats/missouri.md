@@ -74,30 +74,29 @@ Missouri has 52 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-412 Border            | 1.54    | 0.30  | armosl412    |
-| US-65 Border             | 1.54    | 0.30  | armosl65     |
-| US-67 Border             | 1.54    | 0.30  | armosl67     |
-| US-61 Border             | 1.55    | 0.90  | ia_mo_61_sl  |
-| I-44 (east)        | 1.54    | 0.30  | mook_sl44e   |
-| I-44 (west)        | 1.54    | 0.30  | mook_sl44w   |
+| US-412 <span style="color:gray;">— Arkansas</span>            | 1.54    | 0.30  | armosl412    |
+| US-65 <span style="color:gray;">— Arkansas</span>             | 1.54    | 0.30  | armosl65     |
+| US-67 <span style="color:gray;">— Arkansas</span>             | 1.54    | 0.30  | armosl67     |
+| US-61 <span style="color:gray;">— Iowa</span>             | 1.55    | 0.90  | ia_mo_61_sl  |
+| I-44 <span style="color:gray;">— Oklahoma</span>       | 1.54    | 0.30  | mook_sl44e, mook_sl44w   |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-29 / I-229       | 1.54    | 0.30  | mo_i29x229   |
-| I-29 / I-635       | 1.54    | 0.30  | mo_i29x635   |
-| I-29 / I-35        | 1.54    | 0.30  | mo_i29xi35   |
-| I-44 / I-49        | 1.54    | 0.30  | mo_i44x49    |
-| I-44 / US-50       | 1.54    | 0.30  | mo_i44x50    |
-| I-55 / I-155       | 1.54    | 0.30  | mo_i55i155   |
-| I-55/ I-57         | 1.54    | 0.30  | mo_i55i57    |
-| I-64 / I-70        | 1.54    | 0.30  | mo_i64x70    |
-| I-70 / MO-13       | 1.53    | 0.16  | mo_i70mo13   |
-| I-70 / US-65       | 1.53    | 0.16  | mo_i70xus65  |
-| US-50 / US-63      | 1.54    | 0.30  | mo_us50x63   |
-| US-54 / US-63      | 1.53    | 0.53  | mo_us54xus63 |
-| US-65 / MO-52      | 1.54    | 0.30  | mo_us65xmo52 |
+| I-29/I-35        | 1.54    | 0.30  | mo_i29xi35   |
+| I-29/I-229       | 1.54    | 0.30  | mo_i29x229   |
+| I-29/I-635       | 1.54    | 0.30  | mo_i29x635   |
+| I-44/I-49        | 1.54    | 0.30  | mo_i44x49    |
+| I-44/US-50       | 1.54    | 0.30  | mo_i44x50    |
+| I-55/I-57        | 1.54    | 0.30  | mo_i55i57    |
+| I-55/I-155       | 1.54    | 0.30  | mo_i55i155   |
+| I-64/I-70        | 1.54    | 0.30  | mo_i64x70    |
+| I-70/US-65       | 1.53    | 0.16  | mo_i70xus65  |
+| I-70/Route 13    | 1.53    | 0.16  | mo_i70mo13   |
+| US-50/US-63      | 1.54    | 0.30  | mo_us50x63   |
+| US-54/US-63      | 1.53    | 0.53  | mo_us54xus63 |
+| US-65/Route 52   | 1.54    | 0.30  | mo_us65xmo52 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

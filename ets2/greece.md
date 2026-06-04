@@ -53,7 +53,7 @@ Greece has 28 mileage targets. The most recent update occurred with version 1.53
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| Kipi/Ipsala Border | 1.53    | 0.22  | gr_border_k  |
+| Kipi/Ipsala <span style="color:gray;">— Turkey</span> | 1.53    | 0.22  | gr_border_k  |
 
 ## DLCs of Euro Truck Simulator 2
 <!-- state-nav: ets2 -->

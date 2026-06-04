@@ -118,7 +118,7 @@ Norway has 50 mileage targets across Nordic Horizons and Scandinavia. The most r
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| Border E10   | 1.56    | 0.57  | no_bordere10 |
+| E10 <span style="color:gray;">— Sweden</span>   | 1.56    | 0.57  | no_bordere10 |
 
 ### 🇸🇪 Sweden
 Sweden has 76 mileage targets across Nordic Horizons and Scandinavia. The most recent update occurred with version 1.57.
@@ -207,7 +207,7 @@ Sweden has 76 mileage targets across Nordic Horizons and Scandinavia. The most r
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| Border E10   | 1.56    | 0.57  | no_bordere10 |
+| E10 <span style="color:gray;">— Norway</span>  | 1.56    | 0.57  | no_bordere10 |
 
 ## DLCs of Euro Truck Simulator 2
 <!-- state-nav: ets2 -->

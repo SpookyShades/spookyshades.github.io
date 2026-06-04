@@ -111,51 +111,49 @@ California has 138 mileage targets. The most recent update occurred with version
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-395 Border             | 1.43    |       | ca_nv_sl395n |
-| US-395 Border             | 1.47    |       | ca_nv_sl395s |
-| US-101 Border             | 1.43    |       | ca_or_sl_101 |
-| US-199 Border             | 1.43    |       | ca_or_sl_199 |
-| US-395 Border             | 1.43    |       | ca_or_sl_395 |
-| US-97 Border              | 1.43    |       | ca_or_sl_97  |
-| I-80 Border               | 1.44    |       | canv_sl80    |
+| I-80 <span style="color:gray;">— Nevada</span>               | 1.44    |       | canv_sl80    |
+| US-97 <span style="color:gray;">— Oregon</span>              | 1.43    |       | ca_or_sl_97  |
+| US-101 <span style="color:gray;">— Oregon</span>             | 1.43    |       | ca_or_sl_101 |
+| US-199 <span style="color:gray;">— Oregon</span>             | 1.43    |       | ca_or_sl_199 |
+| US-395 <span style="color:gray;">— Oregon</span>             | 1.43    |       | ca_or_sl_395 |
+| US-395 (north) <span style="color:gray;">— Nevada</span>             | 1.43    |       | ca_nv_sl395n |
+| US-395 (south) <span style="color:gray;">— Nevada</span>             | 1.47    |       | ca_nv_sl395s |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-101 / CA-58      | 1.50    | 0.78  | ca_101x58    |
-| CA-136 / CA-190     | 1.50    | 0.78  | ca_136x190   |
-| CA-36 / CA-44       | 1.43    |       | ca_36x44     |
-| US-395 / CA-120 Nth | 1.49    | 0.44  | ca_395x120n  |
-| US-395 / CA-120 Sth | 1.49    | 0.44  | ca_395x120s  |
-| US-395 / CA-89      | 1.49    | 0.44  | ca_395x89    |
-| U-405 / US-101      | 1.53    | 0.16  | ca_405x101   |
-| CA-99 / CA-152a     | 1.50    | 0.78  | ca_99x152a   |
-| CA-78 / CA-86       | 1.53    | 0.16  | ca_ca78x86   |
-| CA-99 / CA-120      | 1.50    | 0.78  | ca_ca99ca120 |
-| I-10 / US-95        | 1.43    |       | ca_i10us95   |
-| I-15 / CA-58        | 1.51    | 0.41  | ca_i1558     |
-| I-15 / CA-76        | 1.51    | 0.41  | ca_i15x76    |
-| I-580 / I-880       | 1.50    | 0.78  | ca_i580x880  |
-| I-5 / CA-152        | 1.50    | 0.78  | ca_i5ca152   |
-| I-5 / CA-198        | 1.50    | 0.78  | ca_i5ca198   |
-| I-5 / CA-269        | 1.50    | 0.78  | ca_i5ca269   |
-| I-5 / I-405         | 1.51    | 0.41  | ca_i5i405    |
-| I-5 / US-101        | 1.53    | 0.16  | ca_i5x101    |
-| I-5 / CA-58 Sth     | 1.50    | 0.78  | ca_i5xca58   |
-| I-5 / CA-58 Nth     | 1.53    | 0.16  | ca_i5xca58n  |
-| I-5 / CA-99         | 1.51    | 0.60  | ca_i5xca99   |
-| I-5 / I-710         | 1.53    | 0.16  | ca_i5xi710   |
-| I-5 / I-80          | 1.43    |       | ca_i5xi80    |
-| I-5 / US-50         | 1.44    |       | ca_i5xus50   |
-| I-880 / US-101      | 1.50    | 0.78  | ca_i880x101  |
-| I-8 / I-15          | 1.51    | 0.41  | ca_i8xi15    |
-| US-101/CA-299       | 1.43    |       | ca_u101xc299 |
-| US-101 / CA-198     | 1.50    | 0.78  | ca_us101c198 |
-| US-395 / CA-58      | 1.50    | 0.78  | ca_us395ca58 |
-| US-6/US-395         | 1.49    | 0.44  | ca_us6x395   |
-| US-101/US-199       | 1.43    |       | caus199us101 |
-| US-395/CA-36        | 1.43    |       | caus395xca36 |
+| US-101/SR 58      | 1.50    | 0.78  | ca_101x58    |
+| US-395/SR 120     | 1.49    | 0.44  | ca_395x120n, ca_395x120s  |
+| US-395/SR 89      | 1.49    | 0.44  | ca_395x89    |
+| US-405/US-101     | 1.53    | 0.16  | ca_405x101   |
+| I-5/I-80          | 1.43    |       | ca_i5xi80    |
+| I-5/I-405         | 1.51    | 0.41  | ca_i5i405    |
+| I-5/I-710         | 1.53    | 0.16  | ca_i5xi710   |
+| I-5/US-50         | 1.44    |       | ca_i5xus50   |
+| I-5/US-101        | 1.53    | 0.16  | ca_i5x101    |
+| I-5/SR 58         | 1.53    | 0.16  | ca_i5xca58n, ca_i5xca58  |
+| I-5/SR 99         | 1.51    | 0.60  | ca_i5xca99   |
+| I-5/SR 152        | 1.50    | 0.78  | ca_i5ca152   |
+| I-5/SR 198        | 1.50    | 0.78  | ca_i5ca198   |
+| I-5/SR 269        | 1.50    | 0.78  | ca_i5ca269   |
+| I-8/I-15          | 1.51    | 0.41  | ca_i8xi15    |
+| I-10/US-95        | 1.43    |       | ca_i10us95   |
+| I-15/SR 58        | 1.51    | 0.41  | ca_i1558     |
+| I-15/SR 76        | 1.51    | 0.41  | ca_i15x76    |
+| I-580/I-880       | 1.50    | 0.78  | ca_i580x880  |
+| I-880/US-101      | 1.50    | 0.78  | ca_i880x101  |
+| US-6/US-395       | 1.49    | 0.44  | ca_us6x395   |
+| US-101/SR 198     | 1.50    | 0.78  | ca_us101c198 |
+| US-101/US-199     | 1.43    |       | caus199us101 |
+| US-101/SR 299     | 1.43    |       | ca_u101xc299 |
+| US-395/SR 58      | 1.50    | 0.78  | ca_us395ca58 |
+| US-395/SR 36      | 1.43    |       | caus395xca36 |
+| SR 36/SR 44       | 1.43    |       | ca_36x44     |
+| SR 78/SR 86       | 1.53    | 0.16  | ca_ca78x86   |
+| SR 99/SR 120      | 1.50    | 0.78  | ca_ca99ca120 |
+| SR 99/SR 152a     | 1.50    | 0.78  | ca_99x152a   |
+| SR 136/SR 190     | 1.50    | 0.78  | ca_136x190   |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

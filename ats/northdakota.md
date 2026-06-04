@@ -18,7 +18,7 @@ North Dakota has 2 mileage targets. The most recent update occurred with version
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| Fargo</span>     | 1.59</span>    | 0.317</span> | nd_fargo</span> |
+| Fargo     | 1.59    | 0.317 | nd_fargo     |
 | Williston | 1.44    |       | nd_williston |
 
 ## States and Provinces of American Truck Simulator

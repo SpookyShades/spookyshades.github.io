@@ -54,27 +54,27 @@ New Mexico has 59 mileage targets. The most recent update occurred with version 
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| Four Corners        | 1.43    |       | azconmut4c   |
-| I-10 Border                | 1.45    |       | aznmi10sl    |
-| US-56 Border              | 1.47    |       | nmoksl56     |
-| I-40 Border               | 1.44    |       | nmtx_sli40   |
-| US-54 Border              | 1.46    |       | nmtxsl54     |
-| US-62 Border              | 1.45    |       | nmtxus62sl   |
+| Four Corners <span style="color:gray;">— Arizona, Colorado, Utah</span>       | 1.43    |       | azconmut4c   |
+| I-10 <span style="color:gray;">— Arizona</span>                | 1.45    |       | aznmi10sl    |
+| I-40 <span style="color:gray;">— Texas</span>               | 1.44    |       | nmtx_sli40   |
+| US-54 <span style="color:gray;">— Texas</span>              | 1.46    |       | nmtxsl54     |
+| US-56 <span style="color:gray;">— Oklahoma</span>              | 1.47    |       | nmoksl56     |
+| US-62 <span style="color:gray;">— Texas</span>              | 1.45    |       | nmtxus62sl   |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
 | I-10/I-25           | 1.43    |       | nm_i10i25    |
-| I-25/NM-599         | 1.43    |       | nm_i25nm599  |
-| I-25/US-380         | 1.45    |       | nm_i25us380  |
-| I-25/US-550         | 1.43    |       | nm_i25us550  |
 | I-25/US-64          | 1.43    |       | nm_i25us64   |
 | I-25/US-70          | 1.43    |       | nm_i25us70   |
-| I-25/US-84s         | 1.43    |       | nm_i25us84s  |
-| I-40/US-84w         | 1.43    |       | nm_i40us84w  |
-| I-40 / NM-500       | 1.57    | 0.46  | nm_i40x500   |
-| US-64/US-84e        | 1.43    |       | nm_us64us84e |
+| I-25/US-84          | 1.43    |       | nm_i25us84s  |
+| I-25/US-380         | 1.45    |       | nm_i25us380  |
+| I-25/US-550         | 1.43    |       | nm_i25us550  |
+| I-25/NM 599         | 1.43    |       | nm_i25nm599  |
+| I-40/US-84          | 1.43    |       | nm_i40us84w  |
+| I-40/NM 500         | 1.57    | 0.46  | nm_i40x500   |
+| US-64/US-84         | 1.43    |       | nm_us64us84e |
 | US-70/US-380        | 1.43    |       | nm_us70us380 |
 | US-84/US-285        | 1.43    |       | nm_us84285nm |
 

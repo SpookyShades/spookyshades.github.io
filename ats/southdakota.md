@@ -83,6 +83,12 @@ South Dakota has 58 mileage targets. The most recent update occurred with versio
 | Winner                  | 1.59    | 0.317 | sd_winner    |
 | Yankton                 | 1.59    | 0.317 | sd_yankton   |
 
+### Borders
+
+| Target           | Version | Patch | Code         |
+|:----------------:|:-------:|:-----:|:------------:|
+| <span style="color:orange;">US-81 — Nebraska</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sdne_sl83</span> |
+
 ### Junctions
 
 | Target           | Version | Patch | Code         |
@@ -90,18 +96,18 @@ South Dakota has 58 mileage targets. The most recent update occurred with versio
 | I-29/I-90    | 1.59    | 0.317 | sd_i90xi29   |
 | I-29/US-12   | 1.59    | 0.317 | sd_i29xus12  |
 | <span style="color:orange;">I-29/US-18</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_i29xus18</span> |
-| <span style="color:orange;">I-29/SD-50</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_i29xsd50</span> |
+| <span style="color:orange;">I-29/SD 50</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_i29xsd50</span> |
 | I-90/US-85   | 1.59    | 0.317 | sd_i90xu85   |
 | I-90/US-281  | 1.59    | 0.317 | sd_i90xus281 |
 | US-12/US-83  | 1.59    | 0.317 | sd_us12xus83 |
 | US-14/US-83  | 1.59    | 0.317 | sd_us14xus83 |
-| US-14/SD-34  | 1.59    | 0.317 | sd_us14xsd34 |
+| US-14/SD 34  | 1.59    | 0.317 | sd_us14xsd34 |
 | US-18/US-83  | 1.59    | 0.317 | sd_us18xus83 |
 | <span style="color:orange;">US-18/US-385</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_us385xu18</span> |
 | US-83/US-212 | 1.59    | 0.317 | sd_us83us212 |
-| US-85/SD-168 | 1.59    | 0.317 | sd_u85xsd168 |
-| <span style="color:orange;">SD-20/SD-73</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_sd20xsd73</span> |
-| <span style="color:gray;">SD-34/SD-73</span>  | <span style="color:gray;">1.59 ONLY</span>    | <span style="color:gray;">0.317</span> | <span style="color:gray;">sd_sd34xsd73</span> |
+| US-85/SD 168 | 1.59    | 0.317 | sd_u85xsd168 |
+| <span style="color:orange;">SD 20/SD 73</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_sd20xsd73</span> |
+| <span style="color:gray;">SD 34/SD 73</span>  | <span style="color:gray;">1.59 ONLY</span>    | <span style="color:gray;">0.317</span> | <span style="color:gray;">sd_sd34xsd73</span> |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

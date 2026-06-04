@@ -71,23 +71,23 @@ Iowa has 46 mileage targets. The most recent update occurred with version 1.55.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-61 Border             | 1.55    | 0.90  | ia_mo_61_sl  |
+| US-61 <span style="color:gray;">— Missouri</span>             | 1.55    | 0.90  | ia_mo_61_sl  |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-29 / I-680       | 1.54    | 0.34  | ia_i29x680   |
-| I-29 / US-34       | 1.54    | 0.30  | ia_i29xus34  |
-| I-35 / I-80 (West) | 1.54    | 0.30  | ia_i35xi80   |
-| I-35 / I-80 (East) | 1.55    | 0.90  | ia_i35xi80e  |
-| I-35 / US-20       | 1.54    | 0.55  | ia_i35xus20  |
-| I-80 / US-71       | 1.54    | 0.30  | ia_i80x71    |
-| I-80 / US-63       | 1.55    | 0.90  | ia_i80xus63  |
-| US-20 / US-71      | 1.54    | 0.30  | ia_us20x71   |
-| US-20 / I-380      | 1.55    | 0.90  | ia_us20xi380 |
-| US-34 / US-218     | 1.55    | 0.90  | ia_us34x218  |
-| US-34 / US-71      | 1.55    | 0.90  | ia_us34x71   |
+| I-29/I-680       | 1.54    | 0.34  | ia_i29x680   |
+| I-29/US-34       | 1.54    | 0.30  | ia_i29xus34  |
+| I-35/I-80 (east) | 1.55    | 0.90  | ia_i35xi80e  |
+| I-35/I-80 (west) | 1.54    | 0.30  | ia_i35xi80   |
+| I-35/US-20       | 1.54    | 0.55  | ia_i35xus20  |
+| I-80/US-71       | 1.54    | 0.30  | ia_i80x71    |
+| I-80/US-63       | 1.55    | 0.90  | ia_i80xus63  |
+| US-20/I-380      | 1.55    | 0.90  | ia_us20xi380 |
+| US-20/US-71      | 1.54    | 0.30  | ia_us20x71   |
+| US-34/US-71      | 1.55    | 0.90  | ia_us34x71   |
+| US-34/US-218     | 1.55    | 0.90  | ia_us34x218  |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

@@ -51,8 +51,7 @@ Oklahoma has 59 mileage targets. The most recent update occurred with version 1.
 | Midwest City         | 1.48    | 0.21  | ok_midwestci |
 | Muldrow              | 1.50    | 0.78  | ok_muldrow   |
 | Muskogee             | 1.48    | 0.21  | ok_muskogee  |
-| Oklahoma City (I-44) | 1.51    | 0.41  | ok_okc44     |
-| Oklahoma City        | 1.47    |       | ok_oklacity  |
+| Oklahoma City        | 1.51    | 0.41  | ok_okc44, ok_oklacity     |
 | Sallisaw             | 1.48    | 0.21  | ok_sallisaw  |
 | Seiling              | 1.47    |       | ok_seiling   |
 | Spiro                | 1.48    | 0.21  | ok_spiro     |
@@ -67,33 +66,32 @@ Oklahoma has 59 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-70 Border               | 1.50    | 0.78  | ar_ok_sl70   |
-| US-287 Border              | 1.47    |       | cooksl287    |
-| US-83 Border               | 1.49    | 0.44  | ksok_sl83    |
-| I-35 Border                | 1.49    | 0.44  | ksok_sli35   |
-| US-183 Border              | 1.49    | 0.44  | ksoksl183    |
-| US-56 Border               | 1.47    |       | nmoksl56     |
-| US-259 Border              | 1.48    | 0.21  | ok_tx_259_sl |
-| I-44 Border                | 1.48    | 0.21  | ok_tx_i44_sl |
-| US-271 Border              | 1.48    | 0.21  | oktxsl271    |
-| US-385 Border              | 1.47    |       | oktxsl385    |
-| US-83 Border               | 1.47    |       | oktxsl83     |
-| I-44 (east) Border         | 1.54    | 0.30  | mook_sl44e   |
-| I-44 (west) Border         | 1.54    | 0.30  | mook_sl44w   |
+| I-35 <span style="color:gray;">— Kansas</span>                 | 1.49    | 0.44  | ksok_sli35   |
+| I-44 <span style="color:gray;">— Texas</span>                 | 1.48    | 0.21  | ok_tx_i44_sl |
+| I-44 <span style="color:gray;">— Missouri</span>          | 1.54    | 0.30  | mook_sl44e, mook_sl44w   |
+| US-56 <span style="color:gray;">— New Mexico</span>                | 1.47    |       | nmoksl56     |
+| US-70 <span style="color:gray;">— Arkansas</span>                | 1.50    | 0.78  | ar_ok_sl70   |
+| US-83 <span style="color:gray;">— Kansas</span>                | 1.49    | 0.44  | ksok_sl83    |
+| US-83 <span style="color:gray;">— Texas</span>                | 1.47    |       | oktxsl83     |
+| US-183 <span style="color:gray;">— Kansas</span>               | 1.49    | 0.44  | ksoksl183    |
+| US-259 <span style="color:gray;">— Texas</span>               | 1.48    | 0.21  | ok_tx_259_sl |
+| US-271 <span style="color:gray;">— Texas</span>               | 1.48    | 0.21  | oktxsl271    |
+| US-287 <span style="color:gray;">— Colorado</span>               | 1.47    |       | cooksl287    |
+| US-385 <span style="color:gray;">— Texas</span>               | 1.47    |       | oktxsl385    |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-35 / I-44          | 1.48    | 0.21  | ok_i35xi44   |
-| I-35 / US-412        | 1.48    | 0.21  | ok_i35xus412 |
-| I-40 / I-44          | 1.51    | 0.41  | ok_i40x44    |
-| I-40 / US-64         | 1.50    | 0.78  | ok_i40xus64  |
-| US-59 / US-271       | 1.51    | 0.41  | ok_us59us271 |
-| US-64 / US-183       | 1.49    | 0.44  | ok_us64us183 |
-| US-69 / US-160 I-44  | 1.49    | 0.44  | ok_us69i44   |
-| US-70 / US-259       | 1.48    | 0.21  | ok_us70us259 |
-| US-75 / 66th St      | 1.48    | 0.32  | ok_ux75x66nt |
+| I-35/I-44          | 1.48    | 0.21  | ok_i35xi44   |
+| I-35/US-412        | 1.48    | 0.21  | ok_i35xus412 |
+| I-40/I-44          | 1.51    | 0.41  | ok_i40x44    |
+| I-40/US-64         | 1.50    | 0.78  | ok_i40xus64  |
+| I-44/US-69         | 1.49    | 0.44  | ok_us69i44   |
+| US-59/US-271       | 1.51    | 0.41  | ok_us59us271 |
+| US-64/US-183       | 1.49    | 0.44  | ok_us64us183 |
+| US-70/US-259       | 1.48    | 0.21  | ok_us70us259 |
+| US-75/66th St      | 1.48    | 0.32  | ok_ux75x66nt |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

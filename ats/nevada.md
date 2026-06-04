@@ -48,11 +48,11 @@ Nevada has 56 mileage targets. The most recent update occurred with version 1.60
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-15 Border             | 1.43    |       | az_nv_i15_sl |
-| US-395 Border           | 1.43    |       | ca_nv_sl395n |
-| US-395 Border           | 1.47    |       | ca_nv_sl395s |
-| I-80 Border             | 1.44    |       | canv_sl80    |
-| US-6 Border             | 1.43    |       | nv_ut_sl6    |
+| I-15 <span style="color:gray;">— Arizona</span>             | 1.43    |       | az_nv_i15_sl |
+| US-395 (north) <span style="color:gray;">— California</span>           | 1.43    |       | ca_nv_sl395n |
+| US-395 (south) <span style="color:gray;">— California</span>           | 1.47    |       | ca_nv_sl395s |
+| I-80 <span style="color:gray;">— California</span>             | 1.44    |       | canv_sl80    |
+| US-6 <span style="color:gray;">— Utah</span>             | 1.43    |       | nv_ut_sl6    |
 
 ### Junctions
 
@@ -60,17 +60,17 @@ Nevada has 56 mileage targets. The most recent update occurred with version 1.60
 |:----------------:|:-------:|:-----:|:------------:|
 | I-15/US-93        | 1.43    |       | nv_i15xus93  |
 | I-80/US-95        | 1.59    | 0.317 | nv_i80x95    |
-| US-50/NV-376      | 1.43    |       | nv_us50nv376 |
-| US-6/NV-375       | 1.43    |       | nv_us6nv375  |
-| US-6/US-95        | 1.43    |       | nv_us6us95   |
-| US-6/NV-264       | 1.49    | 0.44  | nv_us6x264   |
 | US-6/US-93        | 1.43    |       | nv_us6xus93  |
+| US-6/US-95        | 1.43    |       | nv_us6us95   |
+| US-6/SR 264       | 1.49    | 0.44  | nv_us6x264   |
+| US-6/SR 375       | 1.43    |       | nv_us6nv375  |
 | <span style="color:orange;">US-50/US-50A</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">nv_us50x50a</span> |
-| US-93/NV-375      | 1.43    |       | nv_us93nv375 |
+| US-50/SR 376      | 1.43    |       | nv_us50nv376 |
 | US-93/US-93 Alt   | 1.43    |       | nv_us93xalt9 |
-| US-95/NV-140      | 1.43    |       | nv_us95nv140 |
-| <span style="color:orange;">US-395/NV-208</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">nv_us395x208</span> |
-| NV-376/NV-377     | 1.59    | 0.317 | nv_nv376x377 |
+| US-93/SR 375      | 1.43    |       | nv_us93nv375 |
+| US-95/SR 140      | 1.43    |       | nv_us95nv140 |
+| <span style="color:orange;">US-395/SR 208</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">nv_us395x208</span> |
+| SR 376/SR 377     | 1.59    | 0.317 | nv_nv376x377 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

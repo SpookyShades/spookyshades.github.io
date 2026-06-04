@@ -29,14 +29,14 @@ Portugal has 20 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| A-62 Border         | 1.51    | 0.39  | es_bord_a62  |
-| AP-9 Border         | 1.44    |       | es_border_a9 |
-| A22 Border          | 1.44    |       | pt_border_22 |
-| A24 Border          | 1.44    |       | pt_border_24 |
-| A25 Border          | 1.44    |       | pt_border_25 |
-| A3 Border           | 1.44    |       | pt_border_a3 |
-| A6 Border           | 1.44    |       | pt_border_a6 |
-| IP8 Border          | 1.44    |       | pt_border_p8 |
+| A3 <span style="color:gray;">— Spain</span>           | 1.44    |       | pt_border_a3 |
+| A6 <span style="color:gray;">— Spain</span>           | 1.44    |       | pt_border_a6 |
+| A22 <span style="color:gray;">— Spain</span>          | 1.44    |       | pt_border_22 |
+| A24 <span style="color:gray;">— Spain</span>          | 1.44    |       | pt_border_24 |
+| A25 <span style="color:gray;">— Spain</span>          | 1.44    |       | pt_border_25 |
+| A-62 <span style="color:gray;">— Spain</span>         | 1.51    | 0.39  | es_bord_a62  |
+| AP-9 <span style="color:gray;">— Spain</span>         | 1.44    |       | es_border_a9 |
+| IP8 <span style="color:gray;">— Spain</span>          | 1.44    |       | pt_border_p8 |
 
 ### 🇪🇸 Spain
 Spain has 53 mileage targets. The most recent update occurred with version 1.51.
@@ -95,14 +95,14 @@ Spain has 53 mileage targets. The most recent update occurred with version 1.51.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| A-62 Border    | 1.51    | 0.39  | es_bord_a62  |
-| AP-9 Border    | 1.44    |       | es_border_a9 |
-| A22 Border     | 1.44    |       | pt_border_22 |
-| A24 Border     | 1.44    |       | pt_border_24 |
-| A25 Border     | 1.44    |       | pt_border_25 |
-| A3 Border      | 1.44    |       | pt_border_a3 |
-| A6 Border      | 1.44    |       | pt_border_a6 |
-| IP8 Border     | 1.44    |       | pt_border_p8 |
+| A3 <span style="color:gray;">— Portugal</span>      | 1.44    |       | pt_border_a3 |
+| A6 <span style="color:gray;">— Portugal</span>      | 1.44    |       | pt_border_a6 |
+| A22 <span style="color:gray;">— Portugal</span>     | 1.44    |       | pt_border_22 |
+| A24 <span style="color:gray;">— Portugal</span>     | 1.44    |       | pt_border_24 |
+| A25 <span style="color:gray;">— Portugal</span>     | 1.44    |       | pt_border_25 |
+| A-62 <span style="color:gray;">— Portugal</span>    | 1.51    | 0.39  | es_bord_a62  |
+| AP-9 <span style="color:gray;">— Portugal</span>    | 1.44    |       | es_border_a9 |
+| IP8 <span style="color:gray;">— Portugal</span>     | 1.44    |       | pt_border_p8 |
 
 ## DLCs of Euro Truck Simulator 2
 <!-- state-nav: ets2 -->

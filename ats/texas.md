@@ -128,30 +128,28 @@ Texas has 134 mileage targets. The most recent update occurred with version 1.50
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| US-259 Border            | 1.48    | 0.21  | ok_tx_259_sl |
-| I-44 Border              | 1.48    | 0.21  | ok_tx_i44_sl |
-| I-40 Border              | 1.44    |       | nmtx_sli40   |
-| US-54 Border             | 1.46    |       | nmtxsl54     |
-| US-62 Border             | 1.45    |       | nmtxus62sl   |
-| US-271 Border            | 1.48    | 0.21  | oktxsl271    |
-| US-385 Border            | 1.47    |       | oktxsl385    |
-| US-83 Border             | 1.47    |       | oktxsl83     |
+| I-40 <span style="color:gray;">— New Mexico</span>              | 1.44    |       | nmtx_sli40   |
+| I-44 <span style="color:gray;">— Oklahoma</span>              | 1.48    | 0.21  | ok_tx_i44_sl |
+| US-54 <span style="color:gray;">— New Mexico</span>             | 1.46    |       | nmtxsl54     |
+| US-62 <span style="color:gray;">— New Mexico</span>             | 1.45    |       | nmtxus62sl   |
+| US-83 <span style="color:gray;">— Oklahoma</span>             | 1.47    |       | oktxsl83     |
+| US-259 <span style="color:gray;">— Oklahoma</span>            | 1.48    | 0.21  | ok_tx_259_sl |
+| US-271 <span style="color:gray;">— Oklahoma</span>            | 1.48    | 0.21  | oktxsl271    |
+| US-385 <span style="color:gray;">— Oklahoma</span>            | 1.47    |       | oktxsl385    |
 
 ### Junctions
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-10/I-20          | 1.45    |       | tx_i10i20e   |
-| I-10/I-20          | 1.45    |       | tx_i10xi20w  |
+| I-10/I-20          | 1.45    |       | tx_i10i20e, tx_i10xi20w, tx_i20xi10 |
 | I-10/US-290        | 1.46    |       | tx_i10xus290 |
-| I-20/I-45          | 1.46    |       | tx_i20i45    |
-| I-10/I-20          | 1.45    |       | tx_i20xi10   |
 | I-20/I-30          | 1.46    |       | tx_i20xi30   |
 | I-20/I-35e         | 1.46    |       | tx_i20xi35e  |
+| I-20/I-45          | 1.46    |       | tx_i20i45    |
 | I-30/US-259        | 1.48    | 0.21  | tx_i30xus259 |
 | US-69/US-82        | 1.48    | 0.21  | tx_us69xus82 |
-| US-77/TX-7         | 1.46    |       | tx_us77xtx7  |
-| US-83/TX-41        | 1.45    |       | tx_us83xtx41 |
+| US-77/SH 7         | 1.46    |       | tx_us77xtx7  |
+| US-83/SH 41        | 1.45    |       | tx_us83xtx41 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

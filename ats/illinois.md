@@ -76,13 +76,13 @@ Illinois has 34 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-72 / US-67 | 1.57    | 0.46  | il_i72xus67  |
-| I-74 / US-34 | 1.58    | 0.305 | il_i74xus34  |
-| I-39 / I-80  | 1.58    | 0.305 | il_i80xi39   |
-| IL-1 / IL-13 | 1.57    | 0.46  | il_il1xil13  |
-| I-64 / IL-4  | 1.57    | 0.46  | il_illinois4 |
-| I-80 / I-180 | 1.58    | 0.305 | il_is180     |
-| I-74 / I-80  | 1.58    | 0.305 | il_is74      |
+| I-39/I-80  | 1.58    | 0.305 | il_i80xi39   |
+| I-64/IL 4  | 1.57    | 0.46  | il_illinois4 |
+| I-72/US-67 | 1.57    | 0.46  | il_i72xus67  |
+| I-74/I-80  | 1.58    | 0.305 | il_is74      |
+| I-74/US-34 | 1.58    | 0.305 | il_i74xus34  |
+| I-80/I-180 | 1.58    | 0.305 | il_is180     |
+| IL 1/IL 13 | 1.57    | 0.46  | il_il1xil13  |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->

@@ -61,14 +61,12 @@ Washington has 56 mileage targets. The most recent update occurred with version 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
 | I-5/US-12        | 1.43    |       | wa_i5xus12   |
-| I-90/US-395      | 1.43    |       | wa_i90eus395 |
-| I-90/US-395      | 1.43    |       | wa_i90wus395 |
-| US-101/WA-8      | 1.43    |       | wa_us101xwa8 |
-| US-12/WA-127     | 1.43    |       | wa_us12wa127 |
+| I-90/US-395      | 1.43    |       | wa_i90eus395, wa_i90wus395 |
 | US-2/US-97       | 1.43    |       | wa_us2xus97  |
-| US-395/WA-20     | 1.43    |       | wa_us395wa20 |
-| US-97/WA-14      | 1.43    |       | wa_us97wa14e |
-| US-97/WA-14      | 1.43    |       | wa_us97wa14w |
+| US-12/SR 127     | 1.43    |       | wa_us12wa127 |
+| US-97/SR 14      | 1.43    |       | wa_us97wa14e, wa_us97wa14w |
+| US-101/SR 8      | 1.43    |       | wa_us101xwa8 |
+| US-395/SR 20     | 1.43    |       | wa_us395wa20 |
 
 ## States and Provinces of American Truck Simulator
 <!-- state-nav: ats -->
