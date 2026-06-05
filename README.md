@@ -17,7 +17,7 @@
 OH: 1648,1232,1706,1226,1736,1239,1807,1194,1820,1260,1813,1304,1791,1348,1774,1358,1766,1389,1745,1380,1731,1384,1667,1373
 WV: 1762,1392,1768,1395,1777,1361,1794,1352,1817,1305,1822,1269,1830,1315,1870,1307,1876,1332,1903,1308,1915,1308,1926,1304,1941,1317,1939,1322,1916,1314,1890,1372,1875,1364,1860,1419,1815,1456,1788,1442,1791,1438,1763,1415 -->
 - Use the interactive map below to select a state or province. 
-- The officially announced maps are <span style="color: #3498db">[British Columbia](ats/britishcolumbia.md)</span> and <span style="color: #3498db">[South Dakota](ats/southdakota.md)</span>. 
+- The officially announced maps are <span style="color: #3498db">[British Columbia](ats/britishcolumbia.md)</span>, <span style="color: #3498db">[Indiana](ats/indiana.md)</span>, and <span style="color: #3498db">[South Dakota](ats/southdakota.md)</span>. 
 
 <div class="map-container">
   <img src="assets/img/atsmap.png" class="map-image" data-no-zoom>

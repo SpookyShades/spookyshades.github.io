@@ -1,5 +1,5 @@
 # Indiana
-!> **Note,** Indiana has not been announced. Information on this page is highly susceptible to changes in the future.
+!> **Note,** Indiana is in development. Information on this page is highly susceptible to changes in the future.
 
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
