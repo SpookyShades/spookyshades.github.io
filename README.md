@@ -6,7 +6,7 @@
 
 - Want further explanation regarding how the maps and mileage targets can be interpreted or found? <span style="color: #3498db">[Click here!](interpretation.md)</span>
 
-- This website is updated for version **<mark>v1.60 OB</mark>** released on June 2nd (ATS) and June 4th (ETS2).
+- This website is updated for version **<mark>v1.60</mark>** released on June 16th (ATS) and June 18th (ETS2).
 
 **<mark>[Check out the changelog here for the most recent updates!](changelog.md)</mark>**
 

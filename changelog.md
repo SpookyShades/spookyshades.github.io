@@ -2,8 +2,12 @@
 <!-- https://tableconvert.com/excel-to-markdown -->
 <!-- ATS-59: BC,NE,NV,SD,WY //// ETS2-60: -->
 
+## 60.3
+For ATS/ETS2 v<span style="color:orange;"><b>1.60</b></span>: 2026.6.18
+- Full release of v1.60 for ATS and ETS2.
+
 ## 60.2
-For ATS/ETS2 v<span style="color:orange;"><b>1.60 OB</b></span>: 2026.6.XXX
+For ATS/ETS2 v<span style="color:orange;"><b>1.60 OB</b></span>: 2026.6.5
 - Reorganized mileage target junctions and clarified border targets for numerous subpages creating more unified standardization.
     - Page updates: [Arizona](ats/arizona.md), [Arkansas](ats/arkansas.md), [British Columbia](ats/britishcolumbia.md), [California](ats/california.md), [Colorado](ats/colorado.md), [Idaho](ats/idaho.md), [Illinois](ats/illinois.md), [Iowa](ats/iowa.md), [Kansas](ats/kansas.md), [Louisiana](ats/louisiana.md), [Mexico](ats/mexico.md), [Missouri](ats/missouri.md), [Montana](ats/montana.md), [Nebraska](ats/nebraska.md), [Nevada](ats/nevada.md), [New Mexico](ats/newmexico.md), [North Dakota](ats/northdakota.md), [Oklahoma](ats/oklahoma.md), [Oregon](ats/oregon.md), [South Dakota](ats/southdakota.md), [Texas](ats/texas.md), [Utah](ats/utah.md), [Washington](ats/washington.md), [Wyoming](ats/wyoming.md), [Road to the Black Sea](ets2/blacksea.md), [Greece](ets2/greece.md), [Iberia](ets2/iberia.md), [Nordic Horizons](ets2/nordic-horizons.md), and [Scandinavia](ets2/scandinavia.md).
 
