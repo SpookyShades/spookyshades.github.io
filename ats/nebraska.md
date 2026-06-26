@@ -67,10 +67,10 @@ Nebraska has 52 mileage targets. The most recent update occurred with version 1.
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| I-80 <span style="color:gray;">— Wyoming</span>                    | 1.50    | 0.78  | ne_wy_i80_sl |
-| US-20 <span style="color:gray;">— Wyoming</span>                   | 1.50    | 0.78  | newy_us20_sl |
-| US-26 <span style="color:gray;">— Wyoming</span>                   | 1.50    | 0.78  | newyus26sl   |
-| <span style="color:orange;">US-81 — South Dakota</span>  | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sdne_sl83</span> |
+| I-80 <span style="color:gray;">— Wyoming</span>        | 1.50    | 0.78  | ne_wy_i80_sl |
+| US-20 <span style="color:gray;">— Wyoming</span>       | 1.50    | 0.78  | newy_us20_sl |
+| US-26 <span style="color:gray;">— Wyoming</span>       | 1.50    | 0.78  | newyus26sl   |
+| US-81 <span style="color:gray;">— South Dakota</span>  | 1.60    | 0.71  | sdne_sl83    |
 
 ### Junctions
 

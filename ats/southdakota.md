@@ -4,7 +4,7 @@
 ## Maps
 ?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
-### 1.58-1.59
+### 1.58-1.61
 
 <img alt="1.58 SD" 
      src="assets\img\statemaps\1.58 SD.png"
@@ -40,30 +40,30 @@ South Dakota has 58 mileage targets. The most recent update occurred with versio
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
 | Aberdeen                | 1.59    | 0.317 | sd_aberdeen  |
-| <span style="color:orange;">Badlands Lodge</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_badl_lodg</span> |
+| Badlands Lodge    | 1.60    | 0.71 | sd_badl_lodg |
 | Badlands Pinnacles East | 1.59    | 0.317 | sd_badl_pin  |
 | Belle Fourche           | 1.44    |       | sd_bellefour |
 | Bison                   | 1.59    | 0.317 | sd_bison     |
 | Brookings               | 1.59    | 0.317 | sd_brookings |
 | Buffalo                 | 1.59    | 0.317 | sd_buffalo   |
-| <span style="color:orange;">Carter</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_carter</span> |
+| Carter    | 1.60    | 0.71 | sd_carter |
 | Coal Springs            | 1.59    | 0.317 | sd_coalspgs  |
 | Deadwood                | 1.59    | 0.317 | sd_dead      |
 | Faith                   | 1.59    | 0.317 | sd_faith     |
-| <span style="color:orange;">Ft Randall Dam</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_ft_rn_dam</span> |
-| <span style="color:orange;">Hill City</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_hill_city</span> |
+| Ft Randall Dam    | 1.60    | 0.71 | sd_ft_rn_dam |
+| Hill City    | 1.60    | 0.71 | sd_hill_city |
 | Hot Springs             | 1.59    | 0.317 | sd_hotspgs   |
-| <span style="color:orange;">Howes</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_howes</span> |
+| Howes    | 1.60    | 0.71 | sd_howes |
 | Huron                   | 1.59    | 0.317 | sd_huron     |
-| <span style="color:orange;">Interior</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_interior</span> |
-| <span style="color:orange;">Keystone</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_keystone</span> |
+| Interior    | 1.60    | 0.71 | sd_interior |
+| Keystone    | 1.60    | 0.71 | sd_keystone |
 | Lemmon                  | 1.59    | 0.317 | sd_lemmon    |
 | Martin                  | 1.59    | 0.317 | sd_martin    |
-| <span style="color:orange;">Maverick Junction</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_maverickj</span> |
+| Maverick Junction    | 1.60    | 0.71 | sd_maverickj |
 | Mission                 | 1.59    | 0.317 | sd_mission   |
 | Mitchell                | 1.59    | 0.317 | sd_mitchell  |
 | Mobridge                | 1.59    | 0.317 | sd_mobridge  |
-| <span style="color:orange;">Mount Rushmore</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_rushmore</span> |
+| Mount Rushmore    | 1.60    | 0.71 | sd_rushmore |
 | Murdo                   | 1.59    | 0.317 | sd_murdo     |
 | Pierre                  | 1.59    | 0.317 | sd_pierre    |
 | Rapid City              | 1.59    | 0.317 | sd_rapidcty  |
@@ -73,8 +73,8 @@ South Dakota has 58 mileage targets. The most recent update occurred with versio
 | Sioux Falls             | 1.59    | 0.317 | sd_sxfalls   |
 | Spearfish               | 1.59    | 0.317 | sd_spearfish |
 | Sturgis                 | 1.59    | 0.317 | sd_sturgis   |
-| <span style="color:orange;">Tabor</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_tabor</span> |
-| <span style="color:orange;">Three Forks</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_threefork</span> |
+| Tabor    | 1.60    | 0.71 | sd_tabor |
+| Three Forks    | 1.60    | 0.71 | sd_threefork |
 | Timber Lake             | 1.59    | 0.317 | sd_tmbrlake  |
 | Wall                    | 1.59    | 0.317 | sd_wall      |
 | Watertown               | 1.59    | 0.317 | sd_watertown |
@@ -87,7 +87,7 @@ South Dakota has 58 mileage targets. The most recent update occurred with versio
 
 | Target           | Version | Patch | Code         |
 |:----------------:|:-------:|:-----:|:------------:|
-| <span style="color:orange;">US-81 — Nebraska</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sdne_sl83</span> |
+| US-81 <span style="color:gray;">— Nebraska    | 1.60    | 0.71 | sdne_sl83 |
 
 ### Junctions
 
@@ -95,18 +95,18 @@ South Dakota has 58 mileage targets. The most recent update occurred with versio
 |:----------------:|:-------:|:-----:|:------------:|
 | I-29/I-90    | 1.59    | 0.317 | sd_i90xi29   |
 | I-29/US-12   | 1.59    | 0.317 | sd_i29xus12  |
-| <span style="color:orange;">I-29/US-18</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_i29xus18</span> |
-| <span style="color:orange;">I-29/SD 50</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_i29xsd50</span> |
+| I-29/US-18   | 1.60    | 0.71  | sd_i29xus18  |
+| I-29/SD 50   | 1.60    | 0.71  | sd_i29xsd50  |
 | I-90/US-85   | 1.59    | 0.317 | sd_i90xu85   |
 | I-90/US-281  | 1.59    | 0.317 | sd_i90xus281 |
 | US-12/US-83  | 1.59    | 0.317 | sd_us12xus83 |
 | US-14/US-83  | 1.59    | 0.317 | sd_us14xus83 |
 | US-14/SD 34  | 1.59    | 0.317 | sd_us14xsd34 |
 | US-18/US-83  | 1.59    | 0.317 | sd_us18xus83 |
-| <span style="color:orange;">US-18/US-385</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_us385xu18</span> |
+| US-18/US-385 | 1.60    | 0.71  | sd_us385xu18 |
 | US-83/US-212 | 1.59    | 0.317 | sd_us83us212 |
 | US-85/SD 168 | 1.59    | 0.317 | sd_u85xsd168 |
-| <span style="color:orange;">SD 20/SD 73</span>    | <span style="color:orange;">1.60</span>    | <span style="color:orange;">0.71</span> | <span style="color:orange;">sd_sd20xsd73</span> |
+| SD 20/SD 73  | 1.60    | 0.71  | sd_sd20xsd73 |
 | <span style="color:gray;">SD 34/SD 73</span>  | <span style="color:gray;">1.59 ONLY</span>    | <span style="color:gray;">0.317</span> | <span style="color:gray;">sd_sd34xsd73</span> |
 
 ## States and Provinces of American Truck Simulator

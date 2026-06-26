@@ -1,6 +1,11 @@
 # Changelog
 <!-- https://tableconvert.com/excel-to-markdown -->
-<!-- ATS-59: BC,NE,NV,SD,WY //// ETS2-60: -->
+<!-- ATS-61: BC //// ETS2-60: -->
+
+## 61.0
+For ATS/ETS2 v<span style="color:orange;"><b>1.61 EB</b></span>: 2026.6.26
+- Updated mileage targets for ATS 1.61 EB
+    - Page updates: [British Columbia](ats/britishcolumbia.md)
 
 ## 60.3
 For ATS/ETS2 v<span style="color:orange;"><b>1.60</b></span>: 2026.6.18
