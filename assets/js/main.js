@@ -1,4 +1,4 @@
-// hover map descriptions (supports multiple maps)
+// hover map descriptions
 document.addEventListener("mouseover", e => {
   const state = e.target.closest(".state");
   if (!state) return;
@@ -21,6 +21,8 @@ document.addEventListener("mouseover", e => {
     state.dataset.type === "both" ? "Map & Mileage Target" :
     "Mileage Target";
 });
+
+// hovering
 
 document.addEventListener("mouseout", e => {
   const state = e.target.closest(".state");

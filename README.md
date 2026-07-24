@@ -1,5 +1,7 @@
 # Spooks' TruckSim Repository
 
+!> I am currently away and unable to access either ATS/ETS2 for a few days. Should v1.61 OB release during this time, I'd be unable to update the site accordingly.
+
 - Hello! This website is provided to better streamline and organize all of the maps I've made over the years in one place! Given more and more projects are running simultaneously, I wouldn't be able to keep up linking map after map on the SCS forum for long before running out of available links. This also gives me a place to localize a bunch of other information I like to look at including the mileage targets.
 
 - The website is laid out to where you click below on a state/country equivalent and within contains any maps I've made through the course of its development. Mileage targets for that state are also included. Where a bundled map expansion exists, all associated states/regions of states will be bundled together (currently only valid for ETS2 expansions). Thanks for visiting! I hope the information you find here can be helpful for any and all discussions.
@@ -13,9 +15,78 @@
 # American Truck Simulator
 
 ## ATS Interactive Map
-<!-- MI: 1477,908,1503,947,1482,977,1508,974,1521,990,1547,994,1606,968,1608,988,1637,990,1661,1010,1674,1038,1689,1080,1673,1125,1707,1100,1723,1145,1719,1180,1704,1193,1709,1214,1705,1222,1569,1235,1585,1183,1571,1141,1574,1092,1594,1057,1570,1026,1535,1039,1518,1076,1514,1043,1501,1028,1425,1011,1414,997,1455,932
-OH: 1648,1232,1706,1226,1736,1239,1807,1194,1820,1260,1813,1304,1791,1348,1774,1358,1766,1389,1745,1380,1731,1384,1667,1373
-WV: 1762,1392,1768,1395,1777,1361,1794,1352,1817,1305,1822,1269,1830,1315,1870,1307,1876,1332,1903,1308,1915,1308,1926,1304,1941,1317,1939,1322,1916,1314,1890,1372,1875,1364,1860,1419,1815,1456,1788,1442,1791,1438,1763,1415 -->
+<!-- 
+<a>
+          <polygon class="state" data-name="Alabama" data-flags="al" 
+               points="1548,1603,1653,1592,1695,1723,1692,1750,1703,1792,1587,1806,1587,1808,1598,1825,1594,1843,1584,1844,1573,1827,1567,1844,1558,1845,1548,1770,1552,1607">
+          </polygon> 
+     </a>
+     <a>
+          <polygon class="state" data-name="Florida" data-flags="fl"
+               points="1594,1809,1705,1797,1715,1810,1830,1803,1840,1812,1842,1812,1846,1787,1873,1788,1875,1810,1910,1872,1929,1891,1929,1910,1969,1977,1972,2050,1958,2080,1961,2065,1932,2072,1915,2040,1898,2036,1887,2019,1871,2006,1870,1991,1866,1997,1839,1959,1840,1942,1834,1952,1822,1928,1830,1900,1820,1881,1803,1872,1755,1839,1700,1864,1696,1854,1656,1836,1599,1842,1603,1825">
+          </polygon>
+          <polygon class="state" data-name="Florida" data-flags="fl"
+               points="1931,2098,1901,2110,1920,2096">
+          </polygon>
+     </a>
+     <a>
+          <polygon class="state" data-name="Georgia" data-flags="ga" 
+               points="1658,1592,1758,1578,1751,1589,1776,1604,1799,1632,1847,1674,1854,1689,1883,1720,1871,1757,1873,1783,1841,1782,1839,1805,1831,1798,1717,1804,1707,1792,1697,1752,1700,1722">
+          </polygon> 
+     </a>
+     <a>
+          <polygon class="state" data-name="Manitoba" data-flags="mb" 
+               points="1027,870,1028,502,1042,275,1145,280,1244,281,1256,347,1293,346,1318,421,1315,446,1361,427,1423,445,1237,671,1239,857,1237,859,1236,875,1166,875">
+          </polygon>
+     </a>
+     <a>
+          <polygon class="state" data-name="Michigan" data-flags="mi"
+               points="1570,1236,1586,1184,1571,1142,1574,1094,1595,1059,1601,1075,1620,1026,1673,1038,1688,1081,1672,1127,1707,1102,1723,1145,1718,1181,1703,1194,1708,1214,1705,1223">
+          </polygon>
+          <polygon class="state" data-name="Michigan" data-flags="mi"
+               points="1518,1077,1515,1044,1501,1029,1426,1012,1414,998,1459,976,1476,956,1503,947,1482,978,1508,975,1521,991,1547,996,1605,970,1608,989,1637,992,1661,1011,1604,1014,1535,1040">
+          </polygon>
+          <polygon class="state" data-name="Michigan" data-flags="mi" 
+               points="1455,933,1477,910,1470,927">
+          </polygon>
+     </a>
+     <a>
+          <polygon class="state" data-name="North Carolina" data-flags="nc" 
+               points="1709,1580,1710,1573,1735,1548,1750,1545,1778,1518,1800,1509,1818,1485,1938,1467,2049,1442,2078,1483,2056,1457,2047,1461,2033,1472,2065,1467,2052,1501,2032,1504,2051,1521,2047,1542,2011,1556,1991,1600,1977,1597,1970,1601,1910,1559,1864,1563,1859,1549,1792,1557,1761,1573">
+          </polygon> 
+          <polygon class="state" data-name="North Carolina" data-flags="nc" 
+               points="2082,1490,2080,1506,2063,1520,2066,1511">
+          </polygon> 
+     </a>
+     <a>
+          <polygon class="state" data-name="Ohio" data-flags="oh" 
+               points="1648,1232,1706,1226,1736,1239,1807,1194,1820,1260,1813,1304,1791,1348,1774,1358,1766,1389,1745,1380,1731,1384,1667,1373">
+          </polygon>
+     </a>
+     <a>
+          <polygon class="state" data-name="Saskatchewan" data-flags="sk" 
+               points="726,838,816,251,928,264,1039,274,1024,499,1023,870,930,863">
+          </polygon>
+     </a>
+     <a>
+          <polygon class="state" data-name="South Carolina" data-flags="sc" 
+               points="1757,1588,1764,1576,1793,1562,1856,1553,1860,1567,1909,1563,1965,1603,1954,1609,1942,1647,1889,1704,1885,1716,1859,1688,1852,1672,1804,1629,1780,1601">
+          </polygon>
+     </a>
+     <a>
+          <polygon class="state" data-name="Virginia" data-flags="va" 
+               points="1744,1490,1785,1446,1815,1461,1864,1422,1877,1369,1891,1378,1918,1320,1940,1328,1942,1327,1944,1323,1972,1334,1972,1348,2019,1373,2020,1387,2007,1382,2023,1392,2025,1416,2014,1415,2041,1431,2046,1439,1939,1463,1816,1482">
+          </polygon> 
+          <polygon class="state" data-name="Virginia" data-flags="va" 
+               points="2040,1366,2053,1361,2044,1394,2036,1408">
+          </polygon> 
+     </a>
+     <a>
+          <polygon class="state" data-name="West Virginia" data-flags="wv" 
+               points="1762,1392,1768,1395,1777,1361,1794,1352,1817,1305,1822,1269,1830,1315,1870,1307,1876,1332,1903,1308,1915,1308,1926,1304,1941,1317,1939,1322,1916,1314,1890,1372,1875,1364,1860,1419,1815,1456,1788,1442,1791,1438,1763,1415">
+          </polygon> 
+     </a>
+-->
 - Use the interactive map below to select a state or province. 
 - The officially announced maps are <span style="color: #3498db">[British Columbia](ats/britishcolumbia.md)</span>, <span style="color: #3498db">[Indiana](ats/indiana.md)</span>, and <span style="color: #3498db">[South Dakota](ats/southdakota.md)</span>. 
 
@@ -42,12 +113,33 @@ WV: 1762,1392,1768,1395,1777,1361,1794,1352,1817,1305,1822,1269,1830,1315,1870,1
      </a>
      <a href="#/ats/britishcolumbia">
           <polygon class="state" data-name="British Columbia" data-type="both" data-flags="bc"
-               points="42,0,176,62,319,122,424,158,537,191,445,537,567,732,573,808,485,788,376,760,280,734,260,739,264,766,246,766,200,724,144,634,133,592,135,589,154,590,164,589,157,529,147,498,79,498,56,433,53,391,54,373,67,363,85,380,105,382,133,367,173,353,194,305,154,251,134,62,116,41,112,41,89,57,57,61">
+               points="42,1,108,32,299,114,424,158,537,192,446,538,567,732,573,810,485,790,279,736,278,724,261,714,226,650,163,591,156,529,120,422,132,367,173,354,193,307,153,252,134,63,115,42,113,42,89,59,57,63">
+          </polygon>
+          <polygon class="state" data-name="British Columbia" data-type="both" data-flags="bc"
+               points="264,767,246,767,199,725,143,635,133,593,134,589,155,590,172,615,221,644,233,699,257,720">
+          </polygon>
+          <polygon class="state" data-name="British Columbia" data-type="both" data-flags="bc"
+               points="67,363,85,381,106,382,76,423,80,501,56,436,52,390,53,374">
           </polygon>
      </a>
      <a href="#/ats/california">
           <polygon class="state" data-name="California" data-type="mileage" data-flags="ca"
-               points="123,1078,283,1126,245,1278,414,1534,428,1573,408,1585,390,1626,397,1637,390,1642,223,1623,157,1559,157,1449,127,1376,138,1360,122,1345,127,1310,135,1317,132,1297,126,1308,95,1238,105,1197,92,1160,123,1109,122,1087">
+               points="123,1078,283,1126,245,1278,414,1534,428,1573,408,1585,390,1626,397,1637,390,1642,277,1631,272,1591,241,1564,239,1549,201,1519,156,1497,157,1449,127,1376,138,1360,122,1345,127,1310,135,1317,132,1297,126,1308,95,1238,105,1197,92,1160,123,1109,122,1087">
+          </polygon>
+          <polygon class="state" data-name="California" data-type="mileage" data-flags="ca"
+               points="165,1525,178,1533,169,1535">
+          </polygon>
+          <polygon class="state" data-name="California" data-type="mileage" data-flags="ca"
+               points="178,1526,195,1536,180,1535">
+          </polygon>
+          <polygon class="state" data-name="California" data-type="mileage" data-flags="ca"
+               points="183,1573,191,1573,187,1579">
+          </polygon>
+          <polygon class="state" data-name="California" data-type="mileage" data-flags="ca"
+               points="230,1568,241,1584,227,1579">
+          </polygon>
+          <polygon class="state" data-name="California" data-type="mileage" data-flags="ca"
+               points="221,1593,232,1608,226,1610">
           </polygon>
      </a>
      <a href="#/ats/colorado">
@@ -92,7 +184,16 @@ WV: 1762,1392,1768,1395,1777,1361,1794,1352,1817,1305,1822,1269,1830,1315,1870,1
      </a>
      <a href="#/ats/mexico">
           <polygon class="state" data-name="Mexico" data-type="mileage" data-flags="mx"
-               points="279,1640,376,1651,374,1656,375,1658,535,1754,663,1772,667,1769,670,1752,743,1763,777,1807,801,1828,817,1881,879,1920,882,1920,914,1880,960,1888,986,1918,1012,1968,1040,2008,1058,2066,1155,2098,1149,2118,635,2119,624,2096,563,2046,573,2011,555,1998,530,1966,522,1928,476,1886,420,1884,432,1926,469,1985,476,2042,493,2087,488,2109,493,2118,458,2118,419,2082,428,2011,393,1971,372,1966,268,1843,361,1861,312,1788,298,1711,286,1686,292,1669,280,1648">
+               points="279,1640,376,1651,374,1656,375,1658,535,1754,663,1772,667,1769,670,1752,743,1763,777,1807,801,1828,817,1881,879,1920,882,1920,914,1880,960,1888,986,1918,1012,1968,1040,2008,1058,2066,1155,2098,1149,2119,635,2119,624,2096,563,2046,573,2011,555,1998,530,1966,522,1928,476,1886,436,1764,444,1745,378,1695,363,1787,402,1835,408,1864,421,1884,432,1926,470,1987,476,2044,493,2087,488,2108,493,2119,457,2119,419,2084,427,2013,392,1973,372,1968,310,1894,351,1901,368,1874,311,1790,298,1713,286,1688,291,1670,279,1649">
+          </polygon>
+          <polygon class="state" data-name="Mexico" data-type="mileage" data-flags="mx"
+               points="452,1850,460,1848,456,1875,445,1865">
+          </polygon>
+          <polygon class="state" data-name="Mexico" data-type="mileage" data-flags="mx"
+               points="402,1819,419,1835,418,1854,403,1834">
+          </polygon>
+          <polygon class="state" data-name="Mexico" data-type="mileage" data-flags="mx"
+               points="308,1882,321,1867,315,1885">
           </polygon>
      </a>
      <a href="#/ats/minnesota">
