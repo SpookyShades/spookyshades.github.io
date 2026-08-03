@@ -4,6 +4,10 @@
 
 ## v61
 
+### 61.3
+For ATS/ETS2 v<span style="color:orange;"><b>1.61 EB</b></span>: 2026.8.3
+- Version bump for North Dakota announcement.
+
 ### 61.2
 For ATS/ETS2 v<span style="color:orange;"><b>1.61 EB</b></span>: 2026.7.24
 - Adjusted some ATS interactive main page map boundaries to separate islands from their mainlands (British Columbia, California, Mexico).

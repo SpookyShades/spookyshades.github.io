@@ -1,7 +1,5 @@
 # Spooks' TruckSim Repository
 
-!> I am currently away and unable to access either ATS/ETS2 for a few days. Should v1.61 OB release during this time, I'd be unable to update the site accordingly.
-
 - Hello! This website is provided to better streamline and organize all of the maps I've made over the years in one place! Given more and more projects are running simultaneously, I wouldn't be able to keep up linking map after map on the SCS forum for long before running out of available links. This also gives me a place to localize a bunch of other information I like to look at including the mileage targets.
 
 - The website is laid out to where you click below on a state/country equivalent and within contains any maps I've made through the course of its development. Mileage targets for that state are also included. Where a bundled map expansion exists, all associated states/regions of states will be bundled together (currently only valid for ETS2 expansions). Thanks for visiting! I hope the information you find here can be helpful for any and all discussions.
@@ -88,7 +86,8 @@
      </a>
 -->
 - Use the interactive map below to select a state or province. 
-- The officially announced maps are <span style="color: #3498db">[British Columbia](ats/britishcolumbia.md)</span>, <span style="color: #3498db">[Indiana](ats/indiana.md)</span>, and <span style="color: #3498db">[South Dakota](ats/southdakota.md)</span>. 
+- The officially announced maps are <span style="color: #3498db">[British Columbia](ats/britishcolumbia.md)</span>, <span style="color: #3498db">[Indiana](ats/indiana.md)</span>, <span style="color: #3498db">[North Dakota](ats/northdakota.md)</span>, and <span style="color: #3498db">[South Dakota](ats/southdakota.md)</span>. 
+- An ongoing rework has been confirmed for <span style="color: #3498db">[Nevada](ats/nevada.md)</span>.
 
 <div class="map-container">
   <img src="assets/img/atsmap.png" class="map-image" data-no-zoom>

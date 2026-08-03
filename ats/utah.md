@@ -1,5 +1,5 @@
 # Utah
-?> **Note,** Utah and all of its bordering states have been released. Potential mileage target updates may occur due to the neighboring rework to Arizona.
+?> **Note,** Utah and all of its bordering states have been released. Potential mileage target updates may occur due to the neighboring rework in Nevada.
 
 ## Mileage Targets
 Utah has 47 mileage targets. The most recent update occurred with version 1.57.
