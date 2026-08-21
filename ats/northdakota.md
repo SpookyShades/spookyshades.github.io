@@ -2,7 +2,6 @@
 !> **Note,** North Dakota is in development. Information on this page is highly susceptible to changes in the future.
 
 ## Maps
-?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
 ### Preview
 !> **Note,** The map shown below only shows potential roads in their initial state before before the state was announced.
@@ -16,10 +15,4 @@ North Dakota has 2 mileage targets. The most recent update occurred with version
 
 ### Cities
 
-| Target           | Version | Patch | Code         |
-|:----------------:|:-------:|:-----:|:------------:|
-| Fargo     | 1.59    | 0.317 | nd_fargo     |
-| Williston | 1.44    |       | nd_williston |
-
-## States and Provinces of American Truck Simulator
-<!-- state-nav: ats -->
+<div class="custom-table" data-category="northdakota" data-class="city"></div>

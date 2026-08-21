@@ -2,7 +2,6 @@
 ?> **Note,** Greece was released with v1.53. All bordering countries are released. No further updates are anticipated at this time.
 
 ## Maps
-?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
 ### 1.53
 <img alt="1.53 GR" 
@@ -19,41 +18,8 @@ Greece has 28 mileage targets. The most recent update occurred with version 1.53
 
 ### Cities
 
-| Target           | Version | Patch | Code         |
-|:----------------:|:-------:|:-----:|:------------:|
-| Agrinio            | 1.53    | 0.22  | gr_agrinio   |
-| Athens             | 1.53    | 0.22  | gr_athens    |
-| Chania             | 1.53    | 0.22  | gr_chania    |
-| Chios              | 1.53    | 0.22  | gr_chios     |
-| Corinth            | 1.53    | 0.22  | gr_korinth   |
-| Evzonoi            | 1.53    | 0.42  | gr_evzoni    |
-| Heraklion          | 1.53    | 0.22  | gr_heraklion |
-| Igoumenitsa        | 1.53    | 0.22  | gr_igoumeni  |
-| Ioannina           | 1.53    | 0.22  | gr_ioannina  |
-| Kalamata           | 1.53    | 0.22  | gr_kalamata  |
-| Karditsa           | 1.53    | 0.22  | gr_karditsa  |
-| Kavala             | 1.53    | 0.42  | gr_kavala    |
-| Komotini           | 1.53    | 0.42  | gr_komotini  |
-| Kozani             | 1.53    | 0.22  | gr_kozani    |
-| Lamia              | 1.53    | 0.22  | gr_lamia     |
-| Larissa            | 1.53    | 0.22  | gr_larisa    |
-| Mytilini           | 1.53    | 0.22  | gr_mitilini  |
-| Patras             | 1.53    | 0.22  | gr_patras    |
-| Pyrgos             | 1.53    | 0.22  | gr_pyrgos    |
-| Rodos              | 1.53    | 0.22  | gr_rhodes    |
-| Rio                | 1.53    | 0.22  | gr_rio       |
-| Serres             | 1.53    | 0.22  | gr_serres    |
-| Thermopiles        | 1.53    | 0.42  | gr_thermo    |
-| Thessaloniki       | 1.53    | 0.22  | gr_thessalo  |
-| Trikala            | 1.53    | 0.22  | gr_trikala   |
-| Tripoli            | 1.53    | 0.22  | gr_tripoli   |
-| Volos              | 1.53    | 0.22  | gr_volos     |
+<div class="custom-table" data-category="greece" data-class="city"></div>
 
 ### Borders
 
-| Target           | Version | Patch | Code         |
-|:----------------:|:-------:|:-----:|:------------:|
-| Kipi/Ipsala <span style="color:gray;">— Turkey</span> | 1.53    | 0.22  | gr_border_k  |
-
-## DLCs of Euro Truck Simulator 2
-<!-- state-nav: ets2 -->
+<div class="custom-table" data-category="greece" data-class="border"></div>

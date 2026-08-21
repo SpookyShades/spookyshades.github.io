@@ -2,7 +2,6 @@
 ?> **Note,** Nebraska was released with v1.50. No further map updates will occur but mileage targets may be added along with future map expansions (South Dakota).
 
 ## Maps
-?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
 
 ### 1.50
 
@@ -22,70 +21,12 @@ Nebraska has 52 mileage targets. The most recent update occurred with version 1.
 
 ### Cities
 
-| Target           | Version | Patch | Code         |
-|:----------------:|:-------:|:-----:|:------------:|
-| Alliance                 | 1.49    | 0.59  | ne_all       |
-| Alma                     | 1.49    | 0.59  | ne_alm       |
-| Ansley                   | 1.49    | 0.59  | ne_ans       |
-| Auburn                   | 1.49    | 0.59  | ne_aub       |
-| Bartlett                 | 1.50    | 0.78  | ne_bar       |
-| Bassett                  | 1.49    | 0.52  | ne_bas       |
-| Beatrice                 | 1.49    | 0.59  | ne_bea       |
-| Bridgeport               | 1.50    | 0.78  | ne_bri       |
-| Brownville               | 1.54    | 0.30  | ne_brownvill |
-| Chadron                  | 1.49    | 0.59  | ne_cha       |
-| Columbus                 | 1.49    | 0.59  | ne_col       |
-| Fremont                  | 1.50    | 0.78  | ne_fremont   |
-| Grand Island             | 1.49    | 0.55  | ne_gis       |
-| Harlan County Reservoir  | 1.50    | 0.78  | ne_hcr       |
-| Hyannis                  | 1.50    | 0.78  | ne_hya       |
-| Lake McConaughy          | 1.50    | 0.78  | ne_lak       |
-| Laurel                   | 1.54    | 0.45  | ne_laurel    |
-| Lewellen                 | 1.50    | 0.78  | ne_lewellen  |
-| Lincoln                  | 1.50    | 0.78  | ne_lin       |
-| McCook                   | 1.49    | 0.44  | ne_mccook    |
-| Merriman                 | 1.49    | 0.55  | ne_mer       |
-| Nebraska National Forest | 1.50    | 0.78  | ne_nnf       |
-| Norfolk                  | 1.49    | 0.59  | ne_nor       |
-| North Platte             | 1.49    | 0.59  | ne_npl       |
-| Nebraska Prairie Museum  | 1.50    | 0.78  | ne_npm       |
-| Ogallala                 | 1.49    | 0.59  | ne_oga       |
-| Omaha                    | 1.50    | 0.78  | ne_oma       |
-| Omaha (I-80 west)        | 1.54    | 0.30  | ne_omaha80w  |
-| O'Neill                  | 1.49    | 0.52  | ne_one       |
-| Red Cloud                | 1.49    | 0.59  | ne_rcl       |
-| Scottsbluff              | 1.49    | 0.59  | ne_sco       |
-| Sidney                   | 1.49    | 0.59  | ne_sid       |
-| South Sioux City         | 1.50    | 0.78  | ne_ssc       |
-| South Bellevue           | 1.55    | 0.90  | ne_sthbellev |
-| Thedford                 | 1.49    | 0.59  | ne_the       |
-| Trenton                  | 1.50    | 0.78  | ne_tre       |
-| Valentine                | 1.49    | 0.55  | ne_val       |
-| York                     | 1.50    | 0.78  | ne_york      |
+<div class="custom-table" data-category="nebraska" data-class="city"></div>
 
 ### Borders
 
-| Target           | Version | Patch | Code         |
-|:----------------:|:-------:|:-----:|:------------:|
-| I-80 <span style="color:gray;">— Wyoming</span>        | 1.50    | 0.78  | ne_wy_i80_sl |
-| US-20 <span style="color:gray;">— Wyoming</span>       | 1.50    | 0.78  | newy_us20_sl |
-| US-26 <span style="color:gray;">— Wyoming</span>       | 1.50    | 0.78  | newyus26sl   |
-| US-81 <span style="color:gray;">— South Dakota</span>  | 1.60    | 0.71  | sdne_sl83    |
+<div class="custom-table" data-category="nebraska" data-class="border"></div>
 
 ### Junctions
 
-| Target           | Version | Patch | Code         |
-|:----------------:|:-------:|:-----:|:------------:|
-| I-76/I-80              | 1.50    | 0.78  | ne_i76xi80   |
-| I-80/US-6              | 1.50    | 0.78  | ne_i80xus6   |
-| I-80/US-81             | 1.50    | 0.78  | ne_i80xus81  |
-| I-80/US-183            | 1.50    | 0.78  | ne_i80us183  |
-| I-80/N-17B             | 1.50    | 0.78  | ne_i80x17b   |
-| US-20/US-81            | 1.55    | 0.90  | ne_us20x81   |
-| US-20/US-275           | 1.55    | 0.90  | ne_us_20x275 |
-| US-26/N-61             | 1.50    | 0.78  | ne_us26xne61 |
-| US-81/US-136           | 1.50    | 0.78  | ne_us81x136  |
-| US-81/N-92             | 1.50    | 0.78  | ne_us81xne92 |
-
-## States and Provinces of American Truck Simulator
-<!-- state-nav: ats -->
+<div class="custom-table" data-category="nebraska" data-class="junction"></div>

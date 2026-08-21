@@ -6,9 +6,4 @@ Mexico has 1 mileage targets. The most recent update occurred with version 1.43.
 
 ### Cities
 
-| Target           | Version | Patch | Code         |
-|:----------------:|:-------:|:-----:|:------------:|
-| I-19 <span style="color:gray;">— Arizona</span>  | 1.43    |       | mx_mexicoi19 |
-
-## States and Provinces of American Truck Simulator
-<!-- state-nav: ats -->
+<div class="custom-table" data-category="mexico" data-class="border"></div>

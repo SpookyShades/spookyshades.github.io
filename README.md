@@ -1,101 +1,14 @@
-# Spooks' TruckSim Repository
+<div class="landing-grid" style="display:grid; grid-template-columns:minmax(0, 1fr) 300px; gap:30px; align-items:start; background:#0f0f0f !important;">
 
-- Hello! This website is provided to better streamline and organize all of the maps I've made over the years in one place! Given more and more projects are running simultaneously, I wouldn't be able to keep up linking map after map on the SCS forum for long before running out of available links. This also gives me a place to localize a bunch of other information I like to look at including the mileage targets.
+<div style="min-width:0;">
 
-- The website is laid out to where you click below on a state/country equivalent and within contains any maps I've made through the course of its development. Mileage targets for that state are also included. Where a bundled map expansion exists, all associated states/regions of states will be bundled together (currently only valid for ETS2 expansions). Thanks for visiting! I hope the information you find here can be helpful for any and all discussions.
+<div class="wiki-header"><span>American Truck Simulator</span></div>
 
-- Want further explanation regarding how the maps and mileage targets can be interpreted or found? <span style="color: #3498db">[Click here!](interpretation.md)</span>
-
-- This website is updated for version **<mark>v1.61 EB</mark>** released on June 25th (ATS/ETS2).
-
-**<mark>[Check out the changelog here for the most recent updates!](changelog.md)</mark>**
-
-# American Truck Simulator
-
-## ATS Interactive Map
-<!-- 
-<a>
-          <polygon class="state" data-name="Alabama" data-flags="al" 
-               points="1548,1603,1653,1592,1695,1723,1692,1750,1703,1792,1587,1806,1587,1808,1598,1825,1594,1843,1584,1844,1573,1827,1567,1844,1558,1845,1548,1770,1552,1607">
-          </polygon> 
-     </a>
-     <a>
-          <polygon class="state" data-name="Florida" data-flags="fl"
-               points="1594,1809,1705,1797,1715,1810,1830,1803,1840,1812,1842,1812,1846,1787,1873,1788,1875,1810,1910,1872,1929,1891,1929,1910,1969,1977,1972,2050,1958,2080,1961,2065,1932,2072,1915,2040,1898,2036,1887,2019,1871,2006,1870,1991,1866,1997,1839,1959,1840,1942,1834,1952,1822,1928,1830,1900,1820,1881,1803,1872,1755,1839,1700,1864,1696,1854,1656,1836,1599,1842,1603,1825">
-          </polygon>
-          <polygon class="state" data-name="Florida" data-flags="fl"
-               points="1931,2098,1901,2110,1920,2096">
-          </polygon>
-     </a>
-     <a>
-          <polygon class="state" data-name="Georgia" data-flags="ga" 
-               points="1658,1592,1758,1578,1751,1589,1776,1604,1799,1632,1847,1674,1854,1689,1883,1720,1871,1757,1873,1783,1841,1782,1839,1805,1831,1798,1717,1804,1707,1792,1697,1752,1700,1722">
-          </polygon> 
-     </a>
-     <a>
-          <polygon class="state" data-name="Manitoba" data-flags="mb" 
-               points="1027,870,1028,502,1042,275,1145,280,1244,281,1256,347,1293,346,1318,421,1315,446,1361,427,1423,445,1237,671,1239,857,1237,859,1236,875,1166,875">
-          </polygon>
-     </a>
-     <a>
-          <polygon class="state" data-name="Michigan" data-flags="mi"
-               points="1570,1236,1586,1184,1571,1142,1574,1094,1595,1059,1601,1075,1620,1026,1673,1038,1688,1081,1672,1127,1707,1102,1723,1145,1718,1181,1703,1194,1708,1214,1705,1223">
-          </polygon>
-          <polygon class="state" data-name="Michigan" data-flags="mi"
-               points="1518,1077,1515,1044,1501,1029,1426,1012,1414,998,1459,976,1476,956,1503,947,1482,978,1508,975,1521,991,1547,996,1605,970,1608,989,1637,992,1661,1011,1604,1014,1535,1040">
-          </polygon>
-          <polygon class="state" data-name="Michigan" data-flags="mi" 
-               points="1455,933,1477,910,1470,927">
-          </polygon>
-     </a>
-     <a>
-          <polygon class="state" data-name="North Carolina" data-flags="nc" 
-               points="1709,1580,1710,1573,1735,1548,1750,1545,1778,1518,1800,1509,1818,1485,1938,1467,2049,1442,2078,1483,2056,1457,2047,1461,2033,1472,2065,1467,2052,1501,2032,1504,2051,1521,2047,1542,2011,1556,1991,1600,1977,1597,1970,1601,1910,1559,1864,1563,1859,1549,1792,1557,1761,1573">
-          </polygon> 
-          <polygon class="state" data-name="North Carolina" data-flags="nc" 
-               points="2082,1490,2080,1506,2063,1520,2066,1511">
-          </polygon> 
-     </a>
-     <a>
-          <polygon class="state" data-name="Ohio" data-flags="oh" 
-               points="1648,1232,1706,1226,1736,1239,1807,1194,1820,1260,1813,1304,1791,1348,1774,1358,1766,1389,1745,1380,1731,1384,1667,1373">
-          </polygon>
-     </a>
-     <a>
-          <polygon class="state" data-name="Saskatchewan" data-flags="sk" 
-               points="726,838,816,251,928,264,1039,274,1024,499,1023,870,930,863">
-          </polygon>
-     </a>
-     <a>
-          <polygon class="state" data-name="South Carolina" data-flags="sc" 
-               points="1757,1588,1764,1576,1793,1562,1856,1553,1860,1567,1909,1563,1965,1603,1954,1609,1942,1647,1889,1704,1885,1716,1859,1688,1852,1672,1804,1629,1780,1601">
-          </polygon>
-     </a>
-     <a>
-          <polygon class="state" data-name="Virginia" data-flags="va" 
-               points="1744,1490,1785,1446,1815,1461,1864,1422,1877,1369,1891,1378,1918,1320,1940,1328,1942,1327,1944,1323,1972,1334,1972,1348,2019,1373,2020,1387,2007,1382,2023,1392,2025,1416,2014,1415,2041,1431,2046,1439,1939,1463,1816,1482">
-          </polygon> 
-          <polygon class="state" data-name="Virginia" data-flags="va" 
-               points="2040,1366,2053,1361,2044,1394,2036,1408">
-          </polygon> 
-     </a>
-     <a>
-          <polygon class="state" data-name="West Virginia" data-flags="wv" 
-               points="1762,1392,1768,1395,1777,1361,1794,1352,1817,1305,1822,1269,1830,1315,1870,1307,1876,1332,1903,1308,1915,1308,1926,1304,1941,1317,1939,1322,1916,1314,1890,1372,1875,1364,1860,1419,1815,1456,1788,1442,1791,1438,1763,1415">
-          </polygon> 
-     </a>
--->
-- Use the interactive map below to select a state or province. 
-- The officially announced maps are <span style="color: #3498db">[British Columbia](ats/britishcolumbia.md)</span>, <span style="color: #3498db">[Indiana](ats/indiana.md)</span>, <span style="color: #3498db">[North Dakota](ats/northdakota.md)</span>, and <span style="color: #3498db">[South Dakota](ats/southdakota.md)</span>. 
-- An ongoing rework has been confirmed for <span style="color: #3498db">[Nevada](ats/nevada.md)</span>.
-
-<div class="map-container">
-  <img src="assets/img/atsmap.png" class="map-image" data-no-zoom>
-  <div class="map-tooltip"></div>
-  <svg class="map-overlay"
-     viewBox="0 0 2715 2119"
-     preserveAspectRatio="xMidYMid meet">
-     <a href="#/ats/alberta">
+<div class="map-container" style="border:1px solid #333; background:#0a0a0a; padding:10px; box-shadow:0 10px 30px rgba(0,0,0,0.5);">
+<img src="assets/img/atsmap.png" class="map-image" data-no-zoom>
+<div class="map-tooltip"></div>
+  <svg class="map-overlay" viewBox="0 0 2715 2119" preserveAspectRatio="xMidYMid meet">
+    <a href="#/ats/alberta">
           <polygon class="state" data-name="Alberta" data-type="mileage" data-flags="ab"
                points="541,193,628,215,716,233,811,250,722,836,650,824,577,809,570,730,450,536">
           </polygon>
@@ -283,49 +196,41 @@
   </svg>
 </div>
 
-<!-- state-nav: ats -->
+<div class="wiki-header" style="margin-top:40px;"><span>ATS Additional Maps</span></div>
 
-## Large Maps
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-bottom:50px;">
+<div style="background:#111; padding:15px; border:1px solid #222;">
+<h4 style="font-family:Orbitron; font-size:1.5em; color:#D4AF37;">🇨🇦 Western Canada</h4>
+<img src="assets/img/statemaps/FullMapWestCanada.png" style="width:100%; border:1px solid #333; margin-top:10px;">
+</div>
+<div style="background:#111; padding:15px; border:1px solid #222;">
+<h4 style="font-family:Orbitron; font-size:1.5em; color:#D4AF37;">🇺🇸 United States</h4>
+<img src="assets/img/statemaps/FullMap.png" style="width:100%; border:1px solid #333; margin-top:10px;">
+</div>
+</div>
 
-?> **Note,** It is recommended to `Open Image in New Tab` to be able to fully zoom into the maps.
+<div class="wiki-header"><span>Euro Truck Simulator 2</span></div>
 
-  🇨🇦 Canada (Western) Complete Map
+<p style="margin-top:0; color:#888;">ETS2 maps are represented by their respective DLCs. Countries spanning multiple DLCs appear in both subpages.</p>
 
-  <img alt="Canada (Western) Full Map" 
-     src="assets\img\statemaps\FullMapWestCanada.png"
-     style="max-width: 100%; height: auto; width: auto; display: block;">
-  
-  
-  🇺🇸 United States Complete Map
-
-<img alt="US Full Map" 
-     src="assets\img\statemaps\FullMap.png"
-     style="max-width: 100%; height: auto; width: auto; display: block;">
-
-# Euro Truck Simulator 2
-
-## ETS2 Interactive Map
-<!-- ETS2 Interactive Map -->
-<!-- IS: 348,225,359,235,370,268,359,282,360,301,377,286,383,294,398,269,403,294,412,281,429,278,435,302,439,286,448,297,477,296,481,281,492,283,499,305,518,298,503,315,513,320,504,334,526,353,520,377,492,400,426,419,407,415,386,425,343,404,328,377,293,363,295,345,301,358,314,354,322,320,286,306,288,294,339,306,327,296,346,286,297,260,333,234,345,258,341,232 -->
-- Use the interactive map below to select a country/bundle of countries. 
-- The officially announced maps are Iceland, Ireland, and Soul of Anatolia. 
-- An ongoing rework has been confirmed for <span style="color: #3498db">[the United Kingdom](ets2/ets2base.md?id=🇬🇧-united-kingdom)</span>.
-- ETS2 maps on this website are represented as their respective DLCs. Countries spanning multiple DLCs will have their mileage targets shown in both DLC subpages (CZ, FI, FR, IT, NO, PL, RU, SK, SE).
-
-<div class="map-container">
-  <img src="assets/img/ets2map.png" class="map-image" data-no-zoom>
-  <div class="map-tooltip"></div>
-  <svg class="map-overlay"
-     viewBox="0 0 2715 2119"
-     preserveAspectRatio="xMidYMid meet">
+<div class="map-container" style="border:1px solid #333; background:#0a0a0a; padding:10px;">
+<img src="assets/img/ets2map.png" class="map-image" data-no-zoom>
+<div class="map-tooltip"></div>
+  <svg class="map-overlay" viewBox="0 0 2715 2119" preserveAspectRatio="xMidYMid meet">
     <a href="#/ets2/ets2base">
           <polygon class="state" data-name="Base Map" data-type="mileage" data-flags="aut bel cze fra deu ita lux ned pol svk sui gbr"
-               points="683,856,715,859,866,991,1053,1021,1065,1039,1086,1045,1096,1042,1087,1067,1148,1042,1156,1042,1162,1024,1174,1032,1169,1054,1185,1059,1185,1070,1293,1104,1305,1235,1293,1246,1297,1254,1289,1259,1288,1265,1313,1323,1325,1325,1333,1351,1321,1370,1308,1373,1311,1387,1295,1386,1297,1425,1288,1434,1249,1448,1231,1462,1197,1457,1183,1474,1194,1484,1194,1499,1197,1505,1194,1504,1193,1502,1145,1525,1157,1545,1059,1537,990,1562,941,1547,937,1537,873,1523,833,1485,829,1413,759,1344,767,1258,729,1216,681,1206,649,1214,620,1201,594,1225,568,1212,543,1227,526,1218,545,1208,587,1167,623,1173,638,1163,614,1164,589,1139,629,1107,629,1063,639,1064,658,1018,649,1020,640,1000,653,977,627,980,634,903">
+               points="1015,1016,1053,1022,1065,1040,1086,1046,1097,1042,1087,1068,1148,1042,1170,1055,1185,1059,1186,1071,1191,1073,1200,1101,1296,1109,1315,1229,1300,1246,1294,1246,1297,1254,1287,1261,1313,1328,1333,1352,1320,1372,1309,1375,1311,1388,1295,1387,1297,1425,1288,1434,1250,1449,1232,1463,1197,1459,1183,1475,1194,1485,1194,1499,1198,1506,1193,1505,1193,1504,1145,1526,1157,1545,1045,1536,1006,1556,950,1551,941,1548,936,1535,854,1516,816,1485,820,1392,753,1329,766,1259,778,1214,821,1203,838,1194,843,1187,874,1159,894,1100,896,1119,906,1130,900,1145,917,1134,909,1122,918,1096,964,1090,973,1082,999,1080,1003,1090,1015,1071,1029,1071,1014,1049,1026,1039">
           </polygon>
-     </a>
-     <a href="#/ets2/goingeast">
+          <polygon class="state" data-name="Base Map" data-type="mileage" data-flags="aut bel cze fra deu ita lux ned pol svk sui gbr"
+               points="773,1202,729,1216,681,1207,649,1215,620,1202,594,1225,568,1213,543,1228,526,1219,544,1208,587,1168,623,1173,636,1165,614,1166,589,1141,628,1108,629,1063,639,1064,657,1020,648,1022,639,1001,652,979,627,981,634,905,684,856,716,861,699,889,683,900,686,913,668,920,690,928,708,949,714,1003,733,1016,743,1063,755,1091,740,1100,745,1108,755,1100,789,1110,790,1141,774,1162,741,1184,774,1189">
+          </polygon>
+          <polygon class="state" data-name="Base Map" data-type="mileage" data-flags="aut bel cze fra deu ita lux ned pol svk sui gbr"
+               points="1162,1024,1176,1033,1170,1052,1155,1044">
+          </polygon>
+    </a>
+    <a href="#/ets2/goingeast">
           <polygon class="state" data-name="Going East!" data-type="mileage" data-flags="cze hun pol svk"
-               points="1196,1064,1254,1040,1264,1025,1318,1006,1334,1027,1356,1027,1361,1023,1455,1013,1476,1019,1507,1088,1493,1097,1485,1121,1506,1126,1500,1143,1535,1205,1525,1208,1495,1262,1503,1289,1498,1287,1487,1328,1491,1333,1515,1342,1513,1354,1497,1363,1470,1430,1459,1448,1415,1459,1376,1485,1336,1481,1301,1450,1292,1436,1301,1427,1299,1391,1316,1393,1313,1378,1320,1376,1321,1371,1332,1351,1325,1325,1313,1323,1288,1265,1289,1259,1297,1254,1293,1246,1305,1235,1293,1104,1200,1075">
+               points="1196,1064,1254,1040,1264,1025,1318,1006,1334,1027,1356,1027,1361,1023,1455,1013,1476,1019,1507,1088,1493,1097,1485,1121,1506,1126,1500,1143,1535,1205,1525,1208,1495,1262,1503,1289,1498,1287,1487,1328,1491,1333,1515,1342,1513,1354,1497,1363,1470,1430,1459,1448,1415,1459,1376,1485,1336,1481,1301,1450,1292,1436,1301,1427,1299,1391,1316,1393,1313,1378,1319,1376,1332,1352,1313,1328,1288,1265,1302,1257,1298,1249,1315,1229,1296,1109,1203,1101,1195,1074,1200,1076">
           </polygon>
      </a>
      <a href="#/ets2/scandinavia">
@@ -335,12 +240,21 @@
      </a>
      <a href="#/ets2/france">
           <polygon class="state" data-name="Vive la France!" data-type="mileage" data-flags="fra"
-               points="767,1259,759,1345,829,1414,833,1486,873,1524,932,1535,937,1551,944,1554,939,1566,947,1589,968,1592,963,1603,971,1610,964,1612,957,1608,950,1609,948,1616,1038,1653,1042,1697,1029,1739,1011,1730,1003,1701,911,1646,852,1628,826,1616,790,1634,785,1665,744,1668,736,1655,715,1647,691,1636,690,1644,632,1623,602,1594,611,1592,644,1486,656,1510,654,1492,642,1471,646,1448,618,1414,610,1378,548,1344,536,1331,550,1328,537,1316,543,1300,599,1300,614,1319,640,1315,659,1320,652,1312,648,1261,670,1267,673,1283,714,1291,721,1273">
+               points="766,1259,754,1329,821,1392,816,1486,855,1516,933,1535,938,1551,945,1554,940,1566,947,1588,969,1592,964,1603,971,1610,963,1612,957,1608,952,1608,949,1612,948,1616,933,1637,912,1646,852,1629,826,1617,791,1635,786,1666,744,1669,736,1656,691,1637,691,1644,631,1623,601,1594,610,1592,644,1484,656,1510,654,1495,641,1471,645,1448,617,1414,609,1379,548,1346,536,1330,549,1328,537,1316,543,1299,599,1299,614,1318,640,1314,657,1319,652,1312,648,1260,671,1267,673,1283,713,1291,721,1272">
+          </polygon>
+          <polygon class="state" data-name="Vive la France!" data-type="mileage" data-flags="fra"
+               points="1038,1652,1043,1696,1029,1740,1010,1731,1002,1701,1006,1678,1029,1671">
           </polygon>
      </a>
      <a href="#/ets2/italy">
           <polygon class="state" data-name="Italia" data-type="mileage" data-flags="ita"
-               points="950,1551,990,1562,1059,1537,1156,1545,1144,1552,1146,1578,1200,1621,1227,1674,1264,1703,1301,1698,1310,1703,1299,1724,1345,1743,1412,1779,1412,1808,1396,1805,1386,1787,1348,1775,1333,1817,1359,1833,1362,1859,1342,1862,1340,1888,1314,1918,1299,1909,1295,1910,1281,1945,1291,1967,1285,1988,1259,1985,1245,1970,1228,1971,1183,1947,1166,1936,1039,1867,1027,1856,1019,1861,1015,1876,1001,1874,992,1855,995,1797,984,1780,987,1763,1006,1769,1019,1754,1034,1749,1081,1655,1070,1607,1012,1576,986,1605,976,1608,969,1602,974,1589,950,1585,944,1567">
+               points="950,1551,990,1562,1059,1537,1156,1545,1144,1552,1146,1578,1200,1621,1227,1674,1264,1703,1301,1698,1310,1703,1299,1724,1345,1743,1412,1779,1412,1808,1396,1805,1386,1787,1348,1775,1333,1817,1359,1833,1362,1859,1342,1862,1340,1888,1314,1918,1298,1909,1312,1889,1308,1879,1321,1872,1296,1805,1285,1807,1266,1798,1259,1777,1239,1781,1239,1768,1226,1767,1214,1747,1173,1741,1081,1655,1070,1607,1012,1576,986,1605,976,1608,969,1602,974,1589,950,1585,944,1567">
+          </polygon>
+          <polygon class="state" data-name="Italia" data-type="mileage" data-flags="ita"
+               points="1036,1749,1054,1789,1043,1804,1048,1812,1040,1868,1027,1857,1020,1861,1016,1877,1001,1875,992,1855,993,1816,995,1798,983,1780,986,1762,1006,1768,1019,1753">
+          </polygon>
+          <polygon class="state" data-name="Italia" data-type="mileage" data-flags="ita"
+               points="1299,1902,1282,1946,1291,1967,1286,1989,1259,1985,1245,1970,1229,1972,1178,1945,1165,1937,1166,1921,1177,1913,1188,1918,1190,1906,1219,1919">
           </polygon>
      </a>
      <a href="#/ets2/balticsea">
@@ -355,7 +269,16 @@
      </a>
      <a href="#/ets2/iberia">
           <polygon class="state" data-name="Iberia" data-type="mileage" data-flags="por esp"
-               points="373,1531,400,1547,509,1578,526,1578,552,1588,573,1586,584,1597,597,1595,629,1627,694,1649,695,1642,717,1653,717,1669,736,1663,742,1673,787,1670,793,1681,784,1684,786,1701,815,1801,820,1816,785,1819,770,1841,755,1835,753,1825,745,1827,706,1848,693,1858,687,1854,647,1853,606,1881,594,1911,560,1915,529,1946,499,1944,438,1933,417,1940,395,1938,386,1947,379,1944,373,1950,376,1956,372,1959,350,1940,341,1896,316,1880,279,1882,266,1873,237,1872,253,1847,265,1791,247,1795,254,1781,261,1776,241,1778,256,1746,277,1729,304,1655,313,1598,309,1553,326,1542,347,1544">
+               points="373,1531,400,1547,509,1578,526,1578,552,1588,573,1586,584,1597,597,1595,629,1627,694,1649,695,1642,717,1653,717,1669,736,1663,742,1673,787,1670,793,1681,784,1684,786,1701,738,1729,691,1739,684,1755,643,1793,625,1826,647,1853,606,1881,594,1911,560,1915,529,1946,499,1944,438,1933,417,1940,395,1938,386,1947,379,1944,373,1950,376,1956,372,1959,350,1940,341,1896,316,1880,279,1882,266,1873,237,1872,253,1847,265,1791,247,1795,254,1781,261,1776,241,1778,256,1746,277,1729,304,1655,313,1598,309,1553,326,1542,347,1544">
+          </polygon>
+          <polygon class="state" data-name="Iberia" data-type="mileage" data-flags="por esp"
+               points="705,1841,707,1849,694,1859,686,1854">
+          </polygon>
+          <polygon class="state" data-name="Iberia" data-type="mileage" data-flags="por esp"
+               points="775,1802,772,1813,786,1818,770,1842,755,1835,752,1826,745,1828,737,1821">
+          </polygon>
+          <polygon class="state" data-name="Iberia" data-type="mileage" data-flags="por esp"
+               points="815,1800,822,1817,801,1808">
           </polygon>
      </a>
      <a href="#/ets2/heart-of-russia">
@@ -381,6 +304,84 @@
   </svg>
 </div>
 
+</div>
+
+<div style="background:#1a1a1a !important;">
+
+<div style="background:#1a1a1a; border-left:5px solid #D4AF37; padding:20px; margin-bottom:15px;">
+<h3 style="color:#D4AF37; margin-top:0; font-family:'Orbitron',sans-serif; letter-spacing:2px;">SPOOKS' REPO</h3>
+<p style="margin-bottom:0;">Welcome! This repository is a localized resource for all mileage target updates and a collection of maps showing what we can see of upcoming expansions. Thank you for visiting!</p>
+</div>
+
+<div style="background:#111; border:1px solid #333; padding:7px 12px; margin-bottom:20px; font-size:0.85em; text-align:center;">
+<span>Updated: </span>
+<strong style="font-family:'Orbitron',sans-serif;color:#D4AF37;">v1.61 EB</strong>
+<span style="color:#777;">· Released June 25th</span>
+</div>
+
+<div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
+<div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">ATS ACTIVE PROJECTS</div>
+  <div style="padding:15px; font-size:0.85em;">
+  <span style="color:#D4AF37;">●</span> <strong>Reworking:</strong>
+  <div style="margin:5px 0 12px 15px;"><a href="#/ats/nevada" style="color:#D4AF37">Nevada</a></div>
+  <hr style="border:0; border-top:1px solid #333; margin:12px 0;">
+  <span style="color:#4ea3ff;">●</span> <strong>Announced:</strong>
+    <div style="display:flex; flex-direction:column; gap:5px; margin-top:8px; margin-left:15px">
+      <a href="#/ats/britishcolumbia" style="color:#D4AF37">British Columbia</a>
+      <a href="#/ats/indiana" style="color:#D4AF37">Indiana</a>
+      <a href="#/ats/northdakota" style="color:#D4AF37">North Dakota</a>
+      <a href="#/ats/southdakota" style="color:#D4AF37">South Dakota</a>
+    </div>
+  </div>
+</div>
+
+<div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
+<div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">ETS2 ACTIVE PROJECTS</div>
+<div style="padding:15px; font-size:0.85em;">
+<span style="color:#D4AF37;">●</span> <strong>Reworking:</strong>
+<div style="margin:5px 0 12px 15px;"><a href="ets2/ets2base.md?id=🇬🇧-united-kingdom" style="color:#D4AF37">United Kingdom</a></div>
+<hr style="border:0; border-top:1px solid #333; margin:12px 0;">
+<span style="color:#4ea3ff;">●</span> <strong>Announced:</strong>
+<div style="margin:8px 0 0 15px;">Iceland<br>Ireland<br>Soul of Anatolia</div>
+</div>
+</div>
+
+<div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
+  <div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">RECENTLY UPDATED — ATS</div>
+  <div style="padding:15px; font-size:0.85em; display:flex; flex-direction:column; gap:7px;">
+  <a href="#/ats/britishcolumbia" style="color:#D4AF37">British Columbia</a>
+  </div>
+</div>
+
+<div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
+  <div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">RECENTLY UPDATED — ETS2</div>
+  <div style="padding:15px; font-size:0.85em; display:flex; flex-direction:column; gap:7px;">
+  <span>No updates for v1.61 EB.</span>
+  </div>
+</div>
+
+<div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
+  <div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">ATTRIBUTIONS</div>
+  <div style="padding:15px; font-size:0.85em; display:flex; flex-direction:column; gap:7px;">
+  <span>All map and mileage target data sourced from SCS Software.</span>
+  <span>Site created and maintained by Spooks.</span>
+  </div>
+</div>
+
+</div>
+
+</div>
+
 <script src="assets/js/main.js"></script>
 
-<!-- state-nav: ets2 -->
+<style>
+@media screen and (max-width:768px) {
+  .landing-grid {
+    display:block !important;
+  }
+
+  .landing-grid > div:nth-child(2) {
+    display:none !important;
+  }
+}
+</style>

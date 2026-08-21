@@ -1,0 +1,85 @@
+.image-zoom-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 99999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0 !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+    background: rgba(0, 0, 0, 0.72);
+    backdrop-filter: blur(2px);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.15s ease;
+    overflow: hidden;
+}
+
+.image-zoom-overlay::before,
+.image-zoom-overlay::after {
+    content: none !important;
+    display: none !important;
+}
+
+.image-zoom-overlay.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.zoomed-image {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: calc(100vw - 140px);
+    max-height: calc(100vh - 140px);
+    margin: 0;
+    padding: 0;
+    border: 0 !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+    object-fit: contain;
+    cursor: grab;
+    user-select: none;
+    -webkit-user-drag: none;
+    touch-action: none;
+    will-change: transform;
+    transform-origin: center center;
+    transition: transform 0.06s ease-out;
+}
+
+.zoomed-image.zoom-dragging {
+    cursor: grabbing;
+    transition: none;
+}
+
+.image-zoom-close {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 2;
+    width: 38px;
+    height: 38px;
+    padding: 0;
+    border: 1px solid #D4AF37;
+    border-radius: 4px;
+    background: #151515;
+    color: #D4AF37;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    line-height: 34px;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+.image-zoom-close:hover {
+    background: #D4AF37;
+    color: #111;
+}
+
+.image-zoom-open {
+    overflow: hidden;
+}

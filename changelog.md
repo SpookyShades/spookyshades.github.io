@@ -1,8 +1,19 @@
 # Changelog
-<!-- https://tableconvert.com/excel-to-markdown -->
-<!-- ATS-61: BC //// ETS2-60: -->
 
 ## v61
+
+### 61.4
+For ATS/ETS2 v<span style="color:orange;"><b>1.61 EB</b></span>: 2026.8.20
+- Major website refactoring (v2)!
+    - Entirely overhauled the website layout and design, hopefully making it much easier to navigate and explore!
+    - The search feature should be greatly improved, searching both pages and mileage targets alike.
+    - Redid the sidebar now to feature the quick links to all state pages.
+    - Fixed a bug where the hovering tooltips on the main page maps would disappear once returning to the main page after having gone to a different one.
+    - Added a proper zooming ability on all embedded images.
+    - Tables now allow for sorting of their columns.
+    - Tables now clearly highlight which entries are new for the latest update.
+    - Touched up some of the interactive map shapes for France, Italy, Iberia, and Base Map ETS2 to limit hyperlinks showing in the water.
+    - Adjusted the colors of the interactive main page maps.
 
 ### 61.3
 For ATS/ETS2 v<span style="color:orange;"><b>1.61 EB</b></span>: 2026.8.3
