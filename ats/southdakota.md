@@ -32,7 +32,7 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ## Mileage Targets
-South Dakota has 58 mileage targets. The most recent update occurred with version 1.60.
+South Dakota has 59 mileage targets. The most recent update occurred with version 1.61.
 
 ### Cities
 

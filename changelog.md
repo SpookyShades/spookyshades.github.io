@@ -2,6 +2,10 @@
 
 ## v61
 
+### 61.5
+For ATS v<span style="color:orange;"><b>1.61 OB</b></span> and ETS2 vv<span style="color:orange;"><b>1.61 EB</b></span>: 2026.9.1
+- Updated for ATS v1.61 OB. New mileage targets for [British Columbia](ats/britishcolumbia.md), [California](ats/california.md), [Indiana](ats/indiana.md), [Montana](ats/montana.md), [North Dakota](ats/northdakota.md), and [South Dakota](ats/southdakota.md).
+
 ### 61.4
 For ATS/ETS2 v<span style="color:orange;"><b>1.61 EB</b></span>: 2026.8.20
 - Major website refactoring (v2)!

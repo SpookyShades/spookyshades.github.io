@@ -161,6 +161,7 @@ US-167 @ AR 335,1.51,0.41,ar_167x335,arkansas,junction
 100 Mile House,1.61,700.26,bc_100mile,britishcolumbia,city
 Abbotsford,1.59,0.317,bc_abbotsfor,britishcolumbia,city
 Alexis Creek,1.60,0.71,bc_alexisck,britishcolumbia,city
+Anahim Lake,1.61,0.228,bc_anahim,britishcolumbia,city
 Bella Coola,1.60,0.71,bc_bellac,britishcolumbia,city
 Burns Lake,1.59,0.317,bc_burnslk,britishcolumbia,city
 Cache Creek,1.61,700.26,bc_cacheck,britishcolumbia,city
@@ -240,6 +241,7 @@ Indian Wells,1.50,0.78,ca_indianwel,california,city
 Indio,1.51,0.41,ca_indio,california,city
 Janesville,1.43,,ca_janesvill,california,city
 Kerman,1.50,0.78,ca_kerman,california,city
+Kings Beach,1.61,0.228,ca_kingsbch,california,city
 Lassen Park,1.43,,ca_lassenpk,california,city
 Laytonville,1.43,,ca_laytonvil,california,city
 Lee Vining,1.49,0.44,ca_leevining,california,city
@@ -490,6 +492,13 @@ I-74 @ US-34,1.58,0.305,il_i74xus34,illinois,junction
 I-80 @ I-180,1.58,0.305,il_is180,illinois,junction
 IL 1 @ IL 13,1.57,0.46,il_il1xil13,illinois,junction
 
+# INDIANA ----------------------------------------------------------------------------------------
+Angola,1.61,0.228,in_angola,indiana,city
+Fort Wayne,1.61,0.228,in_ftwayne,indiana,city
+Indianapolis,1.61,0.228,in_indy,indiana,city
+
+I-69 @ I-90,1.61,0.228,il_i69xi90,indiana,junction
+
 # IOWA ----------------------------------------------------------------------------------------
 Algona,1.54,0.53,ia_algona,iowa,city
 Ankeny,1.55,0.90,ia_ankeny,iowa,city
@@ -715,6 +724,7 @@ US-65 @ Route 52,1.54,0.30,mo_us65xmo52,missouri,junction
 # MONTANA ----------------------------------------------------------------------------------------
 Alzada,1.59,0.317,mt_alzad,montana,city
 Babb,1.45,,mt_babb,montana,city
+Baker,1.61,0.228,mt_baker,montana,city
 Belt,1.45,,mt_belt,montana,city
 Big Sandy,1.44,,mt_bigsandy,montana,city
 Billings,1.44,,mt_billings mt_billing90,montana,city
@@ -779,6 +789,7 @@ I-15 @ I-90,1.44,,mt_i15i90 mt_i15i90w,montana,junction
 I-90 @ I-94,1.44,,mt_i90i94,montana,junction
 I-90 @ US-89,1.44,,mt_i90us89,montana,junction
 I-90 @ MT 200,1.44,,mt_i90mt200e,montana,junction
+I-94 @ US-12,1.61,0.228,mt_i94xus12,montana,junction
 US-2 @ MT 24,1.44,,mt_us2mt24,montana,junction
 US-87 @ US-89,1.44,,mt_us87us89,montana,junction
 US-87 @ US-191,1.44,,mt_us87us191,montana,junction
@@ -850,7 +861,7 @@ Battle Mountain,1.43,,nv_battlemtn,nevada,city
 Beatty,1.43,,nv_beatty,nevada,city
 Caliente,1.59,0.317,nv_caliente,nevada,city
 Carlin,1.59,0.317,nv_carlin,nevada,city
-Carson City,1.43,,nv_carsoncit,nevada,city
+Carson City,1.43,,nv_carsoncit nv_cc580sth,nevada,city
 Currie,1.59,0.317,nv_currie,nevada,city
 Denio,1.43,,nv_denio,nevada,city
 Denio Junction,1.43,,nv_deniojct,nevada,city
@@ -859,6 +870,7 @@ Ely,1.43,,nv_ely,nevada,city
 Fallon,1.59,0.317,nv_fallon,nevada,city
 Goldfield,1.43,,nv_goldfield,nevada,city
 Hoover Dam,1.57,0.46,nv_hoover,nevada,city
+Incline Village,1.61,0.228,nv_incline,nevada,city
 Indian Springs,1.43,,nv_indianspg,nevada,city
 Jackpot,1.43,,nv_jackpot,nevada,city
 Las Vegas,1.43,,nv_lasvegas,nevada,city
@@ -871,7 +883,8 @@ Panaca,1.43,,nv_panaca,nevada,city
 Pioche,1.43,,nv_pioche,nevada,city
 Primm,1.47,,nv_primm,nevada,city
 Rachel,1.43,,nv_rachel,nevada,city
-Reno,1.43,,nv_reno,nevada,city
+Reno,1.43,,nv_reno nv_reno2 nv_leetevill,nevada,city
+Sand Harbor,1.61,0.228,nv_sandharb,nevada,city
 Silver Springs,1.60,0.71,nv_silversp,nevada,city
 Sparks,1.44,,nv_sparks nv_sparksi80,nevada,city
 Tonopah,1.43,,nv_tonopah,nevada,city
@@ -893,6 +906,7 @@ US-6 @ US-95,1.43,,nv_us6us95,nevada,junction
 US-6 @ SR 264,1.49,0.44,nv_us6x264,nevada,junction
 US-6 @ SR 375,1.43,,nv_us6nv375,nevada,junction
 US-50 @ US-50A,1.60,0.71,nv_us50x50a,nevada,junction
+US-50 @ SR-28,1.61,0.228,nv_us50x28,nevada,junction
 US-50 @ SR 376,1.43,,nv_us50nv376,nevada,junction
 US-93 @ US-93 Alt,1.43,,nv_us93xalt9,nevada,junction
 US-93 @ SR 375,1.43,,nv_us93nv375,nevada,junction
@@ -963,8 +977,36 @@ US-70 @ US-380,1.43,,nm_us70us380,newmexico,junction
 US-84 @ US-285,1.43,,nm_us84285nm,newmexico,junction
 
 # NORTH DAKOTA ----------------------------------------------------------------------------------------
+Bismarck,1.61,0.228,nd_bismarck,northdakota,city
+Bottineau,1.61,0.228,nd_bottineau,northdakota,city
+Bowman,1.61,0.228,nd_bowman,northdakota,city
+Churchs Ferry,1.61,0.228,nd_chchsfrry,northdakota,city
+Carrington,1.61,0.228,nd_crrngton,northdakota,city
+Dickinson,1.61,0.228,nd_dickinson,northdakota,city
+Drayton,1.61,0.228,nd_drayton,northdakota,city
+Dunseith,1.61,0.228,nd_dunseith,northdakota,city
+Devils Lake,1.61,0.228,nd_dvlslake,northdakota,city
+Edgeley,1.61,0.228,nd_edgely,northdakota,city
 Fargo,1.59,0.317,nd_fargo,northdakota,city
-Williston,1.44,,nd_williston,northdakota,city
+Grand Forks,1.61,0.228,nd_grndforks,northdakota,city
+Harvey,1.61,0.228,nd_harvey,northdakota,city
+Jamestown,1.61,0.228,nd_jamestown,northdakota,city
+Linton,1.61,0.228,nd_linton,northdakota,city
+Medora,1.61,0.228,nd_medora,northdakota,city
+Milnor,1.61,0.228,nd_milnor,northdakota,city
+Minot,1.61,0.228,nd_minot,northdakota,city
+New Town,1.61,0.228,nd_newtown,northdakota,
+Pembina,1.61,0.228,nd_pembina,northdakota,city
+Regent,1.61,0.228,nd_regent,northdakota,city
+Rocklake,1.61,0.228,nd_rocklake,northdakota,city
+Rugby,1.61,0.228,nd_rugby,northdakota,city
+Stanley,1.61,0.228,nd_stanley,northdakota,city
+Verona,1.61,0.228,nd_verona,northdakota,city
+Wahpeton,1.61,0.228,nd_wahpeton,northdakota,city
+Washburn,1.61,0.228,nd_washburn,northdakota,city
+Williston,1.44,,nd_williston nd_wllston,northdakota,city
+
+I-94 @ US-83,1.61,0.228,nd_i94xus83,northdakota,junction
 
 # OKLAHOMA ----------------------------------------------------------------------------------------
 Altus,1.47,,ok_altus,oklahoma,city
@@ -1138,6 +1180,7 @@ US-12 @ US-83,1.59,0.317,sd_us12xus83,southdakota,junction
 US-14 @ US-83,1.59,0.317,sd_us14xus83,southdakota,junction
 US-14 @ SD 34,1.59,0.317,sd_us14xsd34,southdakota,junction
 US-18 @ US-83,1.59,0.317,sd_us18xus83,southdakota,junction
+US-18 @ US-281,1.61,0.228,sd_us18x281,southdakota,junction
 US-18 @ US-385,1.60,0.71,sd_us385xu18,southdakota,junction
 US-83 @ US-212,1.59,0.317,sd_us83us212,southdakota,junction
 US-85 @ SD 168,1.59,0.317,sd_u85xsd168,southdakota,junction

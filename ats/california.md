@@ -2,7 +2,7 @@
 ?> **Note,** California has completed its rework and no changes are expected in the near future.
 
 ## Mileage Targets
-California has 138 mileage targets. The most recent update occurred with version 1.53.
+California has 139 mileage targets. The most recent update occurred with version 1.61.
 
 ### Cities
 

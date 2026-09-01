@@ -11,8 +11,12 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ## Mileage Targets
-North Dakota has 2 mileage targets. The most recent update occurred with version 1.59.
+North Dakota has 30 mileage targets. The most recent update occurred with version 1.61.
 
 ### Cities
 
 <div class="custom-table" data-category="northdakota" data-class="city"></div>
+
+### Junctions
+
+<div class="custom-table" data-category="northdakota" data-class="junction"></div>

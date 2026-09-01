@@ -10,7 +10,7 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ## Mileage Targets
-British Columbia has 40 mileage targets. The most recent update occurred with version 1.61.
+British Columbia has 41 mileage targets. The most recent update occurred with version 1.61.
 
 ### Cities
 
