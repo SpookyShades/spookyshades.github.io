@@ -5,6 +5,8 @@
 ### 61.5
 For ATS v<span style="color:orange;"><b>1.61 OB</b></span> and ETS2 vv<span style="color:orange;"><b>1.61 EB</b></span>: 2026.9.1
 - Updated for ATS v1.61 OB. New mileage targets for [British Columbia](ats/britishcolumbia.md), [California](ats/california.md), [Indiana](ats/indiana.md), [Montana](ats/montana.md), [North Dakota](ats/northdakota.md), and [South Dakota](ats/southdakota.md).
+- New maps for North Dakota and South Dakota.
+- Combined [Kentucky and Tennessee](ats/kentucky-tennessee.md) into one page due to information found in the files by Brothergun.
 
 ### 61.4
 For ATS/ETS2 v<span style="color:orange;"><b>1.61 EB</b></span>: 2026.8.20

@@ -3,6 +3,14 @@
 
 ## Maps
 
+### 1.61
+<img alt="1.61 ND" 
+     src="assets\img\statemaps\1.61 ND.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
+
+- Major extension to US-12
+- Adjustments to US-2, MT-200, and I-94.
+
 ### Preview
 !> **Note,** The map shown below only shows potential roads in their initial state before before the state was announced.
 

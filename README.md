@@ -84,9 +84,9 @@
                points="970,1346,1242,1352,1250,1360,1244,1373,1266,1399,1267,1505,1113,1505,961,1498">
           </polygon>
      </a>
-     <a href="#/ats/kentucky">
-          <polygon class="state" data-name="Kentucky" data-type="both" data-flags="ky"
-               points="1668,1378,1731,1389,1745,1385,1757,1391,1758,1417,1785,1439,1737,1489,1545,1509,1543,1516,1499,1520,1500,1498,1497,1497,1507,1490,1527,1494,1530,1492,1527,1476,1545,1468,1544,1460,1560,1447,1579,1444,1591,1446,1607,1427,1630,1423,1644,1411,1644,1395,1657,1395,1668,1378">
+     <a href="#/ats/kentucky-tennessee">
+          <polygon class="state" data-name="Kentucky + Tennessee" data-type="both" data-flags="ky tn"
+               points="1668,1378,1731,1389,1745,1385,1757,1391,1758,1417,1785,1439,1737,1489,1738,1495,1812,1485,1797,1504,1774,1513,1749,1540,1733,1543,1707,1569,1704,1580,1654,1586,1546,1597,1461,1602,1483,1531,1495,1525,1499,1520,1500,1498,1497,1497,1507,1490,1527,1494,1530,1492,1527,1476,1545,1468,1544,1460,1560,1447,1579,1444,1591,1446,1607,1427,1630,1423,1644,1411,1644,1395,1657,1395,1668,1378">
           </polygon>
      </a>
      <a href="#/ats/louisiana">
@@ -161,11 +161,6 @@
      <a href="#/ats/southdakota">
           <polygon class="state" data-name="South Dakota" data-type="both" data-flags="sd"
                points="918,1031,1187,1046,1177,1061,1192,1076,1191,1167,1184,1167,1189,1187,1184,1210,1187,1217,1182,1212,1160,1201,1140,1205,1115,1192,905,1181">
-          </polygon>
-     </a>
-     <a href="#/ats/tennessee">
-          <polygon class="state" data-name="Tennessee" data-type="both" data-flags="tn"
-               points="1549,1513,1812,1485,1797,1504,1774,1513,1749,1540,1733,1543,1707,1569,1704,1580,1654,1586,1546,1597,1461,1602,1483,1531,1495,1525,1547,1521">
           </polygon>
      </a>
      <a href="#/ats/texas">
@@ -352,6 +347,7 @@
   <a href="#/ats/britishcolumbia" style="color:#D4AF37">British Columbia</a>
   <a href="#/ats/california" style="color:#D4AF37">California</a>
   <a href="#/ats/indiana" style="color:#D4AF37">Indiana</a>
+  <a href="#/ats/kentucky-tennessee" style="color:#D4AF37">Kentucky + Tennessee</a>
   <a href="#/ats/montana" style="color:#D4AF37">Montana</a>
   <a href="#/ats/nevada" style="color:#D4AF37">Nevada</a>
   <a href="#/ats/northdakota" style="color:#D4AF37">North Dakota</a>

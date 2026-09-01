@@ -3,7 +3,17 @@
 
 ## Maps
 
-### 1.58 to 1.61
+### 1.61
+<img alt="1.61 SD" 
+     src="assets\img\statemaps\1.61 SD.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
+
+- Sector with the eastern half of Sioux Falls revealed
+- Montana and Wyoming expanded US-212
+- The remainder of the roads in available sectors within the physical borders of South Dakota were revealed
+- Added the website roads as an overlay
+
+### 1.58 to 1.60
 
 <img alt="1.58 SD" 
      src="assets\img\statemaps\1.58 SD.png"
@@ -15,7 +25,6 @@
 - Accounted for the small section of US-385 added to the Nebraska DLC
 - A section of US-16/US-385 was hidden in this version, but like other maps left in as a different color
 - Sector `-0002-0006` was revealed with more of US-81
-- This map was unchanged going into 1.59.
 
 ### 1.57
 
