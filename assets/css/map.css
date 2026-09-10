@@ -1,10 +1,9 @@
 .map-container {
   position: relative;
-  width: 1200px;
-  max-width: 95vw;
-  left: 50%;
-  transform: translateX(-50%);
-  margin: 2rem 0;
+  width: 100%;
+  max-width: min(100%, 1100px, calc((100vh - 160px) * 1.28));
+  box-sizing: border-box;
+  margin: 1.5rem auto;
 
   overflow: visible;
 }

@@ -57,6 +57,10 @@ body { background-color: #0f0f0f !important; color: #eee; }
 }
 
 /* Image styling */
+.markdown-section img {
+    cursor: pointer !important;
+}
+
 body:not(.landing-page) .markdown-section img {
     display: block !important;
     max-width: 700px !important;
@@ -64,11 +68,10 @@ body:not(.landing-page) .markdown-section img {
     height: auto !important;
     margin: 20px 0 !important;
     object-fit: contain !important;
-    cursor: pointer !important;
 }
 
 @media (max-width: 768px) {
-    body:not(.landing-page) .markdown-section img {
+    .markdown-section img {
         max-width: 100% !important;
         height: auto !important;
         cursor: pointer !important;

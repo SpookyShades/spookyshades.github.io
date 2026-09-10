@@ -10,8 +10,9 @@
 
 - Sector with the eastern half of Sioux Falls revealed
 - Montana and Wyoming expanded US-212
+- US-85 added to the Wyoming DLC and now accessible before South Dakota's release
 - The remainder of the roads in available sectors within the physical borders of South Dakota were revealed
-- Added the website roads as an overlay
+- Added the website-revealed roads as an overlay
 
 ### 1.58 to 1.60
 

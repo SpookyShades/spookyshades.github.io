@@ -1,7 +1,7 @@
 target,version,patch,code,state,class
 # ALBERTA ----------------------------------------------------------------------------------------
 Cardston,1.45,,ab_cardston,alberta,city
-Lethbridge,1.44,,lethbridg,alberta,city
+Lethbridge,1.44,,ab_lethbridg,alberta,city
 
 # ARIZONA ----------------------------------------------------------------------------------------
 target,version,patch,code,state,class
@@ -432,10 +432,13 @@ Lewiston,1.43,,id_lewiston,idaho,city
 Mackay,1.43,,id_mackay,idaho,city
 McCall,1.43,,id_mccall,idaho,city
 McCammon,1.43,,id_mccammon,idaho,city
+Montpelier,1.43,,or_montpel,idaho,city
 Mountain Home,1.43,,id_mountainh,idaho,city
 Moyie Springs,1.44,,id_moyiespr,idaho,city
 Nampa,1.43,,id_nampa,idaho,city
 New Meadows,1.43,,id_newmeadow,idaho,city
+Ovid,1.43,,or_ovid,idaho,city
+Payette,1.43,,or_payette,idaho,city
 Pocatello,1.43,,id_pocatello,idaho,city
 Salmon,1.43,,id_salmon,idaho,city
 Sandpoint,1.43,,id_sandpoint,idaho,city
@@ -443,9 +446,6 @@ Shoshone,1.43,,id_shoshoni,idaho,city
 Stanley,1.43,,id_stanley,idaho,city
 Sun Valley,1.43,,id_sunvalley,idaho,city
 Twin Falls,1.43,,id_twinfalls,idaho,city
-Montpelier,1.43,,or_montpel,idaho,city
-Ovid,1.43,,or_ovid,idaho,city
-Payette,1.43,,or_payette,idaho,city
 
 US-26,1.43,,id_wy_sl_26,idaho,border
 US-93,1.44,,idmtus93sl,idaho,border
@@ -906,7 +906,7 @@ US-6 @ US-95,1.43,,nv_us6us95,nevada,junction
 US-6 @ SR 264,1.49,0.44,nv_us6x264,nevada,junction
 US-6 @ SR 375,1.43,,nv_us6nv375,nevada,junction
 US-50 @ US-50A,1.60,0.71,nv_us50x50a,nevada,junction
-US-50 @ SR-28,1.61,0.228,nv_us50x28,nevada,junction
+US-50 @ SR 28,1.61,0.228,nv_us50x28,nevada,junction
 US-50 @ SR 376,1.43,,nv_us50nv376,nevada,junction
 US-93 @ US-93 Alt,1.43,,nv_us93xalt9,nevada,junction
 US-93 @ SR 375,1.43,,nv_us93nv375,nevada,junction

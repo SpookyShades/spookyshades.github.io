@@ -2,6 +2,19 @@
 
 ## v61
 
+### 61.6 
+For ATS v<span style="color:orange;"><b>1.61 OB</b></span> and ETS2 vv<span style="color:orange;"><b>1.61 EB</b></span>: 2026.9.10
+- Updated the map for South Dakota following a new sector reveal.
+- Reverted the change merging Kentucky and Tennessee together and reviving the previous pages.
+
+Bugfixes and Adjustments
+- Fixed a bug where the README.md large maps would extend their zoomable region larger horizontally than the actual images.
+- Adjusted the tab bar page titles to consistently read the Repo site name.
+- Fixed a bug where on mobile tables wouldn't be able to scroll their entire width.
+- Fixed other mobile-related issues to zooming on images and accessing the sidebar panel.
+- Map dropdown sections now automatically have the latest dropdown revealed when loading the page.
+
+
 ### 61.5
 For ATS v<span style="color:orange;"><b>1.61 OB</b></span> and ETS2 vv<span style="color:orange;"><b>1.61 EB</b></span>: 2026.9.1
 - Updated for ATS v1.61 OB. New mileage targets for [British Columbia](ats/britishcolumbia.md), [California](ats/california.md), [Indiana](ats/indiana.md), [Montana](ats/montana.md), [North Dakota](ats/northdakota.md), and [South Dakota](ats/southdakota.md).
