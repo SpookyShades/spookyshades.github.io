@@ -315,8 +315,8 @@
 
 <div style="background:#111; border:1px solid #333; padding:7px 12px; margin-bottom:20px; font-size:0.85em; text-align:center;">
 <span>Updated: </span>
-<strong style="font-family:'Orbitron',sans-serif;color:#D4AF37;">v1.61 OB</strong>
-<span style="color:#777;">· Released Sep. 1st</span>
+<strong style="font-family:'Orbitron',sans-serif;color:#D4AF37;">v1.61</strong>
+<span style="color:#777;">· Released Sep 15/17</span>
 </div>
 
 <div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
@@ -362,7 +362,7 @@
 <div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
   <div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">RECENTLY UPDATED — ETS2</div>
   <div style="padding:15px; font-size:0.85em; display:flex; flex-direction:column; gap:7px;">
-  <span>No updates for v1.61 EB.</span>
+  <span>No updates for v1.61.</span>
   </div>
 </div>
 

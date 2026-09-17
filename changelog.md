@@ -2,6 +2,10 @@
 
 ## v61
 
+### 61.7 
+For ATS/ETS2 v<span style="color:orange;"><b>1.61 </b></span>: 2026.9.17
+- Full release version bump. No further updates.
+
 ### 61.6 
 For ATS v<span style="color:orange;"><b>1.61 OB</b></span> and ETS2 vv<span style="color:orange;"><b>1.61 EB</b></span>: 2026.9.10
 - Updated the map for South Dakota following a new sector reveal.
