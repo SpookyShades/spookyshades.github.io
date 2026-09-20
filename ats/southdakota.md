@@ -3,6 +3,11 @@
 
 ## Maps
 
+### Temporary South Dakota Greater Zoom
+<img alt="tempkota!" 
+     src="assets\img\statemaps\tempkota.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
+
 ### 1.61
 <img alt="1.61 SD" 
      src="assets\img\statemaps\1.61 SD.png"
