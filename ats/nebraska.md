@@ -1,5 +1,5 @@
 # Nebraska
-?> **Note,** Nebraska was released with v1.50. No further map updates will occur but mileage targets may be added along with future map expansions (South Dakota).
+?> **Note,** Nebraska was released with version 1.50. All of its bordering states have also been released. No further updates are anticipated at this time.
 
 ## Maps
 

@@ -1,5 +1,5 @@
 # Wyoming
-?> **Note,** Wyoming has been released. No further map updates will occur but mileage targets may be added along with future map expansions (South Dakota).
+?> **Note,** Wyoming and all of its bordering states have been released. No further updates are anticipated at this time.
 
 ## Mileage Targets
 Wyoming has 61 mileage targets. The most recent update occurred with version 1.60.

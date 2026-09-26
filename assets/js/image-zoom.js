@@ -123,10 +123,14 @@
     }
 
     function wheel(event) {
-        event.preventDefault();
-        const direction = event.deltaY < 0 ? 1 : -1;
-        zoomAt(scale + direction * CONFIG.wheelStep, event.clientX, event.clientY);
-    }
+    event.preventDefault();
+    const direction = event.deltaY < 0 ? 1 : -1;
+    
+    // Scales the step size with current zoom level; greater zoom increases step size
+    const step = CONFIG.wheelStep * Math.max(1, scale);
+    
+    zoomAt(scale + direction * step, event.clientX, event.clientY);
+}
 
     function pointerDown(event) {
         activePointers.set(event.pointerId, { x: event.clientX, y: event.clientY });

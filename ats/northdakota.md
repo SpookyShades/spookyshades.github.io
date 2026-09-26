@@ -3,8 +3,21 @@
 
 ## Maps
 
-### 1.61
+### 1.61 (post-South Dakota)
 <img alt="1.61 ND" 
+     src="assets\img\statemaps\1.61 ND 2.png"
+     style="max-width: 100%; height: auto; width: auto; display: block;">
+
+- South Dakota has released with many new roads towards North Dakota with it.
+     - US-85 from Buffalo, SD.
+     - SD 73 from Meadow, SD.
+     - US-12 from west of Mobridge, SD.
+     - US-83 from Selby, SD.
+     - US-281 from Aberdeen, SD.
+     - I-29 from Summit, SD.
+
+### 1.61 (pre-South Dakota)
+<img alt="1.61 ND (early)" 
      src="assets\img\statemaps\1.61 ND.png"
      style="max-width: 100%; height: auto; width: auto; display: block;">
 

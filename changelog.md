@@ -2,6 +2,11 @@
 
 ## v61
 
+### 61.8
+For ATS/ETS2 v<span style="color:orange;"><b>1.61 </b></span>: 2026.9.26
+- Updated for the full release of South Dakota. This includes both the US and Canada full maps on the main landing page as well as map and page updates to [North Dakota](ats/northdakota.md) and [Minnesota](ats/minnesota.md) due to new map connections.
+- Tweaked the image-zoom feature to increase zooming speed at greater zoom levels.
+
 ### 61.7 
 For ATS/ETS2 v<span style="color:orange;"><b>1.61 </b></span>: 2026.9.17
 - Full release version bump. No further updates.

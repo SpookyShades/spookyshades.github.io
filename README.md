@@ -316,7 +316,7 @@
 <div style="background:#111; border:1px solid #333; padding:7px 12px; margin-bottom:20px; font-size:0.85em; text-align:center;">
 <span>Updated: </span>
 <strong style="font-family:'Orbitron',sans-serif;color:#D4AF37;">v1.61</strong>
-<span style="color:#777;">· Released Sep 15/17</span>
+<span style="color:#777;">· Released Sep 26</span>
 </div>
 
 <div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
@@ -330,7 +330,6 @@
       <a href="#/ats/britishcolumbia" style="color:#D4AF37">British Columbia</a>
       <a href="#/ats/indiana" style="color:#D4AF37">Indiana</a>
       <a href="#/ats/northdakota" style="color:#D4AF37">North Dakota</a>
-      <a href="#/ats/southdakota" style="color:#D4AF37">South Dakota</a>
     </div>
   </div>
 </div>
@@ -352,6 +351,7 @@
   <a href="#/ats/britishcolumbia" style="color:#D4AF37">British Columbia</a>
   <a href="#/ats/california" style="color:#D4AF37">California</a>
   <a href="#/ats/indiana" style="color:#D4AF37">Indiana</a>
+  <a href="#/ats/minnesota" style="color:#D4AF37">Minnesota</a>
   <a href="#/ats/montana" style="color:#D4AF37">Montana</a>
   <a href="#/ats/nevada" style="color:#D4AF37">Nevada</a>
   <a href="#/ats/northdakota" style="color:#D4AF37">North Dakota</a>

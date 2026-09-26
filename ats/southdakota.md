@@ -1,12 +1,7 @@
 # South Dakota
-!> **Note,** South Dakota is in development. Information on this page is highly susceptible to changes in the future.
+?> **Note,** South Dakota was released with v1.61. No further map updates will occur but mileage targets may be added along with future map expansions (Minnesota, North Dakota).
 
 ## Maps
-
-### Temporary South Dakota Greater Zoom
-<img alt="tempkota!" 
-     src="assets\img\statemaps\tempkota.png"
-     style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ### 1.61
 <img alt="1.61 SD" 
