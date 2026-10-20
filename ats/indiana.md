@@ -11,7 +11,7 @@
      style="max-width: 100%; height: auto; width: auto; display: block;">
 
 ## Mileage Targets
-Indiana has 4 mileage targets. The most recent update occurred with version 1.61.
+Indiana has 8 mileage targets. The most recent update occurred with version 1.62.
 
 ### Cities
 

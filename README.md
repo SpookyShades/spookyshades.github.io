@@ -315,15 +315,18 @@
 
 <div style="background:#111; border:1px solid #333; padding:7px 12px; margin-bottom:20px; font-size:0.85em; text-align:center;">
 <span>Updated: </span>
-<strong style="font-family:'Orbitron',sans-serif;color:#D4AF37;">v1.61</strong>
-<span style="color:#777;">· Released Sep 26</span>
+<strong style="font-family:'Orbitron',sans-serif;color:#D4AF37;">v1.62 OB</strong>
+<span style="color:#777;">· Released Oct 20</span>
 </div>
 
 <div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
 <div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">ATS ACTIVE PROJECTS</div>
   <div style="padding:15px; font-size:0.85em;">
   <span style="color:#D4AF37;">●</span> <strong>Reworking:</strong>
-  <div style="margin:5px 0 12px 15px;"><a href="#/ats/nevada" style="color:#D4AF37">Nevada</a></div>
+    <div style="display:flex; flex-direction:column; gap:5px; margin-top:8px; margin-left:15px">
+       <a href="#/ats/arizona" style="color:#D4AF37">Arizona</a>
+       <a href="#/ats/nevada" style="color:#D4AF37">Nevada</a>
+    </div>
   <hr style="border:0; border-top:1px solid #333; margin:12px 0;">
   <span style="color:#4ea3ff;">●</span> <strong>Announced:</strong>
     <div style="display:flex; flex-direction:column; gap:5px; margin-top:8px; margin-left:15px">
@@ -348,14 +351,9 @@
 <div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
   <div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">RECENTLY UPDATED — ATS</div>
   <div style="padding:15px; font-size:0.85em; display:flex; flex-direction:column; gap:7px;">
+  <a href="#/ats/alberta" style="color:#D4AF37">Alberta</a>
   <a href="#/ats/britishcolumbia" style="color:#D4AF37">British Columbia</a>
-  <a href="#/ats/california" style="color:#D4AF37">California</a>
   <a href="#/ats/indiana" style="color:#D4AF37">Indiana</a>
-  <a href="#/ats/minnesota" style="color:#D4AF37">Minnesota</a>
-  <a href="#/ats/montana" style="color:#D4AF37">Montana</a>
-  <a href="#/ats/nevada" style="color:#D4AF37">Nevada</a>
-  <a href="#/ats/northdakota" style="color:#D4AF37">North Dakota</a>
-  <a href="#/ats/southdakota" style="color:#D4AF37">South Dakota</a>
   </div>
 </div>
 

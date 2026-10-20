@@ -1,10 +1,11 @@
 target,version,patch,code,state,class
 # ALBERTA ----------------------------------------------------------------------------------------
 Cardston,1.45,,ab_cardston,alberta,city
+Edmonton,1.62,0.4,ab_edmon,alberta,city
+Jasper,1.62,0.4,ab_jasper,alberta,city
 Lethbridge,1.44,,ab_lethbridg,alberta,city
 
 # ARIZONA ----------------------------------------------------------------------------------------
-target,version,patch,code,state,class
 Ash Fork,1.43,,az_ashfork,arizona,city
 Bitter Springs,1.43,,az_bitterspr,arizona,city
 Cameron,1.43,,az_cameron,arizona,city
@@ -162,14 +163,18 @@ US-167 @ AR 335,1.51,0.41,ar_167x335,arkansas,junction
 Abbotsford,1.59,0.317,bc_abbotsfor,britishcolumbia,city
 Alexis Creek,1.60,0.71,bc_alexisck,britishcolumbia,city
 Anahim Lake,1.61,0.228,bc_anahim,britishcolumbia,city
+Avola,1.62,0.4,bc_avola,britishcolumbia,city
 Bella Coola,1.60,0.71,bc_bellac,britishcolumbia,city
+Blue River,1.62,0.4,bc_blueriv,britishcolumbia,city
 Burns Lake,1.59,0.317,bc_burnslk,britishcolumbia,city
 Cache Creek,1.61,700.26,bc_cacheck,britishcolumbia,city
+Clearwater,1.62,0.4,bc_clearwtr,britishcolumbia,city
 Clinton,1.61,700.26,bc_clinton,britishcolumbia,city
 Cranbrook,1.59,0.317,bc_cranbrook,britishcolumbia,city
 Creston,1.59,0.317,bc_creston,britishcolumbia,city
 Duffey Lake,1.61,700.26,bc_duffeylk,britishcolumbia,city
 Elko,1.61,700.26,bc_elko,britishcolumbia,city
+Fauquier,1.62,0.4,bc_faquier,britishcolumbia,city
 Fernie,1.59,0.317,bc_fernie,britishcolumbia,city
 Fraser Lake,1.59,0.317,bc_fraslake,britishcolumbia,city
 Grand Forks,1.43,,bc_grandfork,britishcolumbia,city
@@ -180,19 +185,29 @@ Kamloops,1.61,700.26,bc_kamloops,britishcolumbia,city
 Kelowna,1.60,0.71,bc_kelowna,britishcolumbia,city
 Kitwanga,1.59,0.317,bc_kitwanga,britishcolumbia,city
 Lillooet,1.61,700.26,bc_lillooet,britishcolumbia,city
+McBride,1.62,0.4,bc_mcbride,britishcolumbia,city
+Nakusp,1.62,0.4,bc_nakusp,britishcolumbia,city
+Needles Ferry,1.62,0.4,bc_needlesfy,britishcolumbia,city
+Nelson,1.62,0.4,bc_nelson,britishcolumbia,city
+Nelway,1.62,0.4,bc_nelway,britishcolumbia,city
 New Hazelton,1.59,0.317,bc_newhazlet,britishcolumbia,city
 Nimpo Lake,1.60,0.71,bc_nimpo,britishcolumbia,city
 Osoyoos,1.59,0.317,bc_osoyoos,britishcolumbia,city
 Penticton,1.43,,bc_penticton,britishcolumbia,city
 Prince George,1.59,0.317,bc_pgeorge,britishcolumbia,city
-Princeton,1.59,0.317,bc_princeton,britishcolumbia,city
 Prince Rupert,1.59,0.317,bc_prrupert,britishcolumbia,city
+Princeton,1.59,0.317,bc_princeton,britishcolumbia,city
+Revelstoke,1.62,0.4,bc_revels,britishcolumbia,city
 Salmo,1.59,0.317,bc_salmo,britishcolumbia,city
 Smithers,1.59,0.317,bc_smithers,britishcolumbia,city
 Squamish,1.61,700.26,bc_squamish,britishcolumbia,city
 Sparwood,1.59,0.317,bc_sparwood,britishcolumbia,city
 Terrace,1.59,0.317,bc_terrace,britishcolumbia,city
+Tête Jaune Cache,1.62,0.4,bc_tetejaune,britishcolumbia,city
+Upper Arrow Lake Ferry,1.62,0.4,bc_uparolkfy,britishcolumbia,city
+Valemount,1.62,0.4,bc_valemount,britishcolumbia,city
 Vancouver,1.43,,bc_vancouver,britishcolumbia,city
+Vernon,1.62,0.4,bc_vernon bc_vernonus6,britishcolumbia,city
 Whistler,1.61,700.26,bc_whistler,britishcolumbia,city
 Williams Lake,1.60,0.71,bc_williamsl,britishcolumbia,city
 West Kelowna,1.60,0.71,bc_wkelowna,britishcolumbia,city
@@ -200,6 +215,7 @@ West Kelowna,1.60,0.71,bc_wkelowna,britishcolumbia,city
 US-93,1.59,0.317,can_usa_93,britishcolumbia,border
 US-95,1.44,,id_us95can,britishcolumbia,border
 
+Hwy 3 @ Hwy 6,1.62,0.4,bc_hw3xhw6,britishcolumbia,junction
 Hwy 97 @ Hwy 99,1.61,700.26,bc_hw97x99,britishcolumbia,junction
 
 # CALIFORNIA ----------------------------------------------------------------------------------------
@@ -496,8 +512,11 @@ IL 1 @ IL 13,1.57,0.46,il_il1xil13,illinois,junction
 Angola,1.61,0.228,in_angola,indiana,city
 Fort Wayne,1.61,0.228,in_ftwayne,indiana,city
 Indianapolis,1.61,0.228,in_indy,indiana,city
+Lafayette,1.62,0.4,in_lafayette,indiana,city
+Merrillville,1.62,0.4,in_merrillv,indiana,city
 
-I-69 @ I-90,1.61,0.228,il_i69xi90,indiana,junction
+I-69 @ I-90,1.61,0.228,in_i69xi90 in_i90xi69,indiana,junction
+I-74 @ US-41,1.62,0.4,in_i74xus41,indiana,junction
 
 # IOWA ----------------------------------------------------------------------------------------
 Algona,1.54,0.53,ia_algona,iowa,city

@@ -1,5 +1,12 @@
 # Changelog
 
+## v62
+
+### 62.1
+For ATS v<span style="color:orange;"><b>1.62 OB</b></span> and ETS2 v<span style="color:orange;"><b>1.61</b></span>: 2026.10.20
+- Updated mileage targets for ATS v1.62:
+    - [Alberta](ats/alberta.md), [British Columbia](ats/britishcolumbia.md), and [Indiana](ats/indiana.md)
+
 ## v61
 
 ### 61.8
