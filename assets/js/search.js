@@ -42,7 +42,7 @@
         { path: 'ets2/goingeast.md', title: 'Going East!', game: 'ETS2' },
         { path: 'ets2/greece.md', title: 'Greece', game: 'ETS2' },
         { path: 'ets2/heart-of-russia.md', title: 'Heart of Russia', game: 'ETS2' },
-        { path: 'ets2/iceland.md', title: 'Iceland', game: 'ETS2' },
+        { path: 'ets2/iceland.md', title: 'Iceland', game: 'ETS2' }, 
         { path: 'ets2/iberia.md', title: 'Iberia', game: 'ETS2' },
         { path: 'ets2/italy.md', title: 'Italia', game: 'ETS2' },
         { path: 'ets2/nordic-horizons.md', title: 'Nordic Horizons', game: 'ETS2' },
