@@ -2,6 +2,15 @@
 
 ## v62
 
+### 62.2
+For ATS/ETS2 v<span style="color:orange;"><b>1.62 OB </b></span>: 2026.10.22
+- Updated mileage targets for ETS2 v1.62:
+    - [Iceland](ets2/iceland.md).
+- Created a new page for [Iceland](ets2/iceland.md) and added it to the front page map and side navigation.
+- Fixed the zooming buttons on images to match the speed of scrolling.
+- Fixed a visual bug where the search bar would extend too far towards the navigation buttons/site logo on mid-sized monitors (i.e. laptops).
+- Minor tweaks and additions to the ATS full map (primarily for Road Trip 1.62 updates).
+
 ### 62.1
 For ATS v<span style="color:orange;"><b>1.62 OB</b></span> and ETS2 v<span style="color:orange;"><b>1.61</b></span>: 2026.10.20
 - Updated mileage targets for ATS v1.62:

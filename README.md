@@ -301,6 +301,11 @@
                points="1383,89,1407,88,1460,110,1444,132,1424,135,1468,143,1470,154,1454,150,1433,224,1447,245,1478,264,1468,310,1511,370,1515,419,1543,455,1538,474,1587,509,1583,535,1537,634,1508,626,1456,628,1400,607,1353,622,1337,579,1331,542,1340,538,1349,540,1403,443,1397,433,1411,427,1404,402,1372,396,1344,404,1323,465,1334,483,1317,518,1262,577,1250,613,1250,689,1293,718,1190,731,1129,713,1054,727,974,711,924,727,920,685,938,620,992,578,1016,550,1057,526,1095,471,1119,402,1158,328,1168,292,1199,271,1145,292,1116,313,1142,281,1167,267,1150,261,1185,223,1183,247,1207,243,1200,218,1217,201,1236,163,1281,159,1301,145,1287,134,1315,116,1320,123,1361,92,1350,147,1370,96,1376,128">
           </polygon>
      </a>
+     <a href="#/ets2/iceland">
+          <polygon class="state" data-name="Iceland" data-type="mileage" data-flags="isl"
+               points="348,225,359,235,370,268,359,282,360,301,377,286,383,294,398,269,403,294,412,281,429,278,435,302,439,286,448,297,477,296,481,281,492,283,499,305,518,298,503,315,513,320,504,334,526,353,520,377,492,400,426,419,407,415,386,425,343,404,328,377,293,363,295,345,301,358,314,354,322,320,286,306,288,294,339,306,327,296,346,286,297,260,333,234,345,258,341,232">
+          </polygon>
+     </a>
   </svg>
 </div>
 
@@ -316,7 +321,7 @@
 <div style="background:#111; border:1px solid #333; padding:7px 12px; margin-bottom:20px; font-size:0.85em; text-align:center;">
 <span>Updated: </span>
 <strong style="font-family:'Orbitron',sans-serif;color:#D4AF37;">v1.62 OB</strong>
-<span style="color:#777;">· Released Oct 20</span>
+<span style="color:#777;">· Released Oct 22</span>
 </div>
 
 <div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
@@ -344,7 +349,11 @@
 <div style="margin:5px 0 12px 15px;"><a href="ets2/ets2base.md?id=🇬🇧-united-kingdom" style="color:#D4AF37">United Kingdom</a></div>
 <hr style="border:0; border-top:1px solid #333; margin:12px 0;">
 <span style="color:#4ea3ff;">●</span> <strong>Announced:</strong>
-<div style="margin:8px 0 0 15px;">Iceland<br>Ireland<br>Soul of Anatolia</div>
+     <div style="display:flex; flex-direction:column; gap:5px; margin-top:8px; margin-left:15px">
+       <a href="#/ets2/iceland" style="color:#D4AF37">Iceland</a>
+       <a>Isle of Ireland</a>
+       <a>Soul of Anatolia</a>
+    </div>
 </div>
 </div>
 
@@ -360,7 +369,7 @@
 <div style="border:1px solid #444; background:#151515; margin-bottom:20px;">
   <div style="background:#333; color:#D4AF37; padding:8px 12px; font-weight:bold; font-size:0.8em; font-family:'Orbitron'; letter-spacing:1px;">RECENTLY UPDATED — ETS2</div>
   <div style="padding:15px; font-size:0.85em; display:flex; flex-direction:column; gap:7px;">
-  <span>No updates for v1.61.</span>
+     <a href="#/ets2/iceland" style="color:#D4AF37">Iceland</a>
   </div>
 </div>
 

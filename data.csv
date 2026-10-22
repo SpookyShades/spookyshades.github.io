@@ -1811,6 +1811,24 @@ Kecskemét,1.43,,hu_kecskemet,hungary,city
 Pécs,1.43,,hu_pecs,hungary,city
 Szeged,1.43,,hu_szeged,hungary,city
 
+# ICELAND ----------------------------------------------------------------------------------------
+Akureyri,1.62,0.2,is_akureyri,iceland,city
+Blönduós,1.62,0.2,is_blonduos,iceland,city
+Borgarnes,1.62,0.2,is_borgarnes,iceland,city
+Egilsstaðir,1.62,0.2,is_egilsstad,iceland,city
+Höfn,1.62,0.2,is_hofn,iceland,city
+Hólmavík,1.62,0.2,is_holmavik,iceland,city
+Húsavík,1.62,0.2,is_husavik,iceland,city
+Ísafjörður,1.62,0.2,is_isafjordu,iceland,city
+Keflavík,1.62,0.2,is_keflavik,iceland,city
+Ólafsvík,1.62,0.2,is_olafsvik,iceland,city
+Patreksfjörður,1.62,0.2,is_patreksfj,iceland,city
+Reyðarfjörður,1.62,0.2,is_reyjdarfj,iceland,city
+Reykjavík,1.62,0.2,is_reykjavik,iceland,city
+Selfoss,1.62,0.2,is_selfoss,iceland,city
+Seyðisfjörður,1.62,0.2,is_seydisfjo,iceland,city
+Þórshöfn,1.62,0.2,is_thorshofn,iceland,city
+
 # ITALY ----------------------------------------------------------------------------------------
 Ancona,1.43,,it_ancona,italy,city
 Aosta,1.47,,it_aosta,italy,city

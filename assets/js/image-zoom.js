@@ -55,7 +55,8 @@
         zoomInBtn.textContent = '+';
         zoomInBtn.addEventListener('click', function (e) {
             e.stopPropagation();
-            zoomAt(scale + CONFIG.keyboardStep, window.innerWidth / 2, window.innerHeight / 2);
+            const step = CONFIG.keyboardStep * Math.max(1, scale);
+            zoomAt(scale + step, window.innerWidth / 2, window.innerHeight / 2);
         });
 
         const zoomOutBtn = document.createElement('button');
@@ -65,7 +66,8 @@
         zoomOutBtn.textContent = '−';
         zoomOutBtn.addEventListener('click', function (e) {
             e.stopPropagation();
-            zoomAt(scale - CONFIG.keyboardStep, window.innerWidth / 2, window.innerHeight / 2);
+            const step = CONFIG.keyboardStep * Math.max(1, scale);
+            zoomAt(scale - step, window.innerWidth / 2, window.innerHeight / 2);
         });
 
         controls.appendChild(zoomInBtn);
@@ -83,7 +85,7 @@
 
     function apply() {
         if (!image) return;
-        image.style.transform = `translate3d(${x}px, ${y}px, 0) scale(${scale})`;
+        image.style.transform = `translate(${x}px, ${y}px) scale(${scale})`;
     }
 
     function clamp() {
@@ -229,10 +231,12 @@
 
         if (event.key === '+' || event.key === '=') {
             event.preventDefault();
-            zoomAt(scale + CONFIG.keyboardStep, window.innerWidth / 2, window.innerHeight / 2);
+            const step = CONFIG.keyboardStep * Math.max(1, scale);
+            zoomAt(scale + step, window.innerWidth / 2, window.innerHeight / 2);
         } else if (event.key === '-' || event.key === '_') {
             event.preventDefault();
-            zoomAt(scale - CONFIG.keyboardStep, window.innerWidth / 2, window.innerHeight / 2);
+            const step = CONFIG.keyboardStep * Math.max(1, scale);
+            zoomAt(scale - step, window.innerWidth / 2, window.innerHeight / 2);
         } else if (event.key === '0') {
             event.preventDefault();
             scale = 1;
@@ -252,16 +256,27 @@
         image = source.cloneNode(true);
         image.className = 'zoomed-image';
 
-        // Strip attributes and inline styling so the cloned image doesn't fill the overlay
-        image.removeAttribute('width');
-        image.removeAttribute('height');
+        const naturalW = source.naturalWidth || source.width;
+        const naturalH = source.naturalHeight || source.height;
+
         image.removeAttribute('style');
+
+        image.width = naturalW;
+        image.height = naturalH;
 
         overlay.appendChild(image);
         overlay.classList.add('visible');
         document.body.classList.add('image-zoom-open');
 
-        scale = CONFIG.initialScale;
+        const maxW = window.innerWidth - 40;
+        const maxH = window.innerHeight - 40;
+
+        const fitScale = Math.min(1, maxW / naturalW, maxH / naturalH);
+
+        CONFIG.minScale = fitScale * 0.5;
+        CONFIG.maxScale = Math.max(10, (naturalW / maxW) * 4);
+
+        scale = fitScale;
         x = 0;
         y = 0;
 

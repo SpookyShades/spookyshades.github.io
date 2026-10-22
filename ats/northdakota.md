@@ -3,7 +3,7 @@
 
 ## Maps
 
-### 1.61 (post-South Dakota)
+### 1.61 (post-South Dakota) to 1.62
 <img alt="1.61 ND" 
      src="assets\img\statemaps\1.61 ND 2.png"
      style="max-width: 100%; height: auto; width: auto; display: block;">

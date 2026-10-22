@@ -43,6 +43,7 @@
 * [Going East!](ets2/goingeast.md)
 * [Greece](ets2/greece.md)
 * [Heart of Russia](ets2/heart-of-russia.md)
+* [Iceland](ets2/iceland.md)
 * [Iberia](ets2/iberia.md)
 * [Italia](ets2/italy.md)
 * [Nordic Horizons](ets2/nordic-horizons.md)
